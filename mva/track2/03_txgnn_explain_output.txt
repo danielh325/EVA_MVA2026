@@ -1,0 +1,36 @@
+GraphMask gates, target edges only, no side-effect edges: 105,672 nodes, 1,026,072 edges
+MVA: 112 neighbours
+
+Dasatinib: 1,194 simple paths through a gene (1,262 in all); top 6:
+    0.4983  4 edges  mosaic variegated aneuploidy syndrome -[disease_disease]- neoplastic syndrome -[disease_disease]- Richter syndrome -[disease_protein]- BTK -[drug_protein]- Dasatinib
+    0.4234  4 edges  mosaic variegated aneuploidy syndrome -[disease_disease]- chromosomal anomaly -[disease_disease]- Prader-Willi syndrome -[disease_protein]- EPHA2 -[drug_protein]- Dasatinib
+    0.4015  4 edges  mosaic variegated aneuploidy syndrome -[disease_disease]- polymalformative genetic syndrome with increased risk of developing cancer -[disease_disease]- Noonan syndrome -[disease_protein]- EPHA2 -[drug_protein]- Dasatinib
+    0.4007  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[disease_phenotype_positive]- polycystic kidney disease -[disease_protein]- SRC -[drug_protein]- Dasatinib
+    0.3857  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[disease_phenotype_positive]- primary biliary cholangitis -[disease_protein]- MAPK14 -[drug_protein]- Dasatinib
+    0.3667  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[disease_phenotype_positive]- Reynolds syndrome -[disease_protein]- MAPK14 -[drug_protein]- Dasatinib
+
+Hydroxychloroquine: 226 simple paths through a gene (430 in all); top 6:
+    0.1796  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB1 -[disease_protein]- colorectal cancer -[disease_protein]- TLR9 -[drug_protein]- Hydroxychloroquine
+    0.1673  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB1B -[disease_protein]- colorectal cancer -[disease_protein]- TLR9 -[drug_protein]- Hydroxychloroquine
+    0.1656  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Seizure -[phenotype_protein]- POMC -[disease_protein]- substance abuse/dependence -[contraindication]- Hydroxychloroquine
+    0.1572  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB1B -[protein_protein]- ETS1 -[disease_protein]- pediatric systemic lupus erythematosus -[indication]- Hydroxychloroquine
+    0.1569  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB1 -[protein_protein]- ETS1 -[disease_protein]- pediatric systemic lupus erythematosus -[indication]- Hydroxychloroquine
+    0.1546  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB1B -[protein_protein]- ETS1 -[disease_protein]- systemic lupus erythematosus (disease) -[indication]- Hydroxychloroquine
+
+Chloroquine: 562 simple paths through a gene (892 in all); top 6:
+    0.5523  4 edges  mosaic variegated aneuploidy syndrome -[disease_disease]- neoplastic syndrome -[disease_disease]- Zollinger-Ellison syndrome -[disease_protein]- TNF -[drug_protein]- Chloroquine
+    0.3932  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[disease_phenotype_positive]- Reynolds syndrome -[disease_protein]- TNF -[drug_protein]- Chloroquine
+    0.3835  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Colon cancer -[disease_phenotype_positive]- familial pancreatic carcinoma -[disease_protein]- TNF -[drug_protein]- Chloroquine
+    0.3695  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Abnormality of the skeletal system -[disease_phenotype_positive]- Raynaud disease -[disease_protein]- GSTM1 -[drug_protein]- Chloroquine
+    0.3677  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB1 -[disease_protein]- pediatric hepatocellular carcinoma -[disease_protein]- TNF -[drug_protein]- Chloroquine
+    0.3528  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB1 -[disease_protein]- squamous cell carcinoma of liver and intrahepatic biliary tract -[disease_protein]- TNF -[drug_protein]- Chloroquine
+
+Paclitaxel: 1,625 simple paths through a gene (1,926 in all); top 6:
+    0.4709  4 edges  mosaic variegated aneuploidy syndrome -[disease_disease]- neoplastic syndrome -[disease_disease]- Richter syndrome -[disease_protein]- BCL2 -[drug_protein]- Paclitaxel
+    0.3390  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Autosomal recessive inheritance -[disease_phenotype_positive]- monogenic obesity -[disease_protein]- NR1I2 -[drug_protein]- Paclitaxel
+    0.3366  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB1 -[cellcomp_protein]- nucleoplasm -[cellcomp_protein]- NR1I2 -[drug_protein]- Paclitaxel
+    0.3353  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB1 -[cellcomp_protein]- nucleoplasm -[cellcomp_protein]- BCL2 -[drug_protein]- Paclitaxel
+    0.3277  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB3 -[cellcomp_protein]- nucleoplasm -[cellcomp_protein]- NR1I2 -[drug_protein]- Paclitaxel
+    0.3265  4 edges  mosaic variegated aneuploidy syndrome -[disease_protein]- BUB3 -[cellcomp_protein]- nucleoplasm -[cellcomp_protein]- BCL2 -[drug_protein]- Paclitaxel
+
+wrote <data>/new/03_explanations.tsv

@@ -1,0 +1,32 @@
+collected 600 human SINGLE PROTEIN targets
+  20 qualifying targets (33 checked)
+  40 qualifying targets (56 checked)
+  60 qualifying targets (85 checked)
+  80 qualifying targets (109 checked)
+  100 qualifying targets (142 checked)
+  120 qualifying targets (180 checked)
+  140 qualifying targets (207 checked)
+  160 qualifying targets (261 checked)
+  180 qualifying targets (304 checked)
+  200 qualifying targets (340 checked)
+
+=== 200 human targets with >=50 assays ===
+  targets with ZERO activation assays : 117 (58.5%)
+  targets with <1% activation assays  : 164 (82.0%)
+  pooled activation assays            : 728
+  pooled inhibition assays            : 46168
+  pooled inhibition:activation ratio  : 63.4 : 1
+
+  most activation-rich targets:
+     18.7%     20/107    Sodium channel protein type 1 subunit alpha
+     16.4%     26/159    Leukotriene A-4 hydrolase
+     15.1%     50/332    Caspase-3
+      8.3%     59/712    Retinoic acid receptor RXR-alpha
+      7.1%      6/84     Carbonic anhydrase 6
+      6.5%     36/556    Vitamin D3 receptor
+      5.6%      4/71     Aldehyde dehydrogenase, mitochondrial
+      5.2%      5/96     Carbonic anhydrase 3
+      5.0%     93/1845   Peroxisome proliferator-activated receptor gamma
+      3.9%      2/51     Caspase-2
+      3.5%      6/171    Glucagon receptor
+      3.4%      4/116    Vasopressin V1b receptor

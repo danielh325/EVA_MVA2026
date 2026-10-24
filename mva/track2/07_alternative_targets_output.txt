@@ -1,0 +1,46 @@
+
+CREBBP - writes the K668 acetyl mark; needs a lowerer
+  2 ligand(s)
+    useful direction    1: PRI-724 (inhibitor)
+    direction unknown   1: CHEMBL1236441 (target)
+
+EP300 - writes the K668 acetyl mark; needs a lowerer
+  0 ligand(s)
+
+SIRT2 - erases the K668 acetyl mark; needs a raiser
+  1 ligand(s)
+    direction unknown   1: CAMBINOL (target)
+
+NAMPT - rate-limiting step of NAD+ salvage; needs a raiser
+  4 ligand(s)
+    direction unknown   1: GMX1777 (target)
+    wrong direction     3: DAPORINAD (inhibitor), TEGLARINAD (inhibitor), TEGLARINAD CHLORIDE (inhibitor)
+
+NMNAT1 - NAD+ synthesis; needs a raiser
+  2 ligand(s)
+    direction unknown   2: Deamido-Nad+ (target), Nicotinamide Mononucleotide (target)
+
+FZR1 - APC/C-Cdh1 adaptor that degrades BubR1; needs a lowerer
+  0 ligand(s)
+
+HSP90AA1 - chaperone for a fold-defective client; needs a raiser
+  56 ligand(s)
+    direction unknown  46: 3-({2-[(2-AMINO-6-METHYLPYRIMIDIN-4-YL)ETHYNYL]BENZYL}AMINO)-1,3-OXAZOL-2(3H)-ONE (target), 4-methyl-7,8-dihydro-5H-thiopyrano[4,3-d]pyrimidin-2-amine (target), 6-(3-BROMO-2-NAPHTHYL)-1,3,5-TRIAZINE-2,4-DIAMINE (target), CCT018159 (target), CHEMBL109612 (target), CHEMBL109822 (target), CHEMBL112834 (target), CHEMBL112896 (target) ... +38
+    wrong direction    10: ALVESPIMYCIN (inhibitor), BIIB021 (inhibitor), CD24FC (inhibitor), GANETESPIB (inhibitor), LUMINESPIB (inhibitor), ONALESPIB (inhibitor), RETASPIMYCIN (inhibitor), RETASPIMYCIN HYDROCHLORIDE (inhibitor) ... +2
+
+SMG1 - NMD kinase; blocking it spares the nonsense transcript; needs a lowerer
+  0 ligand(s)
+
+UPF1 - NMD core helicase; needs a lowerer
+  0 ligand(s)
+
+summary: ligands / with a label pointing the useful way
+  CREBBP     2 / 1
+  EP300      0 / 0
+  SIRT2      1 / 0
+  NAMPT      4 / 0
+  NMNAT1     2 / 0
+  FZR1       0 / 0
+  HSP90AA1  56 / 0
+  SMG1       0 / 0
+  UPF1       0 / 0

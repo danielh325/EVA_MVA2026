@@ -1,0 +1,44 @@
+{
+ "predictor": "DDMut (Zhou 2023), public REST API",
+ "structure": "AF-O60566-F1-model_v6.pdb",
+ "chain": "A",
+ "convention": "negative ddG = destabilising",
+ "rows": [
+  {
+   "variant": "K795A",
+   "class": "destabilised",
+   "ddG": null,
+   "evidence": "denaturation 34.7 C vs 39.1 C WT"
+  },
+  {
+   "variant": "I909T",
+   "class": "destabilised",
+   "ddG": null,
+   "evidence": "5-10 fold protein loss"
+  },
+  {
+   "variant": "L1012P",
+   "class": "destabilised",
+   "ddG": null,
+   "evidence": "5-10 fold protein loss"
+  },
+  {
+   "variant": "Y155C",
+   "class": "tolerated",
+   "ddG": null,
+   "evidence": "protein level unaffected"
+  },
+  {
+   "variant": "R550Q",
+   "class": "tolerated",
+   "ddG": null,
+   "evidence": "protein level unaffected"
+  },
+  {
+   "variant": "N1002K",
+   "class": "QUERY",
+   "ddG": null,
+   "evidence": "never assayed"
+  }
+ ]
+}

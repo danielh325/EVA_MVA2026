@@ -1,0 +1,37 @@
+fetching human BubR1 and homologues from UniProt ...
+  O60566  1050 aa
+  59 homologues retrieved
+aligning homologues to human BubR1 locally (Biopython) ...
+  60 sequences in human coordinates (59 homologues aligned)
+  profile built: 1050 positions
+  all six wild-type residues match the profile sequence
+
+=== DDGun (untrained) ddG against the measured calibration set ===
+variant   class                ddG   evidence
+--------------------------------------------------------------------------
+K795A     destabilised       +0.04   denaturation 34.7 C vs 39.1 C WT
+I909T     destabilised       -4.41   5-10 fold protein loss
+L1012P    destabilised       -4.44   5-10 fold protein loss
+Y155C     tolerated          -4.71   protein level unaffected
+R550Q     tolerated          -0.61   protein level unaffected
+N1002K    QUERY              -1.70   never assayed
+
+=== does it order what we already know? ===
+  destabilised  ['+0.04', '-4.41', '-4.44']
+  tolerated     ['-4.71', '-0.61']
+  separates the measured classes: NO
+  -> it cannot order the alleles whose behaviour is known, so
+     its number for the query carries no weight. Reported.
+
+=== the query ===
+  N1002K  ddG = -1.70 kcal/mol
+  destabilised span -4.44 to +0.04; tolerated span -4.71 to -0.61
+  the query falls INSIDE the measured-destabilising span - but the separation test FAILED, so this placement is not evidence
+
+  wrote 26_ddgun_stability_results.json and 26_bub1b_msa.tsv
+
+  STANDING LIMITS. ddG is thermodynamic folding stability, not the
+  steady-state abundance in a dividing cell that the report actually needs;
+  chaperone availability and proteasome flux are not modelled. Profile
+  methods degrade on long multi-domain proteins with disordered regions,
+  which BubR1 is. This moves a prior. It does not replace E0.

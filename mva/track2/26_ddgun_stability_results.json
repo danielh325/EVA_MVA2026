@@ -1,0 +1,46 @@
+{
+ "predictor": "DDGun seq (Montanucci 2019), untrained",
+ "convention": "negative ddG = destabilising",
+ "uniprot": "O60566",
+ "msa_sequences": 60,
+ "profile_positions": 1050,
+ "separates_measured_classes": false,
+ "rows": [
+  {
+   "variant": "K795A",
+   "class": "destabilised",
+   "ddG": 0.04118333333333335,
+   "evidence": "denaturation 34.7 C vs 39.1 C WT"
+  },
+  {
+   "variant": "I909T",
+   "class": "destabilised",
+   "ddG": -4.410066666666667,
+   "evidence": "5-10 fold protein loss"
+  },
+  {
+   "variant": "L1012P",
+   "class": "destabilised",
+   "ddG": -4.4405833333333335,
+   "evidence": "5-10 fold protein loss"
+  },
+  {
+   "variant": "Y155C",
+   "class": "tolerated",
+   "ddG": -4.709716666666667,
+   "evidence": "protein level unaffected"
+  },
+  {
+   "variant": "R550Q",
+   "class": "tolerated",
+   "ddG": -0.6097499999999999,
+   "evidence": "protein level unaffected"
+  },
+  {
+   "variant": "N1002K",
+   "class": "QUERY",
+   "ddG": -1.6955666666666664,
+   "evidence": "never assayed"
+  }
+ ]
+}

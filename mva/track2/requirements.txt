@@ -1,0 +1,17 @@
+# Track 2. Versions are the ones the committed outputs were produced with.
+
+# 01-07 (graph scripts), run on Python 3.12.15
+TxGNN==0.0.3
+torch==2.3.0
+dgl==2.2.1
+pandas==3.1.0
+polars==2.0.0
+numpy==2.5.4
+scipy==1.18.1
+optimuskg==1.0.0
+requests==2.34.2
+
+# 09-26 (public APIs, figures, structure), run on Python 3.13.11; the rest is stdlib
+matplotlib==3.10.8
+biopython==1.88
+# 26 also imports DDGun (github.com/biofold/ddgun), which must be importable as `ddgun`

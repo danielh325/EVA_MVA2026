@@ -1,0 +1,1402 @@
+[
+ {
+  "target": "CHEMBL2074",
+  "name": "Maltase-glucoamylase",
+  "assays": 117,
+  "activation": 0,
+  "inhibition": 78
+ },
+ {
+  "target": "CHEMBL1827",
+  "name": "cGMP-specific 3',5'-cyclic phosphodiesterase",
+  "assays": 452,
+  "activation": 0,
+  "inhibition": 357
+ },
+ {
+  "target": "CHEMBL1859",
+  "name": "Voltage-dependent T-type calcium channel subunit alpha-1H",
+  "assays": 109,
+  "activation": 0,
+  "inhibition": 84
+ },
+ {
+  "target": "CHEMBL202",
+  "name": "Dihydrofolate reductase",
+  "assays": 457,
+  "activation": 0,
+  "inhibition": 250
+ },
+ {
+  "target": "CHEMBL1862",
+  "name": "Tyrosine-protein kinase ABL1",
+  "assays": 2768,
+  "activation": 1,
+  "inhibition": 1818
+ },
+ {
+  "target": "CHEMBL203",
+  "name": "Epidermal growth factor receptor",
+  "assays": 5966,
+  "activation": 0,
+  "inhibition": 4531
+ },
+ {
+  "target": "CHEMBL204",
+  "name": "Prothrombin",
+  "assays": 1209,
+  "activation": 0,
+  "inhibition": 575
+ },
+ {
+  "target": "CHEMBL1801",
+  "name": "Plasminogen",
+  "assays": 480,
+  "activation": 0,
+  "inhibition": 213
+ },
+ {
+  "target": "CHEMBL205",
+  "name": "Carbonic anhydrase 2",
+  "assays": 1177,
+  "activation": 33,
+  "inhibition": 836
+ },
+ {
+  "target": "CHEMBL206",
+  "name": "Estrogen receptor",
+  "assays": 1860,
+  "activation": 26,
+  "inhibition": 157
+ },
+ {
+  "target": "CHEMBL2000",
+  "name": "Plasma kallikrein",
+  "assays": 294,
+  "activation": 0,
+  "inhibition": 180
+ },
+ {
+  "target": "CHEMBL402",
+  "name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+  "assays": 140,
+  "activation": 0,
+  "inhibition": 77
+ },
+ {
+  "target": "CHEMBL2034",
+  "name": "Glucocorticoid receptor",
+  "assays": 1158,
+  "activation": 15,
+  "inhibition": 133
+ },
+ {
+  "target": "CHEMBL1952",
+  "name": "Thymidylate synthase",
+  "assays": 367,
+  "activation": 0,
+  "inhibition": 149
+ },
+ {
+  "target": "CHEMBL1935",
+  "name": "Aldehyde dehydrogenase, mitochondrial",
+  "assays": 71,
+  "activation": 4,
+  "inhibition": 41
+ },
+ {
+  "target": "CHEMBL1981",
+  "name": "Insulin receptor",
+  "assays": 954,
+  "activation": 9,
+  "inhibition": 718
+ },
+ {
+  "target": "CHEMBL208",
+  "name": "Progesterone receptor",
+  "assays": 642,
+  "activation": 8,
+  "inhibition": 60
+ },
+ {
+  "target": "CHEMBL209",
+  "name": "Serine protease 1",
+  "assays": 290,
+  "activation": 0,
+  "inhibition": 24
+ },
+ {
+  "target": "CHEMBL210",
+  "name": "Beta-2 adrenergic receptor",
+  "assays": 888,
+  "activation": 1,
+  "inhibition": 104
+ },
+ {
+  "target": "CHEMBL211",
+  "name": "Muscarinic acetylcholine receptor M2",
+  "assays": 1039,
+  "activation": 2,
+  "inhibition": 147
+ },
+ {
+  "target": "CHEMBL1994",
+  "name": "Mineralocorticoid receptor",
+  "assays": 286,
+  "activation": 3,
+  "inhibition": 13
+ },
+ {
+  "target": "CHEMBL213",
+  "name": "Beta-1 adrenergic receptor",
+  "assays": 671,
+  "activation": 1,
+  "inhibition": 97
+ },
+ {
+  "target": "CHEMBL214",
+  "name": "5-hydroxytryptamine receptor 1A",
+  "assays": 1707,
+  "activation": 0,
+  "inhibition": 172
+ },
+ {
+  "target": "CHEMBL1867",
+  "name": "Alpha-2A adrenergic receptor",
+  "assays": 619,
+  "activation": 1,
+  "inhibition": 108
+ },
+ {
+  "target": "CHEMBL1828",
+  "name": "DNA polymerase alpha catalytic subunit",
+  "assays": 73,
+  "activation": 0,
+  "inhibition": 47
+ },
+ {
+  "target": "CHEMBL215",
+  "name": "Polyunsaturated fatty acid 5-lipoxygenase",
+  "assays": 837,
+  "activation": 3,
+  "inhibition": 574
+ },
+ {
+  "target": "CHEMBL1871",
+  "name": "Androgen receptor",
+  "assays": 1637,
+  "activation": 10,
+  "inhibition": 214
+ },
+ {
+  "target": "CHEMBL2055",
+  "name": "Retinoic acid receptor alpha",
+  "assays": 318,
+  "activation": 8,
+  "inhibition": 28
+ },
+ {
+  "target": "CHEMBL1860",
+  "name": "Thyroid hormone receptor alpha",
+  "assays": 113,
+  "activation": 1,
+  "inhibition": 7
+ },
+ {
+  "target": "CHEMBL216",
+  "name": "Muscarinic acetylcholine receptor M1",
+  "assays": 1200,
+  "activation": 4,
+  "inhibition": 142
+ },
+ {
+  "target": "CHEMBL1781",
+  "name": "DNA topoisomerase 1",
+  "assays": 1196,
+  "activation": 0,
+  "inhibition": 834
+ },
+ {
+  "target": "CHEMBL1806",
+  "name": "DNA topoisomerase 2-alpha",
+  "assays": 1133,
+  "activation": 0,
+  "inhibition": 931
+ },
+ {
+  "target": "CHEMBL1977",
+  "name": "Vitamin D3 receptor",
+  "assays": 556,
+  "activation": 36,
+  "inhibition": 51
+ },
+ {
+  "target": "CHEMBL1978",
+  "name": "Aromatase",
+  "assays": 723,
+  "activation": 1,
+  "inhibition": 482
+ },
+ {
+  "target": "CHEMBL2002",
+  "name": "Inosine-5'-monophosphate dehydrogenase 2",
+  "assays": 94,
+  "activation": 0,
+  "inhibition": 54
+ },
+ {
+  "target": "CHEMBL1808",
+  "name": "Angiotensin-converting enzyme",
+  "assays": 281,
+  "activation": 0,
+  "inhibition": 152
+ },
+ {
+  "target": "CHEMBL1782",
+  "name": "Farnesyl pyrophosphate synthase",
+  "assays": 182,
+  "activation": 0,
+  "inhibition": 118
+ },
+ {
+  "target": "CHEMBL217",
+  "name": "D(2) dopamine receptor",
+  "assays": 2481,
+  "activation": 2,
+  "inhibition": 201
+ },
+ {
+  "target": "CHEMBL1973",
+  "name": "Tyrosinase",
+  "assays": 205,
+  "activation": 0,
+  "inhibition": 117
+ },
+ {
+  "target": "CHEMBL1962",
+  "name": "Gamma-aminobutyric acid receptor subunit alpha-1",
+  "assays": 108,
+  "activation": 1,
+  "inhibition": 13
+ },
+ {
+  "target": "CHEMBL1908",
+  "name": "Cytochrome P450 11B1, mitochondrial",
+  "assays": 113,
+  "activation": 0,
+  "inhibition": 84
+ },
+ {
+  "target": "CHEMBL1812",
+  "name": "Pancreatic triacylglycerol lipase",
+  "assays": 65,
+  "activation": 0,
+  "inhibition": 38
+ },
+ {
+  "target": "CHEMBL1787",
+  "name": "3-oxo-5-alpha-steroid 4-dehydrogenase 1",
+  "assays": 103,
+  "activation": 0,
+  "inhibition": 45
+ },
+ {
+  "target": "CHEMBL1902",
+  "name": "Peptidyl-prolyl cis-trans isomerase FKBP1A",
+  "assays": 111,
+  "activation": 1,
+  "inhibition": 22
+ },
+ {
+  "target": "CHEMBL1951",
+  "name": "Amine oxidase [flavin-containing] A",
+  "assays": 1213,
+  "activation": 0,
+  "inhibition": 865
+ },
+ {
+  "target": "CHEMBL218",
+  "name": "Cannabinoid receptor 1",
+  "assays": 1517,
+  "activation": 3,
+  "inhibition": 84
+ },
+ {
+  "target": "CHEMBL2056",
+  "name": "D(1A) dopamine receptor",
+  "assays": 851,
+  "activation": 0,
+  "inhibition": 131
+ },
+ {
+  "target": "CHEMBL219",
+  "name": "D(4) dopamine receptor",
+  "assays": 853,
+  "activation": 0,
+  "inhibition": 82
+ },
+ {
+  "target": "CHEMBL2023",
+  "name": "Catechol O-methyltransferase",
+  "assays": 55,
+  "activation": 0,
+  "inhibition": 32
+ },
+ {
+  "target": "CHEMBL220",
+  "name": "Acetylcholinesterase",
+  "assays": 2448,
+  "activation": 0,
+  "inhibition": 1308
+ },
+ {
+  "target": "CHEMBL1854",
+  "name": "Lutropin-choriogonadotropic hormone receptor",
+  "assays": 54,
+  "activation": 0,
+  "inhibition": 0
+ },
+ {
+  "target": "CHEMBL221",
+  "name": "Prostaglandin G/H synthase 1",
+  "assays": 768,
+  "activation": 1,
+  "inhibition": 503
+ },
+ {
+  "target": "CHEMBL222",
+  "name": "Sodium-dependent noradrenaline transporter",
+  "assays": 888,
+  "activation": 1,
+  "inhibition": 368
+ },
+ {
+  "target": "CHEMBL1941",
+  "name": "Histamine H2 receptor",
+  "assays": 508,
+  "activation": 0,
+  "inhibition": 115
+ },
+ {
+  "target": "CHEMBL223",
+  "name": "Alpha-1D adrenergic receptor",
+  "assays": 332,
+  "activation": 4,
+  "inhibition": 47
+ },
+ {
+  "target": "CHEMBL2039",
+  "name": "Amine oxidase [flavin-containing] B",
+  "assays": 1564,
+  "activation": 0,
+  "inhibition": 938
+ },
+ {
+  "target": "CHEMBL1983",
+  "name": "5-hydroxytryptamine receptor 1D",
+  "assays": 436,
+  "activation": 0,
+  "inhibition": 50
+ },
+ {
+  "target": "CHEMBL1898",
+  "name": "5-hydroxytryptamine receptor 1B",
+  "assays": 567,
+  "activation": 0,
+  "inhibition": 100
+ },
+ {
+  "target": "CHEMBL224",
+  "name": "5-hydroxytryptamine receptor 2A",
+  "assays": 1442,
+  "activation": 2,
+  "inhibition": 168
+ },
+ {
+  "target": "CHEMBL225",
+  "name": "5-hydroxytryptamine receptor 2C",
+  "assays": 1056,
+  "activation": 0,
+  "inhibition": 114
+ },
+ {
+  "target": "CHEMBL1790",
+  "name": "Vasopressin V2 receptor",
+  "assays": 300,
+  "activation": 0,
+  "inhibition": 33
+ },
+ {
+  "target": "CHEMBL1903",
+  "name": "Sodium- and chloride-dependent GABA transporter 1",
+  "assays": 56,
+  "activation": 0,
+  "inhibition": 27
+ },
+ {
+  "target": "CHEMBL226",
+  "name": "Adenosine receptor A1",
+  "assays": 1548,
+  "activation": 0,
+  "inhibition": 150
+ },
+ {
+  "target": "CHEMBL227",
+  "name": "Type-1 angiotensin II receptor",
+  "assays": 354,
+  "activation": 0,
+  "inhibition": 59
+ },
+ {
+  "target": "CHEMBL2049",
+  "name": "Oxytocin receptor",
+  "assays": 249,
+  "activation": 1,
+  "inhibition": 9
+ },
+ {
+  "target": "CHEMBL1804",
+  "name": "Somatostatin receptor type 2",
+  "assays": 162,
+  "activation": 0,
+  "inhibition": 17
+ },
+ {
+  "target": "CHEMBL1855",
+  "name": "Gonadotropin-releasing hormone receptor",
+  "assays": 302,
+  "activation": 0,
+  "inhibition": 31
+ },
+ {
+  "target": "CHEMBL1856",
+  "name": "3-oxo-5-alpha-steroid 4-dehydrogenase 2",
+  "assays": 118,
+  "activation": 0,
+  "inhibition": 42
+ },
+ {
+  "target": "CHEMBL228",
+  "name": "Sodium-dependent serotonin transporter",
+  "assays": 986,
+  "activation": 2,
+  "inhibition": 376
+ },
+ {
+  "target": "CHEMBL1800",
+  "name": "Corticotropin-releasing factor receptor 1",
+  "assays": 193,
+  "activation": 0,
+  "inhibition": 32
+ },
+ {
+  "target": "CHEMBL229",
+  "name": "Alpha-1A adrenergic receptor",
+  "assays": 656,
+  "activation": 4,
+  "inhibition": 79
+ },
+ {
+  "target": "CHEMBL230",
+  "name": "Prostaglandin G/H synthase 2",
+  "assays": 1353,
+  "activation": 4,
+  "inhibition": 1005
+ },
+ {
+  "target": "CHEMBL231",
+  "name": "Histamine H1 receptor",
+  "assays": 847,
+  "activation": 1,
+  "inhibition": 167
+ },
+ {
+  "target": "CHEMBL232",
+  "name": "Alpha-1B adrenergic receptor",
+  "assays": 432,
+  "activation": 5,
+  "inhibition": 55
+ },
+ {
+  "target": "CHEMBL233",
+  "name": "Mu-type opioid receptor",
+  "assays": 2094,
+  "activation": 13,
+  "inhibition": 203
+ },
+ {
+  "target": "CHEMBL234",
+  "name": "D(3) dopamine receptor",
+  "assays": 1250,
+  "activation": 9,
+  "inhibition": 116
+ },
+ {
+  "target": "CHEMBL1845",
+  "name": "Sodium channel protein type 1 subunit alpha",
+  "assays": 107,
+  "activation": 20,
+  "inhibition": 71
+ },
+ {
+  "target": "CHEMBL235",
+  "name": "Peroxisome proliferator-activated receptor gamma",
+  "assays": 1845,
+  "activation": 93,
+  "inhibition": 72
+ },
+ {
+  "target": "CHEMBL1889",
+  "name": "Vasopressin V1a receptor",
+  "assays": 425,
+  "activation": 3,
+  "inhibition": 71
+ },
+ {
+  "target": "CHEMBL236",
+  "name": "Delta-type opioid receptor",
+  "assays": 1646,
+  "activation": 2,
+  "inhibition": 139
+ },
+ {
+  "target": "CHEMBL237",
+  "name": "Kappa-type opioid receptor",
+  "assays": 1800,
+  "activation": 8,
+  "inhibition": 169
+ },
+ {
+  "target": "CHEMBL2014",
+  "name": "Nociceptin receptor",
+  "assays": 430,
+  "activation": 0,
+  "inhibition": 20
+ },
+ {
+  "target": "CHEMBL1987",
+  "name": "Prostaglandin F2-alpha receptor",
+  "assays": 104,
+  "activation": 0,
+  "inhibition": 12
+ },
+ {
+  "target": "CHEMBL1881",
+  "name": "Prostaglandin E2 receptor EP2 subtype",
+  "assays": 219,
+  "activation": 1,
+  "inhibition": 18
+ },
+ {
+  "target": "CHEMBL1995",
+  "name": "Prostacyclin receptor",
+  "assays": 156,
+  "activation": 0,
+  "inhibition": 19
+ },
+ {
+  "target": "CHEMBL1899",
+  "name": "5-hydroxytryptamine receptor 3A",
+  "assays": 516,
+  "activation": 0,
+  "inhibition": 106
+ },
+ {
+  "target": "CHEMBL1985",
+  "name": "Glucagon receptor",
+  "assays": 171,
+  "activation": 6,
+  "inhibition": 10
+ },
+ {
+  "target": "CHEMBL1921",
+  "name": "Vasopressin V1b receptor",
+  "assays": 116,
+  "activation": 4,
+  "inhibition": 4
+ },
+ {
+  "target": "CHEMBL1929",
+  "name": "Xanthine dehydrogenase/oxidase",
+  "assays": 184,
+  "activation": 0,
+  "inhibition": 142
+ },
+ {
+  "target": "CHEMBL238",
+  "name": "Sodium-dependent dopamine transporter",
+  "assays": 965,
+  "activation": 0,
+  "inhibition": 338
+ },
+ {
+  "target": "CHEMBL1966",
+  "name": "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+  "assays": 297,
+  "activation": 0,
+  "inhibition": 254
+ },
+ {
+  "target": "CHEMBL1793",
+  "name": "Parathyroid hormone/parathyroid hormone-related peptide receptor",
+  "assays": 59,
+  "activation": 1,
+  "inhibition": 0
+ },
+ {
+  "target": "CHEMBL239",
+  "name": "Peroxisome proliferator-activated receptor alpha",
+  "assays": 1117,
+  "activation": 37,
+  "inhibition": 19
+ },
+ {
+  "target": "CHEMBL240",
+  "name": "Voltage-gated inwardly rectifying potassium channel KCNH2",
+  "assays": 4829,
+  "activation": 34,
+  "inhibition": 3922
+ },
+ {
+  "target": "CHEMBL1875",
+  "name": "5-hydroxytryptamine receptor 4",
+  "assays": 314,
+  "activation": 2,
+  "inhibition": 30
+ },
+ {
+  "target": "CHEMBL1940",
+  "name": "Voltage-dependent L-type calcium channel subunit alpha-1C",
+  "assays": 341,
+  "activation": 0,
+  "inhibition": 292
+ },
+ {
+  "target": "CHEMBL241",
+  "name": "cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",
+  "assays": 265,
+  "activation": 0,
+  "inhibition": 196
+ },
+ {
+  "target": "CHEMBL242",
+  "name": "Estrogen receptor beta",
+  "assays": 745,
+  "activation": 19,
+  "inhibition": 55
+ },
+ {
+  "target": "CHEMBL2001",
+  "name": "P2Y purinoceptor 12",
+  "assays": 156,
+  "activation": 2,
+  "inhibition": 15
+ },
+ {
+  "target": "CHEMBL1798",
+  "name": "Cysteinyl leukotriene receptor 1",
+  "assays": 86,
+  "activation": 0,
+  "inhibition": 22
+ },
+ {
+  "target": "CHEMBL1949",
+  "name": "Peptidyl-prolyl cis-trans isomerase A",
+  "assays": 155,
+  "activation": 0,
+  "inhibition": 64
+ },
+ {
+  "target": "CHEMBL1892",
+  "name": "Glutamate carboxypeptidase 2",
+  "assays": 139,
+  "activation": 0,
+  "inhibition": 57
+ },
+ {
+  "target": "CHEMBL1825",
+  "name": "Tumor necrosis factor",
+  "assays": 193,
+  "activation": 0,
+  "inhibition": 72
+ },
+ {
+  "target": "CHEMBL1783",
+  "name": "Vascular endothelial growth factor A, long form",
+  "assays": 58,
+  "activation": 0,
+  "inhibition": 9
+ },
+ {
+  "target": "CHEMBL1824",
+  "name": "Receptor tyrosine-protein kinase erbB-2",
+  "assays": 1119,
+  "activation": 0,
+  "inhibition": 854
+ },
+ {
+  "target": "CHEMBL1803",
+  "name": "Integrin alpha-L",
+  "assays": 55,
+  "activation": 0,
+  "inhibition": 40
+ },
+ {
+  "target": "CHEMBL2016",
+  "name": "Coagulation factor IX",
+  "assays": 97,
+  "activation": 0,
+  "inhibition": 74
+ },
+ {
+  "target": "CHEMBL244",
+  "name": "Coagulation factor X",
+  "assays": 747,
+  "activation": 0,
+  "inhibition": 389
+ },
+ {
+  "target": "CHEMBL1913",
+  "name": "Platelet-derived growth factor receptor beta",
+  "assays": 1088,
+  "activation": 0,
+  "inhibition": 854
+ },
+ {
+  "target": "CHEMBL1821",
+  "name": "Muscarinic acetylcholine receptor M4",
+  "assays": 613,
+  "activation": 2,
+  "inhibition": 77
+ },
+ {
+  "target": "CHEMBL2035",
+  "name": "Muscarinic acetylcholine receptor M5",
+  "assays": 466,
+  "activation": 7,
+  "inhibition": 59
+ },
+ {
+  "target": "CHEMBL1942",
+  "name": "Alpha-2B adrenergic receptor",
+  "assays": 329,
+  "activation": 0,
+  "inhibition": 50
+ },
+ {
+  "target": "CHEMBL1916",
+  "name": "Alpha-2C adrenergic receptor",
+  "assays": 380,
+  "activation": 0,
+  "inhibition": 66
+ },
+ {
+  "target": "CHEMBL245",
+  "name": "Muscarinic acetylcholine receptor M3",
+  "assays": 819,
+  "activation": 6,
+  "inhibition": 118
+ },
+ {
+  "target": "CHEMBL1850",
+  "name": "D(1B) dopamine receptor",
+  "assays": 276,
+  "activation": 0,
+  "inhibition": 47
+ },
+ {
+  "target": "CHEMBL1904",
+  "name": "Glutamate receptor ionotropic, NMDA 2B",
+  "assays": 175,
+  "activation": 0,
+  "inhibition": 50
+ },
+ {
+  "target": "CHEMBL246",
+  "name": "Beta-3 adrenergic receptor",
+  "assays": 373,
+  "activation": 1,
+  "inhibition": 36
+ },
+ {
+  "target": "CHEMBL1833",
+  "name": "5-hydroxytryptamine receptor 2B",
+  "assays": 977,
+  "activation": 0,
+  "inhibition": 158
+ },
+ {
+  "target": "CHEMBL1957",
+  "name": "Insulin-like growth factor 1 receptor",
+  "assays": 1090,
+  "activation": 0,
+  "inhibition": 865
+ },
+ {
+  "target": "CHEMBL248",
+  "name": "Neutrophil elastase",
+  "assays": 801,
+  "activation": 0,
+  "inhibition": 293
+ },
+ {
+  "target": "CHEMBL1944",
+  "name": "Neprilysin",
+  "assays": 124,
+  "activation": 0,
+  "inhibition": 63
+ },
+ {
+  "target": "CHEMBL4618",
+  "name": "Leukotriene A-4 hydrolase",
+  "assays": 159,
+  "activation": 26,
+  "inhibition": 84
+ },
+ {
+  "target": "CHEMBL1936",
+  "name": "Mast/stem cell growth factor receptor Kit",
+  "assays": 2294,
+  "activation": 0,
+  "inhibition": 1692
+ },
+ {
+  "target": "CHEMBL2003",
+  "name": "Retinoic acid receptor gamma",
+  "assays": 239,
+  "activation": 3,
+  "inhibition": 24
+ },
+ {
+  "target": "CHEMBL1900",
+  "name": "Aldo-keto reductase family 1 member B1",
+  "assays": 230,
+  "activation": 0,
+  "inhibition": 132
+ },
+ {
+  "target": "CHEMBL1907",
+  "name": "Aminopeptidase N",
+  "assays": 108,
+  "activation": 0,
+  "inhibition": 85
+ },
+ {
+  "target": "CHEMBL2069",
+  "name": "Thromboxane A2 receptor",
+  "assays": 307,
+  "activation": 0,
+  "inhibition": 49
+ },
+ {
+  "target": "CHEMBL1785",
+  "name": "Endothelin receptor type B",
+  "assays": 241,
+  "activation": 0,
+  "inhibition": 42
+ },
+ {
+  "target": "CHEMBL1835",
+  "name": "Thromboxane-A synthase",
+  "assays": 210,
+  "activation": 0,
+  "inhibition": 53
+ },
+ {
+  "target": "CHEMBL252",
+  "name": "Endothelin-1 receptor",
+  "assays": 389,
+  "activation": 0,
+  "inhibition": 65
+ },
+ {
+  "target": "CHEMBL249",
+  "name": "Substance-P receptor",
+  "assays": 620,
+  "activation": 1,
+  "inhibition": 75
+ },
+ {
+  "target": "CHEMBL250",
+  "name": "Platelet-activating factor receptor",
+  "assays": 118,
+  "activation": 0,
+  "inhibition": 35
+ },
+ {
+  "target": "CHEMBL251",
+  "name": "Adenosine receptor A2a",
+  "assays": 1490,
+  "activation": 1,
+  "inhibition": 116
+ },
+ {
+  "target": "CHEMBL253",
+  "name": "Cannabinoid receptor 2",
+  "assays": 1551,
+  "activation": 3,
+  "inhibition": 56
+ },
+ {
+  "target": "CHEMBL1811",
+  "name": "Prostaglandin E2 receptor EP1 subtype",
+  "assays": 168,
+  "activation": 0,
+  "inhibition": 13
+ },
+ {
+  "target": "CHEMBL1836",
+  "name": "Prostaglandin E2 receptor EP4 subtype",
+  "assays": 288,
+  "activation": 0,
+  "inhibition": 36
+ },
+ {
+  "target": "CHEMBL2004",
+  "name": "Retinoic acid receptor RXR-gamma",
+  "assays": 149,
+  "activation": 5,
+  "inhibition": 8
+ },
+ {
+  "target": "CHEMBL2008",
+  "name": "Retinoic acid receptor beta",
+  "assays": 262,
+  "activation": 3,
+  "inhibition": 30
+ },
+ {
+  "target": "CHEMBL1947",
+  "name": "Thyroid hormone receptor beta",
+  "assays": 142,
+  "activation": 2,
+  "inhibition": 14
+ },
+ {
+  "target": "CHEMBL2061",
+  "name": "Retinoic acid receptor RXR-alpha",
+  "assays": 712,
+  "activation": 59,
+  "inhibition": 42
+ },
+ {
+  "target": "CHEMBL254",
+  "name": "3',5'-cyclic-AMP phosphodiesterase 4A",
+  "assays": 147,
+  "activation": 0,
+  "inhibition": 107
+ },
+ {
+  "target": "CHEMBL1870",
+  "name": "Retinoic acid receptor RXR-beta",
+  "assays": 167,
+  "activation": 4,
+  "inhibition": 8
+ },
+ {
+  "target": "CHEMBL255",
+  "name": "Adenosine receptor A2b",
+  "assays": 735,
+  "activation": 1,
+  "inhibition": 48
+ },
+ {
+  "target": "CHEMBL1805",
+  "name": "5-hydroxytryptamine receptor 1F",
+  "assays": 62,
+  "activation": 0,
+  "inhibition": 2
+ },
+ {
+  "target": "CHEMBL256",
+  "name": "Adenosine receptor A3",
+  "assays": 1458,
+  "activation": 0,
+  "inhibition": 173
+ },
+ {
+  "target": "CHEMBL1993",
+  "name": "DNA (cytosine-5)-methyltransferase 1",
+  "assays": 233,
+  "activation": 1,
+  "inhibition": 192
+ },
+ {
+  "target": "CHEMBL1992",
+  "name": "DNA (cytosine-5)-methyltransferase 3A",
+  "assays": 83,
+  "activation": 0,
+  "inhibition": 57
+ },
+ {
+  "target": "CHEMBL2581",
+  "name": "Cathepsin D",
+  "assays": 352,
+  "activation": 0,
+  "inhibition": 255
+ },
+ {
+  "target": "CHEMBL5113",
+  "name": "Orexin/Hypocretin receptor type 1",
+  "assays": 278,
+  "activation": 0,
+  "inhibition": 9
+ },
+ {
+  "target": "CHEMBL4714",
+  "name": "P2Y purinoceptor 6",
+  "assays": 139,
+  "activation": 0,
+  "inhibition": 5
+ },
+ {
+  "target": "CHEMBL4716",
+  "name": "3',5'-cyclic-AMP phosphodiesterase 7B",
+  "assays": 53,
+  "activation": 0,
+  "inhibition": 47
+ },
+ {
+  "target": "CHEMBL4977",
+  "name": "Transcription factor Jun",
+  "assays": 78,
+  "activation": 2,
+  "inhibition": 46
+ },
+ {
+  "target": "CHEMBL3157",
+  "name": "B2 bradykinin receptor",
+  "assays": 225,
+  "activation": 0,
+  "inhibition": 43
+ },
+ {
+  "target": "CHEMBL3629",
+  "name": "Casein kinase II subunit alpha",
+  "assays": 693,
+  "activation": 0,
+  "inhibition": 361
+ },
+ {
+  "target": "CHEMBL2468",
+  "name": "Death-associated protein kinase 3",
+  "assays": 281,
+  "activation": 1,
+  "inhibition": 184
+ },
+ {
+  "target": "CHEMBL3142",
+  "name": "DNA-dependent protein kinase catalytic subunit",
+  "assays": 326,
+  "activation": 0,
+  "inhibition": 262
+ },
+ {
+  "target": "CHEMBL2443",
+  "name": "Kallikrein-7",
+  "assays": 75,
+  "activation": 0,
+  "inhibition": 55
+ },
+ {
+  "target": "CHEMBL4068",
+  "name": "Chymase",
+  "assays": 93,
+  "activation": 0,
+  "inhibition": 42
+ },
+ {
+  "target": "CHEMBL2447",
+  "name": "Deoxycytidine kinase",
+  "assays": 54,
+  "activation": 0,
+  "inhibition": 24
+ },
+ {
+  "target": "CHEMBL4550",
+  "name": "Arachidonate 5-lipoxygenase-activating protein",
+  "assays": 104,
+  "activation": 0,
+  "inhibition": 56
+ },
+ {
+  "target": "CHEMBL4769",
+  "name": "Geranylgeranyl pyrophosphate synthase",
+  "assays": 129,
+  "activation": 0,
+  "inhibition": 121
+ },
+ {
+  "target": "CHEMBL3961",
+  "name": "Mitogen-activated protein kinase 11",
+  "assays": 520,
+  "activation": 0,
+  "inhibition": 381
+ },
+ {
+  "target": "CHEMBL2883",
+  "name": "Thymidine kinase, cytosolic",
+  "assays": 144,
+  "activation": 0,
+  "inhibition": 24
+ },
+ {
+  "target": "CHEMBL2334",
+  "name": "Caspase-3",
+  "assays": 332,
+  "activation": 50,
+  "inhibition": 144
+ },
+ {
+  "target": "CHEMBL3429",
+  "name": "Steroid hormone receptor ERR1",
+  "assays": 83,
+  "activation": 0,
+  "inhibition": 15
+ },
+ {
+  "target": "CHEMBL3514",
+  "name": "Platelet-activating factor acetylhydrolase",
+  "assays": 129,
+  "activation": 0,
+  "inhibition": 92
+ },
+ {
+  "target": "CHEMBL2885",
+  "name": "Carbonic anhydrase 3",
+  "assays": 96,
+  "activation": 5,
+  "inhibition": 60
+ },
+ {
+  "target": "CHEMBL258",
+  "name": "Tyrosine-protein kinase Lck",
+  "assays": 1376,
+  "activation": 0,
+  "inhibition": 1086
+ },
+ {
+  "target": "CHEMBL4835",
+  "name": "L-lactate dehydrogenase A chain",
+  "assays": 188,
+  "activation": 0,
+  "inhibition": 111
+ },
+ {
+  "target": "CHEMBL259",
+  "name": "Melanocortin receptor 4",
+  "assays": 637,
+  "activation": 0,
+  "inhibition": 56
+ },
+ {
+  "target": "CHEMBL4877",
+  "name": "Neuropeptide Y receptor type 4",
+  "assays": 199,
+  "activation": 1,
+  "inhibition": 9
+ },
+ {
+  "target": "CHEMBL4878",
+  "name": "Cytochrome P450 1B1",
+  "assays": 207,
+  "activation": 0,
+  "inhibition": 153
+ },
+ {
+  "target": "CHEMBL2360",
+  "name": "Hypoxanthine-guanine phosphoribosyltransferase",
+  "assays": 67,
+  "activation": 0,
+  "inhibition": 41
+ },
+ {
+  "target": "CHEMBL3721",
+  "name": "Cytochrome P450 2C8",
+  "assays": 842,
+  "activation": 1,
+  "inhibition": 616
+ },
+ {
+  "target": "CHEMBL2888",
+  "name": "Metabotropic glutamate receptor 3",
+  "assays": 180,
+  "activation": 0,
+  "inhibition": 9
+ },
+ {
+  "target": "CHEMBL3959",
+  "name": "Ribosyldihydronicotinamide dehydrogenase [quinone]",
+  "assays": 93,
+  "activation": 0,
+  "inhibition": 49
+ },
+ {
+  "target": "CHEMBL3421",
+  "name": "Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",
+  "assays": 113,
+  "activation": 0,
+  "inhibition": 82
+ },
+ {
+  "target": "CHEMBL1853",
+  "name": "Somatostatin receptor type 4",
+  "assays": 157,
+  "activation": 0,
+  "inhibition": 21
+ },
+ {
+  "target": "CHEMBL2327",
+  "name": "Substance-K receptor",
+  "assays": 338,
+  "activation": 1,
+  "inhibition": 56
+ },
+ {
+  "target": "CHEMBL3589",
+  "name": "Adenosine kinase",
+  "assays": 169,
+  "activation": 0,
+  "inhibition": 61
+ },
+ {
+  "target": "CHEMBL3025",
+  "name": "Carbonic anhydrase 6",
+  "assays": 84,
+  "activation": 6,
+  "inhibition": 62
+ },
+ {
+  "target": "CHEMBL4884",
+  "name": "Caspase-2",
+  "assays": 51,
+  "activation": 2,
+  "inhibition": 31
+ },
+ {
+  "target": "CHEMBL260",
+  "name": "Mitogen-activated protein kinase 14",
+  "assays": 1583,
+  "activation": 4,
+  "inhibition": 1171
+ },
+ {
+  "target": "CHEMBL2083",
+  "name": "Fatty acid-binding protein, adipocyte",
+  "assays": 73,
+  "activation": 0,
+  "inhibition": 22
+ },
+ {
+  "target": "CHEMBL261",
+  "name": "Carbonic anhydrase 1",
+  "assays": 863,
+  "activation": 26,
+  "inhibition": 656
+ },
+ {
+  "target": "CHEMBL262",
+  "name": "Glycogen synthase kinase-3 beta",
+  "assays": 1745,
+  "activation": 18,
+  "inhibition": 1394
+ },
+ {
+  "target": "CHEMBL4306",
+  "name": "Potassium voltage-gated channel subfamily A member 5",
+  "assays": 131,
+  "activation": 1,
+  "inhibition": 109
+ },
+ {
+  "target": "CHEMBL4940",
+  "name": "L-lactate dehydrogenase B chain",
+  "assays": 73,
+  "activation": 0,
+  "inhibition": 30
+ },
+ {
+  "target": "CHEMBL2085",
+  "name": "Macrophage migration inhibitory factor",
+  "assays": 190,
+  "activation": 0,
+  "inhibition": 113
+ },
+ {
+  "target": "CHEMBL2392",
+  "name": "DNA polymerase beta",
+  "assays": 86,
+  "activation": 0,
+  "inhibition": 65
+ },
+ {
+  "target": "CHEMBL2918",
+  "name": "cAMP-dependent protein kinase catalytic subunit beta",
+  "assays": 150,
+  "activation": 0,
+  "inhibition": 93
+ },
+ {
+  "target": "CHEMBL3155",
+  "name": "5-hydroxytryptamine receptor 7",
+  "assays": 801,
+  "activation": 1,
+  "inhibition": 105
+ },
+ {
+  "target": "CHEMBL3438",
+  "name": "Protein kinase C zeta type",
+  "assays": 349,
+  "activation": 5,
+  "inhibition": 285
+ },
+ {
+  "target": "CHEMBL2171",
+  "name": "Dual specificity mitogen-activated protein kinase kinase 6",
+  "assays": 355,
+  "activation": 0,
+  "inhibition": 242
+ },
+ {
+  "target": "CHEMBL3776",
+  "name": "Caspase-8",
+  "assays": 114,
+  "activation": 2,
+  "inhibition": 53
+ },
+ {
+  "target": "CHEMBL2428",
+  "name": "Myosin light chain kinase, smooth muscle",
+  "assays": 303,
+  "activation": 0,
+  "inhibition": 202
+ },
+ {
+  "target": "CHEMBL3807",
+  "name": "Tyrosine-protein phosphatase non-receptor type 2",
+  "assays": 234,
+  "activation": 2,
+  "inhibition": 202
+ },
+ {
+  "target": "CHEMBL4794",
+  "name": "Transient receptor potential cation channel subfamily V member 1",
+  "assays": 674,
+  "activation": 22,
+  "inhibition": 82
+ },
+ {
+  "target": "CHEMBL2426",
+  "name": "Casein kinase I isoform gamma-1",
+  "assays": 251,
+  "activation": 0,
+  "inhibition": 173
+ },
+ {
+  "target": "CHEMBL4142",
+  "name": "Fibroblast growth factor receptor 2",
+  "assays": 779,
+  "activation": 0,
+  "inhibition": 591
+ }
+]

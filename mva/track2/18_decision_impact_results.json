@@ -1,0 +1,61 @@
+{
+ "noise_band": 0.2,
+ "pages": 24,
+ "sets": {
+  "exploratory (rules written here)": {
+   "seed": 20261022,
+   "fc_records_total": 77383,
+   "stats": {
+    "records": 23747,
+    "title abstains (no direction stated)": 8890,
+    "title states a decision": 14857,
+    "class no-endpoint-clause": 4584,
+    "not adjudicable (proxy or unidentifiable endpoint)": 13285,
+    "class B": 8660,
+    "class A": 1572,
+    "adjudicable (endpoint IS the target)": 1572,
+    "both pipelines decide": 1330,
+    "AGREE": 1105,
+    "record abstains (inside noise band)": 242,
+    "FALSE NEGATIVE - title discards what the record keeps": 133,
+    "class ambiguous-no-target-token": 41,
+    "FALSE POSITIVE - title keeps what the record discards": 92
+   },
+   "summary": {
+    "decided": 1330,
+    "agree": 1105,
+    "false_negative": 133,
+    "false_positive": 92,
+    "decision_change_pct": 16.92
+   }
+  },
+  "HELD-OUT (rules frozen)": {
+   "seed": 20261024,
+   "fc_records_total": 77383,
+   "stats": {
+    "records": 23603,
+    "title abstains (no direction stated)": 9397,
+    "title states a decision": 14206,
+    "class B": 7129,
+    "not adjudicable (proxy or unidentifiable endpoint)": 12981,
+    "class no-endpoint-clause": 5697,
+    "class ambiguous-no-target-token": 155,
+    "class A": 1225,
+    "adjudicable (endpoint IS the target)": 1225,
+    "both pipelines decide": 987,
+    "AGREE": 742,
+    "record abstains (inside noise band)": 238,
+    "FALSE NEGATIVE - title discards what the record keeps": 190,
+    "FALSE POSITIVE - title keeps what the record discards": 55
+   },
+   "summary": {
+    "decided": 987,
+    "agree": 742,
+    "false_negative": 190,
+    "false_positive": 55,
+    "decision_change_pct": 24.82
+   }
+  }
+ },
+ "held_out_difference_pp": 7.9
+}

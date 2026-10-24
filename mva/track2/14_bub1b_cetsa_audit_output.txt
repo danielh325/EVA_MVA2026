@@ -1,0 +1,51 @@
+=== BUB1B (CHEMBL4295998) ===
+activity records: 24
+
+records by standard_type:
+  Inhibition     8
+  Activity       5
+  IC50           5
+  FC             4
+  % of control   2
+
+=== IC50 records (report stated the range as 9,670-67,300 nM) ===
+  CHEMBL6142128         9,670 nM   doc=CHEMBL6121040
+  CHEMBL6168882        10,360 nM   doc=CHEMBL6121040
+  CHEMBL2403108        13,080 nM   doc=CHEMBL6121040
+  CHEMBL1995703        67,300 nM   doc=CHEMBL6121040
+  CHEMBL5084426       100,000 nM   doc=CHEMBL6121040
+  -> n=5, true range 9,670 - 100,000 nM
+  NOTE: the upper bound is 100,000 nM, not 67,300. The report's
+        stated range omitted the weakest compound.
+
+=== cell-based CETSA records: direction read PER RECORD ===
+    (the assay TITLE says 'Destabilization' for all four)
+
+  CHEMBL6168882    FC=0.29   destabilised
+  CHEMBL6142128    FC=0.65   destabilised
+  CHEMBL5084426    FC=1.33   STABILISED  (heat resistance UP)
+      activity_comment: 'Increase In Heat Resistance Observed'
+  CHEMBL1995703    FC=2.19   STABILISED  (heat resistance UP)
+      activity_comment: 'Increase In Heat Resistance Observed'
+
+  assay: CHEMBL6125447
+  title: Destabilization of BUB1B in human CAKI-1 cells assessed as reduction in BUB1B protein level at 20 uM preincubated for 1 hrs followed by incubation under 45 degreeC for 3 mins by CETSA analysis (Rvb = 1 No_unit)
+
+  -> 2 of 4 cell-based compounds RAISED BubR1's
+     thermal stability. The assay title says the opposite, and an
+     audit that reads titles counts all four as destabilisation.
+
+=== identity of the stabilising compounds ===
+  CHEMBL5084426    pref_name=None max_phase=None
+      synonyms: ['BAY 1816032', 'BAY-1816032']
+      smiles: COc1cnccc1Nc1nc(-c2nn(Cc3c(F)cc(OCCO)cc3F)c3ccccc23)ncc1OC
+  CHEMBL1995703    pref_name=None max_phase=None
+      synonyms: none in ChEMBL
+      smiles: Cc1cnc(Nc2ccc(N3CCN(C)CC3)cc2)nc1Nc1cccc(S(=O)(=O)NC(C)(C)C)c1
+
+=== source publication ===
+  Synthesis and biological assessment of BUB1B inhibitors for the treatment of clear cell renal cell carcinoma.
+  Eur J Med Chem 2025;285:117247  PMID 39818011  doi:10.1016/j.ejmech.2025.117247
+
+  the authors say it themselves:
+    "...nd inducing apoptosis. Compound 8h demonstrated intracellular binding with BUB1B, similar to TG-101209, but through a different binding moiety that destabilizes the BUB1B protein structure, whereas TG-101209 stabilizes it."

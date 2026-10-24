@@ -1,0 +1,120 @@
+=== Task E - SIRT2 activator search - retrieved 2026-10-22 ===
+
+Target: CHEMBL4462 (NAD-dependent protein deacetylase sirtuin-2, Homo sapiens)
+
+--- ChEMBL activity records for CHEMBL4462: 4236 ---
+
+--- standard_type distribution (all records) ---
+    1915  IC50
+    1836  Inhibition
+     239  Activity
+      89  FC
+      44  Ki
+      20  kon
+      20  k_off
+      12  Km
+      12  Vmax
+       9  Kd
+       7  EC50
+       6  Ratio IC50
+       6  Kcat
+       6  Kcat/Km
+       3  EC150
+       3  INH
+       3  TDI
+       2  max activation
+       2  Ratio
+       2  Drug metabolism
+
+--- records whose type/assay wording implies ACTIVATION: 91 ---
+       CHEMBL165  EC50         >300000.0 nM  [CHEMBL1147981]
+      Activation of SIRT2 by mass spectrometry assay
+    CHEMBL403308  EC50         >300000.0 nM  [CHEMBL1147981]
+      Activation of SIRT2 by mass spectrometry assay
+    CHEMBL254156  EC50         >300000.0 nM  [CHEMBL1147981]
+      Activation of SIRT2 by mass spectrometry assay
+    CHEMBL257991  EC50         =37000.0 nM  [CHEMBL1147981]
+      Activation of SIRT2 by mass spectrometry assay
+    CHEMBL582855  Activity     None   [CHEMBL1154783]
+      Activation of human SIRT2 expressed in Escherichia coli at 1 to 50 uM after 1 hr by fluorescent biochemical assay
+    CHEMBL582855  EC150        =15.0 uM  [CHEMBL1154783]
+      Activation of human SIRT2 expressed in Escherichia coli after 1 hr by fluorescent biochemical assay
+    CHEMBL574162  EC150        =15.0 uM  [CHEMBL1154783]
+      Activation of human SIRT2 expressed in Escherichia coli after 1 hr by fluorescent biochemical assay
+    CHEMBL573718  EC150        =25.0 uM  [CHEMBL1154783]
+      Activation of human SIRT2 expressed in Escherichia coli after 1 hr by fluorescent biochemical assay
+    CHEMBL257991  EC50         =160.0 nM  [CHEMBL1221216]
+      Activation of human SirT2 protein fluorescence polarization assay
+   CHEMBL2333666  max activation =257.0 %  [CHEMBL2331243]
+      Activation of at N-terminal GST-tagged SIRT2 (34 to 356 amino acid residues) (unknown origin) expressed in Escherichia coli BL21(DE3) using ac-RHKKac-
+    CHEMBL492741  max activation =206.0 %  [CHEMBL2331243]
+      Activation of at N-terminal GST-tagged SIRT2 (34 to 356 amino acid residues) (unknown origin) expressed in Escherichia coli BL21(DE3) using ac-RHKKac-
+   CHEMBL2333666  EC50         =11600.0 nM  [CHEMBL2331243]
+      Activation of at N-terminal GST-tagged SIRT2 (34 to 356 amino acid residues) (unknown origin) expressed in Escherichia coli BL21(DE3) using ac-RHKKac-
+    CHEMBL492741  EC50         =16500.0 nM  [CHEMBL2331243]
+      Activation of at N-terminal GST-tagged SIRT2 (34 to 356 amino acid residues) (unknown origin) expressed in Escherichia coli BL21(DE3) using ac-RHKKac-
+   CHEMBL3221535  Ratio        =23.0   [CHEMBL3217699]
+      Ratio of AGK2 to compound in GST-tagged SIRT2 (unknown origin)
+   CHEMBL4245965  Ratio        =3130.0 /s/M  [CHEMBL4229465]
+      Ratio of Kcat to Km at human SIRT2 (36 to 356 residues) expressed in Escherichia coli rosetta cells
+   CHEMBL4868328  Activity     None   [CHEMBL4837260]
+      Activation of recombinant human SIRT2 assessed as deacetylation activity using Gln-Pro-Lys-Lys(Ac) peptide substrate at 0 to 100 uM by fluorescent ass
+    CHEMBL573718  FC           =1.5   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4469351  FC           =1.5   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4463555  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4443055  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4516870  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4571083  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4446765  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4560348  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4575744  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4467228  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4569124  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4470008  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4443572  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4521137  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4580567  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4434938  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4455906  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4472282  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4455257  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4556241  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4451269  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4453287  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4522414  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+   CHEMBL4550533  Activity     None   [CHEMBL5108071]
+      Activation of N-terminal SUMO-tagged human SIRT2 (43 to 356 residues) expressed in Escherichia coli assessed as fold activation at 100 uM using acetyl
+
+--- PubMed counts (retrieved 2026-10-22) ---
+      84  "SIRT2"[tiab] AND ("activator"[tiab] OR "activators"[tiab])
+       4  "SIRT2 activator"[tiab]
+       1  "sirtuin activating compound"[tiab]
+    1713  "SIRT1"[tiab] AND ("activator"[tiab] OR "activators"[tiab])
+       8  "nicotinamide riboside"[tiab] AND "SIRT2"[tiab]
+      11  "BubR1"[tiab] AND "SIRT2"[tiab]
+       2  "BUB1B"[tiab] AND ("NAD"[tiab] OR "nicotinamide"[tiab])
+
+Exact query log written to task_e_queries.txt (13 queries)

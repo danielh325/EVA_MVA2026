@@ -1,0 +1,50 @@
+=== ChEMBL direction-of-effect audit | retrieved 2026-10-24 ===
+
+--- 1. GLOBAL: all ChEMBL assays by stated direction ---
+     1970438  all assays
+      376061  description starts "Inhibition"
+        8952  description starts "Activation"
+       24287  description starts "Agonist"
+       17788  description starts "Antagonist"
+        1072  description starts "Stimulation"
+         153  description starts "Degradation"
+
+  enzyme language   inhibition : activation = 42.0 : 1
+  receptor language antagonist : agonist   = 0.73 : 1  (the control - near parity)
+
+--- 2. PANEL: per-target split ---
+gene      target          role                            assays  activ  inhib   act%
+-------------------------------------------------------------------------------------
+BUB1B     CHEMBL4295998   the lesion                          12      0      8   0.0%
+BUB1      CHEMBL1772932   checkpoint                          86      0     32   0.0%
+BUB3      CHEMBL5724769   checkpoint                           7      0      6   0.0%
+CEP57     -               MVA gene                                          NO TARGET
+TRIP13    CHEMBL5465278   MVA gene                             9      0      3   0.0%
+AURKB     CHEMBL2185      druggable / contraindicated       1176      2    911   0.2%
+PLK1      CHEMBL3024      druggable / contraindicated        960      0    746   0.0%
+TTK       CHEMBL3983      druggable / contraindicated        492      0    309   0.0%
+CENPE     CHEMBL5870      druggable / contraindicated        346      0     51   0.0%
+SIRT2     CHEMBL4462      we need an INCREASE                547     15    453   2.7%
+SIRT1     CHEMBL4506      comparator                         640    111    428  17.3%
+NAMPT     CHEMBL1744525   we need an INCREASE                231     22    114   9.5%
+CREBBP    CHEMBL5747      inhibit the writer                 347      0    137   0.0%
+EP300     CHEMBL3784      inhibit the writer                 442      1    286   0.2%
+HDAC1     CHEMBL325       comparator                        1817      3   1591   0.2%
+HSP90AA1  CHEMBL3880      contraindicated                    422      0    192   0.0%
+
+--- 3. BUB1B: what the graphs say is zero ---
+  ChEMBL target CHEMBL4295998: 24 activity records (both knowledge graphs report 0 drug edges)
+    - Induction of BubR1 hyperphosphorylation in human HeLa cells by Western blot analysis
+    - Inhibition of BUB1B (unknown origin) assessed as residual activity measured at 1 uM
+    - Selectivity interaction (ProQinase) EUB0000171b BUB1B
+    - Selectivity interaction (ProQinase) EUB0000171b BUB1B
+    - Inhibition of BUB1B (unknown origin) at 100 nM relative to control
+    - Inhibition of BUB1B (unknown origin) at 500 nM relative to control
+    - Inhibition of BubR1 phosphorylation in mitotic human HeLa cells released from G1/S blocks by immunoblotting analysis
+    - Inhibition of BubR1 phosphorylation in mitotic human HeLa cells released from G1/S blocks in presence of nocodazole by
+    - Inhibition of BubR1 immunoprecipitate phosphorylation in mitotic human HeLa cells released from G1/S blocks
+    - Inhibition of recombinant BUB1B (unknown origin) incubated for 60 mins in presence of [gamma-33P]-ATP by microplate sc
+    - Destabilization of BUB1B in human CAKI-1 cells assessed as reduction in BUB1B protein level at 20 uM preincubated for 
+    - Inhibition of BUB1B (unknown origin) at 1 uM relative to control
+
+wrote 10_direction_audit_results.json

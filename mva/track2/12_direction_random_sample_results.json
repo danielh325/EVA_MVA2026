@@ -1,0 +1,5409 @@
+{
+ "seed": 20261022,
+ "frame": 5869,
+ "drawn": 600,
+ "min_assays": 50,
+ "failures": [],
+ "rows": [
+  {
+   "target": "CHEMBL6067275",
+   "name": "Endoplasmic reticulum-Golgi intermediate compartment protein 1",
+   "gene": "ERGIC1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3414416",
+   "name": "Testis-specific serine/threonine-protein kinase 3",
+   "gene": "TSSK3",
+   "assays": 83,
+   "activation": 0,
+   "inhibition": 54,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5725129",
+   "name": "Regulation of nuclear pre-mRNA domain-containing protein 2",
+   "gene": "RPRD2",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1795179",
+   "name": "Rapamycin-insensitive companion of mTOR",
+   "gene": "RICTOR",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4532",
+   "name": "Vasoactive intestinal polypeptide receptor 2",
+   "gene": "VIPR2",
+   "assays": 26,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3039",
+   "name": "NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",
+   "gene": "NDUFS2",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6190",
+   "name": "Non-selective voltage-gated ion channel VDAC2",
+   "gene": "VDAC2",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5986",
+   "name": "ADP-ribosylation factor 5",
+   "gene": "ARF5",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5845",
+   "name": "Glycine receptor subunit alpha-1",
+   "gene": "GLRA1",
+   "assays": 47,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1905",
+   "name": "Integrin beta-1",
+   "gene": "ITGB1",
+   "assays": 10,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6196093",
+   "name": "Kelch-like protein 40",
+   "gene": "KLHL40",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724606",
+   "name": "Transmembrane protein 33",
+   "gene": "TMEM33",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3660",
+   "name": "Integrin alpha-V",
+   "gene": "ITGAV",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3079",
+   "name": "Thiamine transporter 1",
+   "gene": "SLC19A2",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5475",
+   "name": "Galectin-8",
+   "gene": "LGALS8",
+   "assays": 63,
+   "activation": 0,
+   "inhibition": 4,
+   "klass": "Other cytosolic protein"
+  },
+  {
+   "target": "CHEMBL5043",
+   "name": "Endoplasmic reticulum aminopeptidase 2",
+   "gene": "ERAP2",
+   "assays": 45,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2176771",
+   "name": "Complement factor D",
+   "gene": "CFD",
+   "assays": 82,
+   "activation": 0,
+   "inhibition": 40,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6066942",
+   "name": "rRNA 2'-O-methyltransferase fibrillarin",
+   "gene": "FBL",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067462",
+   "name": "Leukocyte receptor cluster member 8",
+   "gene": "LENG8",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067094",
+   "name": "Ras-related protein Rab-8A",
+   "gene": "RAB8A",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066483",
+   "name": "Transport and Golgi organization protein 1 homolog",
+   "gene": "MIA3",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3117",
+   "name": "Choline kinase alpha",
+   "gene": "CHKA",
+   "assays": 45,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2072",
+   "name": "Sodium channel protein type 4 subunit alpha",
+   "gene": "SCN4A",
+   "assays": 66,
+   "activation": 2,
+   "inhibition": 50,
+   "klass": "Ion channel"
+  },
+  {
+   "target": "CHEMBL4739701",
+   "name": "E3 ubiquitin-protein ligase ZFP91",
+   "gene": "ZFP91",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2758",
+   "name": "Mannose-6-phosphate isomerase",
+   "gene": "MPI",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6122",
+   "name": "Group XIIA secretory phospholipase A2",
+   "gene": "PLA2G12A",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066174",
+   "name": "Transcription initiation factor TFIID subunit 5",
+   "gene": "TAF5",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4296008",
+   "name": "Neuroblast differentiation-associated protein AHNAK",
+   "gene": "AHNAK",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2055",
+   "name": "Retinoic acid receptor alpha",
+   "gene": "RARA",
+   "assays": 318,
+   "activation": 8,
+   "inhibition": 28,
+   "klass": "Transcription factor"
+  },
+  {
+   "target": "CHEMBL6066163",
+   "name": "PWWP domain-containing protein 2B",
+   "gene": "PWWP2B",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3736",
+   "name": "Angiotensin-converting enzyme 2",
+   "gene": "ACE2",
+   "assays": 67,
+   "activation": 1,
+   "inhibition": 48,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3638356",
+   "name": "Membrane metallo-endopeptidase-like 1",
+   "gene": "MMEL1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2287",
+   "name": "Cytosolic phospholipase A2 delta",
+   "gene": "PLA2G4D",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725174",
+   "name": "E3 SUMO-protein ligase PIAS4",
+   "gene": "PIAS4",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3351200",
+   "name": "Kinesin-like protein KIFC1",
+   "gene": "KIFC1",
+   "assays": 27,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523392",
+   "name": "Polypeptide N-acetylgalactosaminyltransferase 13",
+   "gene": "GALNT13",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1795",
+   "name": "Atrial natriuretic peptide receptor 2",
+   "gene": "NPR2",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4069",
+   "name": "Corticotropin-releasing factor receptor 2",
+   "gene": "CRHR2",
+   "assays": 32,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4112",
+   "name": "Amine oxidase [copper-containing] 2",
+   "gene": "AOC2",
+   "assays": 13,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2319",
+   "name": "Kallikrein-1",
+   "gene": "KLK1",
+   "assays": 111,
+   "activation": 0,
+   "inhibition": 46,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4523134",
+   "name": "Cytochrome b5 type B",
+   "gene": "CYB5B",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3164",
+   "name": "Adenylate cyclase type 3",
+   "gene": "ADCY3",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3105",
+   "name": "Poly [ADP-ribose] polymerase 1",
+   "gene": "PARP1",
+   "assays": 705,
+   "activation": 0,
+   "inhibition": 531,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5724781",
+   "name": "Cleavage and polyadenylation specificity factor subunit 1",
+   "gene": "CPSF1",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5909",
+   "name": "Hypoxia-inducible factor 1-alpha inhibitor",
+   "gene": "HIF1AN",
+   "assays": 20,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4879432",
+   "name": "Proteasome subunit alpha type-1",
+   "gene": "PSMA1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4879445",
+   "name": "Gamma-aminobutyric acid receptor-associated protein-like 2",
+   "gene": "GABARAPL2",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3108660",
+   "name": "von Hippel-Lindau disease tumor suppressor",
+   "gene": "VHL",
+   "assays": 63,
+   "activation": 0,
+   "inhibition": 13,
+   "klass": "Unclassified protein"
+  },
+  {
+   "target": "CHEMBL2637",
+   "name": "Mitogen-activated protein kinase 10",
+   "gene": "MAPK10",
+   "assays": 692,
+   "activation": 0,
+   "inhibition": 525,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3491",
+   "name": "Cytochrome P450 2J2",
+   "gene": "CYP2J2",
+   "assays": 77,
+   "activation": 0,
+   "inhibition": 22,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4295834",
+   "name": "Dihydropyrimidinase-related protein 2",
+   "gene": "DPYSL2",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066417",
+   "name": "1-acyl-sn-glycerol-3-phosphate acyltransferase epsilon",
+   "gene": "AGPAT5",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105975",
+   "name": "Cytochrome c1, heme protein, mitochondrial",
+   "gene": "CYC1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2821",
+   "name": "Coagulation factor XII",
+   "gene": "F12",
+   "assays": 128,
+   "activation": 1,
+   "inhibition": 101,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4295730",
+   "name": "Receptor-type tyrosine-protein phosphatase zeta",
+   "gene": "PTPRZ1",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523125",
+   "name": "Na(+)/H(+) exchange regulatory cofactor NHE-RF1",
+   "gene": "NHERF1",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067628",
+   "name": "Ubiquitin-associated and SH3 domain-containing protein A",
+   "gene": "UBASH3A",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2505",
+   "name": "Serine/threonine-protein phosphatase 2A activator",
+   "gene": "PTPA",
+   "assays": 17,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2252",
+   "name": "Dipeptidyl peptidase 1",
+   "gene": "CTSC",
+   "assays": 107,
+   "activation": 0,
+   "inhibition": 75,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3774300",
+   "name": "Histone acetyltransferase KAT6B",
+   "gene": "KAT6B",
+   "assays": 22,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5291519",
+   "name": "Folliculin-interacting protein 1",
+   "gene": "FNIP1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5808",
+   "name": "Cyclin-dependent kinase 11B",
+   "gene": "CDK11B",
+   "assays": 131,
+   "activation": 0,
+   "inhibition": 80,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3255",
+   "name": "Cyclic AMP-dependent transcription factor ATF-1",
+   "gene": "ATF1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3636",
+   "name": "Neuromedin-B receptor",
+   "gene": "NMBR",
+   "assays": 31,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3712859",
+   "name": "Claudin-18",
+   "gene": "CLDN18",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3670",
+   "name": "3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2",
+   "gene": "HSD3B2",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2052034",
+   "name": "Solute carrier family 2, facilitated glucose transporter member 9",
+   "gene": "SLC2A9",
+   "assays": 13,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4665584",
+   "name": "CD166 antigen",
+   "gene": "ALCAM",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5568",
+   "name": "Proto-oncogene tyrosine-protein kinase ROS",
+   "gene": "ROS1",
+   "assays": 435,
+   "activation": 0,
+   "inhibition": 331,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL1977",
+   "name": "Vitamin D3 receptor",
+   "gene": "VDR",
+   "assays": 556,
+   "activation": 36,
+   "inhibition": 51,
+   "klass": "Transcription factor"
+  },
+  {
+   "target": "CHEMBL3166",
+   "name": "Tyrosine-protein phosphatase non-receptor type 6",
+   "gene": "PTPN6",
+   "assays": 157,
+   "activation": 3,
+   "inhibition": 120,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2719",
+   "name": "Calnexin",
+   "gene": "CANX",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3831203",
+   "name": "26S proteasome regulatory subunit 7",
+   "gene": "PSMC2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5704",
+   "name": "Very long chain fatty acid elongase 6",
+   "gene": "ELOVL6",
+   "assays": 10,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725042",
+   "name": "Putative E3 ubiquitin-protein ligase UBR7",
+   "gene": "UBR7",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523866",
+   "name": "G-protein coupled receptor 15",
+   "gene": "GPR15",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523457",
+   "name": "V-type immunoglobulin domain-containing suppressor of T-cell activation",
+   "gene": "VSIR",
+   "assays": 37,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066506",
+   "name": "Endoplasmic reticulum metallopeptidase 1",
+   "gene": "ERMP1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2202",
+   "name": "Lecithin retinol acyltransferase",
+   "gene": "LRAT",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5305024",
+   "name": "Plasma protease C1 inhibitor",
+   "gene": "SERPING1",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3236",
+   "name": "Tyrosine-protein phosphatase non-receptor type 12",
+   "gene": "PTPN12",
+   "assays": 18,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3627594",
+   "name": "Catalase",
+   "gene": "CAT",
+   "assays": 12,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2426",
+   "name": "Casein kinase I isoform gamma-1",
+   "gene": "CSNK1G1",
+   "assays": 251,
+   "activation": 0,
+   "inhibition": 173,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6066222",
+   "name": "Small glutamine-rich tetratricopeptide repeat-containing protein alpha",
+   "gene": "SGTA",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3713343",
+   "name": "Lactadherin",
+   "gene": "MFGE8",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1976",
+   "name": "Growth hormone receptor",
+   "gene": "GHR",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523468",
+   "name": "Beta-catenin-interacting protein 1",
+   "gene": "CTNNBIP1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3959",
+   "name": "Ribosyldihydronicotinamide dehydrogenase [quinone]",
+   "gene": "NQO2",
+   "assays": 93,
+   "activation": 0,
+   "inhibition": 49,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5951",
+   "name": "Neuropeptide FF receptor 1",
+   "gene": "NPFFR1",
+   "assays": 114,
+   "activation": 0,
+   "inhibition": 1,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL3817",
+   "name": "Bcl2-associated agonist of cell death",
+   "gene": "BAD",
+   "assays": 26,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067588",
+   "name": "Ubiquitin carboxyl-terminal hydrolase 46",
+   "gene": "USP46",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4204",
+   "name": "MAP kinase-interacting serine/threonine-protein kinase 2",
+   "gene": "MKNK2",
+   "assays": 480,
+   "activation": 0,
+   "inhibition": 352,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2146355",
+   "name": "Protein CIP2A",
+   "gene": "CIP2A",
+   "assays": 17,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5069368",
+   "name": "Zinc finger and BTB domain-containing protein 21",
+   "gene": "ZBTB21",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4630883",
+   "name": "Fractalkine",
+   "gene": "CX3CL1",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5069372",
+   "name": "Zinc finger and BTB domain-containing protein 10",
+   "gene": "ZBTB10",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067158",
+   "name": "Zinc finger protein 277",
+   "gene": "ZNF277",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3710408",
+   "name": "14-3-3 protein theta",
+   "gene": "YWHAQ",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5139",
+   "name": "Peripheral-type benzodiazepine receptor",
+   "gene": "TSPO",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2169735",
+   "name": "7-dehydrocholesterol reductase",
+   "gene": "DHCR7",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523287",
+   "name": "Cullin-4B",
+   "gene": "CUL4B",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1919",
+   "name": "Voltage-dependent calcium channel subunit alpha-2/delta-1",
+   "gene": "CACNA2D1",
+   "assays": 17,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5982",
+   "name": "Disintegrin and metalloproteinase domain-containing protein 9",
+   "gene": "ADAM9",
+   "assays": 19,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4647",
+   "name": "Peptide deformylase, mitochondrial",
+   "gene": "PDF",
+   "assays": 22,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2007626",
+   "name": "DNA dC->dU-editing enzyme APOBEC-3F",
+   "gene": "APOBEC3F",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725148",
+   "name": "Kinesin-like protein KIF2A",
+   "gene": "KIF2A",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066173",
+   "name": "Beta/gamma crystallin domain-containing protein 1",
+   "gene": "CRYBG1",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2413",
+   "name": "C-C chemokine receptor type 1",
+   "gene": "CCR1",
+   "assays": 243,
+   "activation": 0,
+   "inhibition": 48,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL2100",
+   "name": "Glutathione S-transferase Mu 4",
+   "gene": "GSTM4",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4665585",
+   "name": "Inactive tyrosine-protein kinase transmembrane receptor ROR1",
+   "gene": "ROR1",
+   "assays": 24,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1899",
+   "name": "5-hydroxytryptamine receptor 3A",
+   "gene": "HTR3A",
+   "assays": 516,
+   "activation": 0,
+   "inhibition": 106,
+   "klass": "Ion channel"
+  },
+  {
+   "target": "CHEMBL3779761",
+   "name": "Chromobox protein homolog 2",
+   "gene": "CBX2",
+   "assays": 12,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4879458",
+   "name": "Sterol regulatory element-binding protein cleavage-activating protein",
+   "gene": "SCAP",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1795131",
+   "name": "Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase A",
+   "gene": "MGAT5",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4295782",
+   "name": "Coatomer subunit beta",
+   "gene": "COPB1",
+   "assays": 9,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1821",
+   "name": "Muscarinic acetylcholine receptor M4",
+   "gene": "CHRM4",
+   "assays": 613,
+   "activation": 2,
+   "inhibition": 77,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL4523184",
+   "name": "Serum response factor",
+   "gene": "SRF",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3286070",
+   "name": "Proheparin-binding EGF-like growth factor",
+   "gene": "HBEGF",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067164",
+   "name": "Large ribosomal subunit protein bL21m",
+   "gene": "MRPL21",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5550",
+   "name": "Atypical kinase COQ8A, mitochondrial",
+   "gene": "COQ8A",
+   "assays": 93,
+   "activation": 0,
+   "inhibition": 44,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6067343",
+   "name": "Centrosomal protein of 170 kDa",
+   "gene": "CEP170",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2321609",
+   "name": "Cadherin-1",
+   "gene": "CDH1",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066955",
+   "name": "Electron transfer flavoprotein subunit alpha, mitochondrial",
+   "gene": "ETFA",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066309",
+   "name": "2',3'-cyclic-nucleotide 3'-phosphodiesterase",
+   "gene": "CNP",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724743",
+   "name": "DNA dC->dU-editing enzyme APOBEC-3C",
+   "gene": "APOBEC3C",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067355",
+   "name": "Transmembrane emp24 domain-containing protein 7",
+   "gene": "TMED7",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067200",
+   "name": "Ferroptosis suppressor protein 1",
+   "gene": "AIFM2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4804247",
+   "name": "Growth arrest-specific protein 6",
+   "gene": "GAS6",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523595",
+   "name": "DNA ligase 4",
+   "gene": "LIG4",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1795117",
+   "name": "Histone-lysine N-methyltransferase, H3 lysine-79 specific",
+   "gene": "DOT1L",
+   "assays": 203,
+   "activation": 0,
+   "inhibition": 144,
+   "klass": "Epigenetic regulator"
+  },
+  {
+   "target": "CHEMBL6067146",
+   "name": "Protein FAM162A",
+   "gene": "FAM162A",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1293236",
+   "name": "ATP-dependent DNA helicase Q1",
+   "gene": "RECQL",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2311232",
+   "name": "Endoribonuclease Dicer",
+   "gene": "DICER1",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4879493",
+   "name": "Mucolipin-2",
+   "gene": "MCOLN2",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105709",
+   "name": "Recombining binding protein suppressor of hairless",
+   "gene": "RBPJ",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724677",
+   "name": "Hepatoma-derived growth factor",
+   "gene": "HDGF",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725044",
+   "name": "Wings apart-like protein homolog",
+   "gene": "WAPL",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3509601",
+   "name": "POU domain, class 2, transcription factor 1",
+   "gene": "POU2F1",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6196184",
+   "name": "Annexin A10",
+   "gene": "ANXA10",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3559707",
+   "name": "Adhesion G protein-coupled receptor G3",
+   "gene": "ADGRG3",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4661",
+   "name": "Receptor-type tyrosine-protein phosphatase mu",
+   "gene": "PTPRM",
+   "assays": 15,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5108",
+   "name": "Platelet-activating factor acetylhydrolase IB subunit alpha1",
+   "gene": "PAFAH1B3",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4630863",
+   "name": "Mortality factor 4-like protein 1",
+   "gene": "MORF4L1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5202",
+   "name": "Sodium channel protein type 8 subunit alpha",
+   "gene": "SCN8A",
+   "assays": 133,
+   "activation": 4,
+   "inhibition": 82,
+   "klass": "Ion channel"
+  },
+  {
+   "target": "CHEMBL4523255",
+   "name": "Taste receptor type 2 member 19",
+   "gene": "TAS2R19",
+   "assays": 18,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4879514",
+   "name": "Microtubule-associated protein 1 light chain 3 beta",
+   "gene": "MAP1LC3B",
+   "assays": 47,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1961789",
+   "name": "COUP transcription factor 1",
+   "gene": "NR2F1",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4296011",
+   "name": "DNA replication licensing factor MCM6",
+   "gene": "MCM6",
+   "assays": 12,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3778",
+   "name": "Interleukin-1 receptor-associated kinase 4",
+   "gene": "IRAK4",
+   "assays": 709,
+   "activation": 0,
+   "inhibition": 529,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6067007",
+   "name": "Cold shock domain-containing protein E1",
+   "gene": "CSDE1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL219",
+   "name": "D(4) dopamine receptor",
+   "gene": "DRD4",
+   "assays": 853,
+   "activation": 0,
+   "inhibition": 82,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL2692",
+   "name": "Cellular retinoic acid-binding protein 2",
+   "gene": "CRABP2",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066948",
+   "name": "Large ribosomal subunit protein uL30",
+   "gene": "RPL7",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523179",
+   "name": "Polyubiquitin-C",
+   "gene": "UBC",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067379",
+   "name": "GPI-anchor transamidase component PIGS",
+   "gene": "PIGS",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725159",
+   "name": "Poly(U)-binding-splicing factor PUF60",
+   "gene": "PUF60",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1681619",
+   "name": "Uroporphyrinogen decarboxylase",
+   "gene": "UROD",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067222",
+   "name": "Centrosome and spindle pole-associated protein 1",
+   "gene": "CSPP1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5465316",
+   "name": "Diacylglycerol kinase kappa",
+   "gene": "DGKK",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4804244",
+   "name": "Myristoylated alanine-rich C-kinase substrate",
+   "gene": "MARCKS",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5983",
+   "name": "Aldo-keto reductase family 1 member B10",
+   "gene": "AKR1B10",
+   "assays": 88,
+   "activation": 0,
+   "inhibition": 44,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6067533",
+   "name": "Tubulin beta-2B chain",
+   "gene": "TUBB2B",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4787",
+   "name": "Glutamate receptor ionotropic, NMDA 3A",
+   "gene": "GRIN3A",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523875",
+   "name": "G-protein coupled receptor 157",
+   "gene": "GPR157",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4295786",
+   "name": "Signal recognition particle subunit SRP54",
+   "gene": "SRP54",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067333",
+   "name": "Early endosome antigen 1",
+   "gene": "EEA1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724769",
+   "name": "Mitotic checkpoint protein BUB3",
+   "gene": "BUB3",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4428",
+   "name": "Prostacyclin synthase",
+   "gene": "PTGIS",
+   "assays": 12,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3826",
+   "name": "Integrin alpha-M",
+   "gene": "ITGAM",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523476",
+   "name": "Myoferlin",
+   "gene": "MYOF",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1075173",
+   "name": "Serine/threonine-protein kinase WNK1",
+   "gene": "WNK1",
+   "assays": 165,
+   "activation": 0,
+   "inhibition": 106,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5725021",
+   "name": "BAG family molecular chaperone regulator 2",
+   "gene": "BAG2",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1892",
+   "name": "Glutamate carboxypeptidase 2",
+   "gene": "FOLH1",
+   "assays": 139,
+   "activation": 0,
+   "inhibition": 57,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6066355",
+   "name": "GTP-binding protein 10",
+   "gene": "GTPBP10",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4295781",
+   "name": "F-actin-capping protein subunit alpha-1",
+   "gene": "CAPZA1",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4630882",
+   "name": "Tumor necrosis factor receptor superfamily member 13C",
+   "gene": "TNFRSF13C",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725110",
+   "name": "Structural maintenance of chromosomes protein 3",
+   "gene": "SMC3",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3712868",
+   "name": "17-beta-hydroxysteroid dehydrogenase 14",
+   "gene": "HSD17B14",
+   "assays": 13,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3411",
+   "name": "CAAX prenyl protease 2",
+   "gene": "RCE1",
+   "assays": 12,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5234",
+   "name": "Ubiquitin-conjugating enzyme E2 variant 1",
+   "gene": "UBE2V1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105810",
+   "name": "Dedicator of cytokinesis protein 2",
+   "gene": "DOCK2",
+   "assays": 11,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3217398",
+   "name": "Glucose-6-phosphate exchanger SLC37A4",
+   "gene": "SLC37A4",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3253",
+   "name": "Albumin",
+   "gene": "ALB",
+   "assays": 953,
+   "activation": 0,
+   "inhibition": 33,
+   "klass": "Secreted protein"
+  },
+  {
+   "target": "CHEMBL2189135",
+   "name": "Acyl-coenzyme A thioesterase 2, mitochondrial",
+   "gene": "ACOT2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3923",
+   "name": "Nischarin",
+   "gene": "NISCH",
+   "assays": 38,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066352",
+   "name": "5-phosphohydroxy-L-lysine phospho-lyase",
+   "gene": "PHYKPL",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067331",
+   "name": "Translation initiation factor eIF2B subunit beta",
+   "gene": "EIF2B2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5120",
+   "name": "Non-secretory ribonuclease",
+   "gene": "RNASE2",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL228",
+   "name": "Sodium-dependent serotonin transporter",
+   "gene": "SLC6A4",
+   "assays": 986,
+   "activation": 2,
+   "inhibition": 376,
+   "klass": "Transporter"
+  },
+  {
+   "target": "CHEMBL1741195",
+   "name": "Enteropeptidase",
+   "gene": "TMPRSS15",
+   "assays": 18,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3580484",
+   "name": "Interleukin-12 subunit beta",
+   "gene": "IL12B",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3713541",
+   "name": "Calcitonin gene-related peptide 2",
+   "gene": "CALCB",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066318",
+   "name": "Oxygen-regulated protein 1",
+   "gene": "RP1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5291586",
+   "name": "Fibroblast growth factor receptor substrate 2",
+   "gene": "FRS2",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523192",
+   "name": "Histidine decarboxylase",
+   "gene": "HDC",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3724",
+   "name": "Lysophosphatidic acid receptor 2",
+   "gene": "LPAR2",
+   "assays": 67,
+   "activation": 0,
+   "inhibition": 14,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL6066498",
+   "name": "Reticulocalbin-1",
+   "gene": "RCN1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2060",
+   "name": "Lipoprotein lipase",
+   "gene": "LPL",
+   "assays": 16,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3924",
+   "name": "Dual specificity protein phosphatase 22",
+   "gene": "DUSP22",
+   "assays": 19,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5700",
+   "name": "Lysophosphatidic acid receptor 5",
+   "gene": "LPAR5",
+   "assays": 38,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523899",
+   "name": "Mas-related G-protein coupled receptor member D",
+   "gene": "MRGPRD",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5578",
+   "name": "Cyclin-dependent kinase 2-associated protein 1",
+   "gene": "CDK2AP1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105799",
+   "name": "Short transient receptor potential channel 7",
+   "gene": "TRPC7",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2634",
+   "name": "Tyrosine-protein kinase CSK",
+   "gene": "CSK",
+   "assays": 535,
+   "activation": 0,
+   "inhibition": 405,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3844",
+   "name": "Phosphorylase kinase beta subunit",
+   "gene": "PHKB",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5654",
+   "name": "Myosin-IIIb",
+   "gene": "MYO3B",
+   "assays": 129,
+   "activation": 0,
+   "inhibition": 73,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4523356",
+   "name": "BTB/POZ domain-containing protein KCTD8",
+   "gene": "KCTD8",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5920",
+   "name": "N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase",
+   "gene": "NAGPA",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3623",
+   "name": "NAD(P)H dehydrogenase [quinone] 1",
+   "gene": "NQO1",
+   "assays": 279,
+   "activation": 14,
+   "inhibition": 44,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4105787",
+   "name": "Diacylglycerol kinase alpha",
+   "gene": "DGKA",
+   "assays": 41,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4295701",
+   "name": "Complement C2",
+   "gene": "C2",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5295",
+   "name": "Kinesin heavy chain isoform 5A",
+   "gene": "KIF5A",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3831207",
+   "name": "26S proteasome regulatory subunit 6A",
+   "gene": "PSMC3",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3108642",
+   "name": "Bromodomain adjacent to zinc finger domain protein 2A",
+   "gene": "BAZ2A",
+   "assays": 88,
+   "activation": 0,
+   "inhibition": 21,
+   "klass": "Epigenetic regulator"
+  },
+  {
+   "target": "CHEMBL6066347",
+   "name": "Anaphase-promoting complex subunit 7",
+   "gene": "ANAPC7",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2157853",
+   "name": "Ubiquitin carboxyl-terminal hydrolase 28",
+   "gene": "USP28",
+   "assays": 32,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2437",
+   "name": "Protein phosphatase 1A",
+   "gene": "PPM1A",
+   "assays": 16,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4315",
+   "name": "P2Y purinoceptor 1",
+   "gene": "P2RY1",
+   "assays": 230,
+   "activation": 4,
+   "inhibition": 19,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL3091",
+   "name": "Sortilin",
+   "gene": "SORT1",
+   "assays": 15,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067061",
+   "name": "Unconventional myosin-If",
+   "gene": "MYO1F",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066907",
+   "name": "Large ribosomal subunit protein uL3",
+   "gene": "RPL3",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4296246",
+   "name": "Cryptochrome-1",
+   "gene": "CRY1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5069370",
+   "name": "Zinc finger and BTB domain-containing protein 1",
+   "gene": "ZBTB1",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5866",
+   "name": "Catenin beta-1",
+   "gene": "CTNNB1",
+   "assays": 168,
+   "activation": 0,
+   "inhibition": 86,
+   "klass": "Unclassified protein"
+  },
+  {
+   "target": "CHEMBL4523375",
+   "name": "Cytochrome P450 4Z1",
+   "gene": "CYP4Z1",
+   "assays": 36,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2889",
+   "name": "Tyrosine-protein phosphatase non-receptor type 22",
+   "gene": "PTPN22",
+   "assays": 136,
+   "activation": 0,
+   "inhibition": 97,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2518",
+   "name": "Bifunctional purine biosynthesis protein ATIC",
+   "gene": "ATIC",
+   "assays": 70,
+   "activation": 0,
+   "inhibition": 36,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL1909481",
+   "name": "Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1",
+   "gene": "GFPT1",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4205",
+   "name": "Potassium voltage-gated channel subfamily A member 4",
+   "gene": "KCNA4",
+   "assays": 9,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523434",
+   "name": "Bifunctional polynucleotide phosphatase/kinase",
+   "gene": "PNKP",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523429",
+   "name": "Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase",
+   "gene": "NGLY1",
+   "assays": 9,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4295747",
+   "name": "Serine hydroxymethyltransferase, mitochondrial",
+   "gene": "SHMT2",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3632452",
+   "name": "Mucosa-associated lymphoid tissue lymphoma translocation protein 1",
+   "gene": "MALT1",
+   "assays": 128,
+   "activation": 0,
+   "inhibition": 78,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3886061",
+   "name": "Nucleosome assembly protein 1-like 4",
+   "gene": "NAP1L4",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2364159",
+   "name": "Synaptosomal-associated protein 25",
+   "gene": "SNAP25",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066259",
+   "name": "TRAF-type zinc finger domain-containing protein 1",
+   "gene": "TRAFD1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5905",
+   "name": "Aldo-keto reductase family 1 member C1",
+   "gene": "AKR1C1",
+   "assays": 100,
+   "activation": 0,
+   "inhibition": 65,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5724590",
+   "name": "Monocarboxylate transporter 8",
+   "gene": "SLC16A2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1844",
+   "name": "Macrophage colony-stimulating factor 1 receptor",
+   "gene": "CSF1R",
+   "assays": 897,
+   "activation": 0,
+   "inhibition": 677,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5724615",
+   "name": "Nardilysin",
+   "gene": "NRDC",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5794",
+   "name": "Serine/threonine-protein kinase Sgk2",
+   "gene": "SGK2",
+   "assays": 195,
+   "activation": 0,
+   "inhibition": 137,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3831182",
+   "name": "Retinoid isomerohydrolase",
+   "gene": "RPE65",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4802066",
+   "name": "Biotinidase",
+   "gene": "BTD",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724690",
+   "name": "Guanine nucleotide-binding protein subunit beta-like protein 1",
+   "gene": "GNB1L",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523178",
+   "name": "Polyubiquitin-B",
+   "gene": "UBB",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4924",
+   "name": "Ribosomal protein S6 kinase alpha-6",
+   "gene": "RPS6KA6",
+   "assays": 318,
+   "activation": 0,
+   "inhibition": 187,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4105770",
+   "name": "CCR4-NOT transcription complex subunit 4",
+   "gene": "CNOT4",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4739685",
+   "name": "DNA-binding protein Ikaros",
+   "gene": "IKZF1",
+   "assays": 24,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725060",
+   "name": "Transformer-2 protein homolog beta",
+   "gene": "TRA2B",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5069367",
+   "name": "Zinc finger and BTB domain-containing protein 44",
+   "gene": "ZBTB44",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL287",
+   "name": "Sigma non-opioid intracellular receptor 1",
+   "gene": "SIGMAR1",
+   "assays": 614,
+   "activation": 0,
+   "inhibition": 85,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL5314",
+   "name": "Tyrosine-protein kinase receptor TYRO3",
+   "gene": "TYRO3",
+   "assays": 380,
+   "activation": 0,
+   "inhibition": 266,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2824",
+   "name": "Arginine--tRNA ligase, cytoplasmic",
+   "gene": "RARS1",
+   "assays": 10,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3070",
+   "name": "Intercellular adhesion molecule 1",
+   "gene": "ICAM1",
+   "assays": 28,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067206",
+   "name": "Pumilio homolog 2",
+   "gene": "PUM2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725086",
+   "name": "FACT complex subunit SSRP1",
+   "gene": "SSRP1",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523214",
+   "name": "Transcription factor HIVEP2",
+   "gene": "HIVEP2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2918",
+   "name": "cAMP-dependent protein kinase catalytic subunit beta",
+   "gene": "PRKACB",
+   "assays": 150,
+   "activation": 0,
+   "inhibition": 93,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5989",
+   "name": "Baculoviral IAP repeat-containing protein 5",
+   "gene": "BIRC5",
+   "assays": 65,
+   "activation": 1,
+   "inhibition": 30,
+   "klass": "Unclassified protein"
+  },
+  {
+   "target": "CHEMBL5724687",
+   "name": "F-box only protein 22",
+   "gene": "FBXO22",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067115",
+   "name": "SAP domain-containing ribonucleoprotein",
+   "gene": "SARNP",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724657",
+   "name": "Chromatin-remodeling ATPase INO80",
+   "gene": "INO80",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067323",
+   "name": "E3 ubiquitin-protein ligase RNF10",
+   "gene": "RNF10",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2189127",
+   "name": "Monoacylglycerol lipase ABHD6",
+   "gene": "ABHD6",
+   "assays": 50,
+   "activation": 0,
+   "inhibition": 43,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4523",
+   "name": "Serine/threonine-protein kinase pim-2",
+   "gene": "PIM2",
+   "assays": 586,
+   "activation": 0,
+   "inhibition": 408,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5724784",
+   "name": "Chromosome alignment-maintaining phosphoprotein 1",
+   "gene": "CHAMP1",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3232688",
+   "name": "Heat shock 70 kDa protein 6",
+   "gene": "HSPA6",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1250363",
+   "name": "Protein max",
+   "gene": "MAX",
+   "assays": 36,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4208",
+   "name": "Proteasome component C5",
+   "gene": "PSMB1",
+   "assays": 139,
+   "activation": 0,
+   "inhibition": 121,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5169115",
+   "name": "Transcriptional activator Myb",
+   "gene": "MYB",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1743184",
+   "name": "Microsomal glutathione S-transferase 1",
+   "gene": "MGST1",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066994",
+   "name": "AP-2 complex subunit alpha-2",
+   "gene": "AP2A2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725137",
+   "name": "Ribose-5-phosphate isomerase",
+   "gene": "RPIA",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3390822",
+   "name": "Interleukin-17A",
+   "gene": "IL17A",
+   "assays": 33,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3438",
+   "name": "Protein kinase C zeta type",
+   "gene": "PRKCZ",
+   "assays": 349,
+   "activation": 5,
+   "inhibition": 285,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL1882",
+   "name": "Neuronal acetylcholine receptor subunit alpha-4",
+   "gene": "CHRNA4",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724644",
+   "name": "Eukaryotic translation elongation factor 1 epsilon-1",
+   "gene": "EEF1E1",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5465363",
+   "name": "N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 2",
+   "gene": "B3GNT2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6161",
+   "name": "UDP-glucuronosyltransferase 2B15",
+   "gene": "UGT2B15",
+   "assays": 39,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2157854",
+   "name": "Ubiquitin carboxyl-terminal hydrolase 8",
+   "gene": "USP8",
+   "assays": 53,
+   "activation": 0,
+   "inhibition": 46,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL1918",
+   "name": "Glutamate receptor ionotropic, kainate 1",
+   "gene": "GRIK1",
+   "assays": 46,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1908381",
+   "name": "Peripheral plasma membrane protein CASK",
+   "gene": "CASK",
+   "assays": 92,
+   "activation": 0,
+   "inhibition": 28,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6067089",
+   "name": "ATP synthase F(0) complex subunit e, mitochondrial",
+   "gene": "ATP5ME",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4863",
+   "name": "Kallikrein-13",
+   "gene": "KLK13",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3731",
+   "name": "Amphiregulin",
+   "gene": "AREG",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067356",
+   "name": "Calcium uniporter protein, mitochondrial",
+   "gene": "MCU",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066418",
+   "name": "Zinc finger protein with KRAB and SCAN domains 2",
+   "gene": "ZKSCAN2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5021",
+   "name": "Cyclin-dependent kinase inhibitor 1",
+   "gene": "CDKN1A",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724795",
+   "name": "CD59 glycoprotein",
+   "gene": "CD59",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4327",
+   "name": "Long-chain fatty acid transport protein 4",
+   "gene": "SLC27A4",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2169732",
+   "name": "2-Hydroxyacid oxidase 2",
+   "gene": "HAO2",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4296009",
+   "name": "Heterogeneous nuclear ribonucleoprotein D0",
+   "gene": "HNRNPD",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067433",
+   "name": "Ubiquitin-protein ligase E3C",
+   "gene": "UBE3C",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2321632",
+   "name": "Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase",
+   "gene": "GCNT1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3808270",
+   "name": "Caveolin-1",
+   "gene": "CAV1",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5548",
+   "name": "Prokineticin receptor 2",
+   "gene": "PROKR2",
+   "assays": 9,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5291567",
+   "name": "Delta and Notch-like epidermal growth factor-related receptor",
+   "gene": "DNER",
+   "assays": 10,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5546",
+   "name": "Myosin-IIIa",
+   "gene": "MYO3A",
+   "assays": 82,
+   "activation": 0,
+   "inhibition": 41,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2167",
+   "name": "GTPase HRas",
+   "gene": "HRAS",
+   "assays": 39,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5520",
+   "name": "Casein kinase I isoform alpha-like",
+   "gene": "CSNK1A1L",
+   "assays": 93,
+   "activation": 0,
+   "inhibition": 49,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6067308",
+   "name": "E3 ubiquitin-protein ligase RNF213",
+   "gene": "RNF213",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3257",
+   "name": "Aldehyde oxidase",
+   "gene": "AOX1",
+   "assays": 154,
+   "activation": 0,
+   "inhibition": 7,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6066159",
+   "name": "Splicing factor 3A subunit 2",
+   "gene": "SF3A2",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3334416",
+   "name": "Transcriptional enhancer factor TEF-1",
+   "gene": "TEAD1",
+   "assays": 53,
+   "activation": 0,
+   "inhibition": 31,
+   "klass": "Transcription factor"
+  },
+  {
+   "target": "CHEMBL3713023",
+   "name": "Tumor necrosis factor ligand superfamily member 12",
+   "gene": "TNFSF12",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3425389",
+   "name": "Serine/threonine-protein phosphatase 5",
+   "gene": "PPP5C",
+   "assays": 46,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523469",
+   "name": "SAFB-like transcription modulator",
+   "gene": "SLTM",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3351215",
+   "name": "Small ribosomal subunit protein eS6",
+   "gene": "RPS6",
+   "assays": 19,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067347",
+   "name": "Phosphatidylserine synthase 2",
+   "gene": "PTDSS2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3190",
+   "name": "Glutamate receptor 4",
+   "gene": "GRIA4",
+   "assays": 40,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3259467",
+   "name": "RuvB-like 1",
+   "gene": "RUVBL1",
+   "assays": 15,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066372",
+   "name": "GH3 domain-containing protein",
+   "gene": "GHDC",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5121",
+   "name": "Mitogen-activated protein kinase 6",
+   "gene": "MAPK6",
+   "assays": 98,
+   "activation": 0,
+   "inhibition": 37,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL1250348",
+   "name": "Myc proto-oncogene protein",
+   "gene": "MYC",
+   "assays": 111,
+   "activation": 0,
+   "inhibition": 77,
+   "klass": "Transcription factor"
+  },
+  {
+   "target": "CHEMBL4523495",
+   "name": "Cytosolic carboxypeptidase 1",
+   "gene": "AGTPBP1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2688",
+   "name": "Hexokinase-1",
+   "gene": "HK1",
+   "assays": 12,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725051",
+   "name": "Zinc finger BED domain-containing protein 4",
+   "gene": "ZBED4",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066272",
+   "name": "ER lumen protein-retaining receptor 1",
+   "gene": "KDELR1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3632458",
+   "name": "S-phase kinase-associated protein 2",
+   "gene": "SKP2",
+   "assays": 13,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2926",
+   "name": "Alpha-(1,3)-fucosyltransferase 10",
+   "gene": "POFUT3",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067246",
+   "name": "Large ribosomal subunit protein mL38",
+   "gene": "MRPL38",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066464",
+   "name": "Keratin, type I cytoskeletal 18",
+   "gene": "KRT18",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066883",
+   "name": "Alpha-aminoadipic semialdehyde dehydrogenase",
+   "gene": "ALDH7A1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523918",
+   "name": "G-protein coupled receptor 61",
+   "gene": "GPR61",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523924",
+   "name": "G-protein coupled receptor 83",
+   "gene": "GPR83",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1927",
+   "name": "Thioredoxin reductase 1, cytoplasmic",
+   "gene": "TXNRD1",
+   "assays": 45,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1961785",
+   "name": "Receptor-type tyrosine-protein phosphatase U",
+   "gene": "PTPRU",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2046260",
+   "name": "Kynurenine--oxoglutarate transaminase 3",
+   "gene": "KYAT3",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3108649",
+   "name": "Methylosome protein WDR77",
+   "gene": "WDR77",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724688",
+   "name": "Gem-associated protein 5",
+   "gene": "GEMIN5",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1795139",
+   "name": "Transmembrane protease serine 6",
+   "gene": "TMPRSS6",
+   "assays": 21,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1828",
+   "name": "DNA polymerase alpha catalytic subunit",
+   "gene": "POLA1",
+   "assays": 73,
+   "activation": 0,
+   "inhibition": 47,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4295816",
+   "name": "Sequestosome-1",
+   "gene": "SQSTM1",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067204",
+   "name": "Spatacsin",
+   "gene": "SPG11",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6196112",
+   "name": "Kelch repeat and BTB domain-containing protein 8",
+   "gene": "KBTBD8",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3714130",
+   "name": "G-protein coupled receptor 6",
+   "gene": "GPR6",
+   "assays": 36,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1741186",
+   "name": "Nuclear receptor ROR-gamma",
+   "gene": "RORC",
+   "assays": 758,
+   "activation": 1,
+   "inhibition": 66,
+   "klass": "Transcription factor"
+  },
+  {
+   "target": "CHEMBL2081",
+   "name": "Glutathione S-transferase Mu 1",
+   "gene": "GSTM1",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2062352",
+   "name": "Eukaryotic translation initiation factor 3 subunit F",
+   "gene": "EIF3F",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3119",
+   "name": "Transient receptor potential cation channel subfamily V member 4",
+   "gene": "TRPV4",
+   "assays": 99,
+   "activation": 5,
+   "inhibition": 17,
+   "klass": "Ion channel"
+  },
+  {
+   "target": "CHEMBL3777",
+   "name": "Metabotropic glutamate receptor 7",
+   "gene": "GRM7",
+   "assays": 110,
+   "activation": 0,
+   "inhibition": 10,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL5209632",
+   "name": "Solute carrier family 23 member 1",
+   "gene": "SLC23A1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5498502",
+   "name": "BCL11 transcription factor A",
+   "gene": "BCL11A",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067209",
+   "name": "Vacuolar protein sorting-associated protein 28 homolog",
+   "gene": "VPS28",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066292",
+   "name": "ATP synthase peripheral stalk subunit OSCP, mitochondrial",
+   "gene": "ATP5PO",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4338",
+   "name": "Purine nucleoside phosphorylase",
+   "gene": "PNP",
+   "assays": 156,
+   "activation": 0,
+   "inhibition": 60,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2420",
+   "name": "Carbonic anhydrase-related protein 11",
+   "gene": "CA11",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL290",
+   "name": "cGMP-inhibited 3',5'-cyclic phosphodiesterase 3B",
+   "gene": "PDE3B",
+   "assays": 86,
+   "activation": 0,
+   "inhibition": 72,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2185",
+   "name": "Aurora kinase B",
+   "gene": "AURKB",
+   "assays": 1176,
+   "activation": 2,
+   "inhibition": 911,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3337330",
+   "name": "Serine/threonine-protein kinase PINK1, mitochondrial",
+   "gene": "PINK1",
+   "assays": 24,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1781868",
+   "name": "Programmed cell death protein 4",
+   "gene": "PDCD4",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2222",
+   "name": "Ornithine transcarbamylase, mitochondrial",
+   "gene": "OTC",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1293275",
+   "name": "Protein phosphatase EYA2",
+   "gene": "EYA2",
+   "assays": 36,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2021754",
+   "name": "Neutral ceramidase",
+   "gene": "ASAH2",
+   "assays": 24,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725085",
+   "name": "Serpin B8",
+   "gene": "SERPINB8",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724757",
+   "name": "Arginine and glutamate-rich protein 1",
+   "gene": "ARGLU1",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066169",
+   "name": "Serine/arginine-rich splicing factor 3",
+   "gene": "SRSF3",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4460",
+   "name": "Serine racemase",
+   "gene": "SRR",
+   "assays": 30,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724742",
+   "name": "ATP-binding cassette sub-family F member 1",
+   "gene": "ABCF1",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5779",
+   "name": "Linker for activation of T-cells family member 1",
+   "gene": "LAT",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3826865",
+   "name": "Fatty acid-binding protein 9",
+   "gene": "FABP9",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL240",
+   "name": "Voltage-gated inwardly rectifying potassium channel KCNH2",
+   "gene": "KCNH2",
+   "assays": 4829,
+   "activation": 34,
+   "inhibition": 3922,
+   "klass": "Ion channel"
+  },
+  {
+   "target": "CHEMBL3638338",
+   "name": "Acetyl-coenzyme A transporter 1",
+   "gene": "SLC33A1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4040",
+   "name": "Mitogen-activated protein kinase 1",
+   "gene": "MAPK1",
+   "assays": 1021,
+   "activation": 0,
+   "inhibition": 743,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3430867",
+   "name": "UDP-galactose translocator",
+   "gene": "SLC35A2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3776",
+   "name": "Caspase-8",
+   "gene": "CASP8",
+   "assays": 114,
+   "activation": 2,
+   "inhibition": 53,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5724765",
+   "name": "CLIP-associating protein 1",
+   "gene": "CLASP1",
+   "assays": 10,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6196059",
+   "name": "Aquaporin-9",
+   "gene": "AQP9",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4296265",
+   "name": "Protein S100-A9",
+   "gene": "S100A9",
+   "assays": 10,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2069163",
+   "name": "Dual specificity testis-specific protein kinase 2",
+   "gene": "TESK2",
+   "assays": 13,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4383",
+   "name": "Gastric inhibitory polypeptide receptor",
+   "gene": "GIPR",
+   "assays": 43,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2346493",
+   "name": "Frizzled-1",
+   "gene": "FZD1",
+   "assays": 20,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3430873",
+   "name": "N-alpha-acetyltransferase 16, NatA auxiliary subunit",
+   "gene": "NAA16",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3712927",
+   "name": "Cell surface A33 antigen",
+   "gene": "GPA33",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5465546",
+   "name": "E3 ubiquitin-protein ligase RNF31",
+   "gene": "RNF31",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2492",
+   "name": "Neuronal acetylcholine receptor subunit alpha-7",
+   "gene": "CHRNA7",
+   "assays": 555,
+   "activation": 8,
+   "inhibition": 41,
+   "klass": "Ion channel"
+  },
+  {
+   "target": "CHEMBL3588742",
+   "name": "Protein N-lysine methyltransferase METTL21D",
+   "gene": "VCPKMT",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523433",
+   "name": "Potassium channel subfamily K member 17",
+   "gene": "KCNK17",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2123",
+   "name": "P2Y purinoceptor 4",
+   "gene": "P2RY4",
+   "assays": 90,
+   "activation": 0,
+   "inhibition": 3,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL4331",
+   "name": "Hemoglobin subunit beta",
+   "gene": "HBB",
+   "assays": 12,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3399910",
+   "name": "G protein-coupled receptor 88",
+   "gene": "GPR88",
+   "assays": 30,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3730",
+   "name": "Dihydropteridine reductase",
+   "gene": "QDPR",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067402",
+   "name": "Protein canopy homolog 3",
+   "gene": "CNPY3",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1293274",
+   "name": "Eukaryotic translation initiation factor 4H",
+   "gene": "EIF4H",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067142",
+   "name": "Contactin-1",
+   "gene": "CNTN1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3596086",
+   "name": "Neuropeptide S",
+   "gene": "NPS",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3627583",
+   "name": "Kinase suppressor of Ras 2",
+   "gene": "KSR2",
+   "assays": 28,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1075092",
+   "name": "Glycine receptor subunit alpha-3",
+   "gene": "GLRA3",
+   "assays": 15,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067105",
+   "name": "N-acetylneuraminate-9-phosphate synthase",
+   "gene": "NANS",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3308928",
+   "name": "Eukaryotic translation initiation factor 4B",
+   "gene": "EIF4B",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6196104",
+   "name": "Kelch-like protein 17",
+   "gene": "KLHL17",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2819",
+   "name": "Glutathione S-transferase Mu 5",
+   "gene": "GSTM5",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2327",
+   "name": "Substance-K receptor",
+   "gene": "TACR2",
+   "assays": 338,
+   "activation": 1,
+   "inhibition": 56,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL5640",
+   "name": "Prolyl 4-hydroxylase subunit alpha-2",
+   "gene": "P4HA2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066351",
+   "name": "E3 ubiquitin-protein ligase CBL",
+   "gene": "CBL",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1772928",
+   "name": "ATP-binding cassette sub-family B member 5",
+   "gene": "ABCB5",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5890",
+   "name": "Endothelin-converting enzyme 2",
+   "gene": "ECE2",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2379",
+   "name": "Sodium/potassium-transporting ATPase subunit beta-1",
+   "gene": "ATP1B1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2176854",
+   "name": "Macrophage mannose receptor 1",
+   "gene": "MRC1",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4879459",
+   "name": "E3 ubiquitin-protein ligase CBL-B",
+   "gene": "CBLB",
+   "assays": 58,
+   "activation": 0,
+   "inhibition": 45,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4079",
+   "name": "Beta-adrenergic receptor kinase 1",
+   "gene": "GRK2",
+   "assays": 206,
+   "activation": 0,
+   "inhibition": 148,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4105737",
+   "name": "Bromodomain adjacent to zinc finger domain protein 1A",
+   "gene": "BAZ1A",
+   "assays": 10,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2632",
+   "name": "HLA class I histocompatibility antigen, A alpha chain",
+   "gene": "HLA-A",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3137295",
+   "name": "L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase",
+   "gene": "AASDHPPT",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6196108",
+   "name": "N-acetylaspartylglutamate synthase A",
+   "gene": "RIMKLA",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4967",
+   "name": "NF-kappa-B essential modulator",
+   "gene": "IKBKG",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2925",
+   "name": "Potassium voltage-gated channel subfamily KQT member 5",
+   "gene": "KCNQ5",
+   "assays": 13,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1843",
+   "name": "Aromatic-L-amino-acid decarboxylase",
+   "gene": "DDC",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5993",
+   "name": "25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial",
+   "gene": "CYP27B1",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523226",
+   "name": "Interleukin-12 receptor subunit beta-1",
+   "gene": "IL12RB1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105932",
+   "name": "Serine/threonine-protein kinase/endoribonuclease IRE2",
+   "gene": "ERN2",
+   "assays": 19,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1994",
+   "name": "Mineralocorticoid receptor",
+   "gene": "NR3C2",
+   "assays": 286,
+   "activation": 3,
+   "inhibition": 13,
+   "klass": "Transcription factor"
+  },
+  {
+   "target": "CHEMBL4630857",
+   "name": "NLR family CARD domain-containing protein 4",
+   "gene": "NLRC4",
+   "assays": 13,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067143",
+   "name": "Heme A synthase COX15",
+   "gene": "COX15",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3123",
+   "name": "Death-associated protein kinase 2",
+   "gene": "DAPK2",
+   "assays": 185,
+   "activation": 1,
+   "inhibition": 112,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6066926",
+   "name": "ATP-binding cassette sub-family D member 3",
+   "gene": "ABCD3",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066909",
+   "name": "Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial",
+   "gene": "DLST",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2652",
+   "name": "cGMP-dependent 3',5'-cyclic phosphodiesterase",
+   "gene": "PDE2A",
+   "assays": 332,
+   "activation": 0,
+   "inhibition": 264,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2311242",
+   "name": "Laforin",
+   "gene": "EPM2A",
+   "assays": 18,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3108651",
+   "name": "Retinoblastoma-binding protein 5",
+   "gene": "RBBP5",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105935",
+   "name": "RNA cytidine acetyltransferase",
+   "gene": "NAT10",
+   "assays": 10,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3421522",
+   "name": "Oxidized low-density lipoprotein receptor 1",
+   "gene": "OLR1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5242",
+   "name": "Glucosidase 2 subunit beta",
+   "gene": "PRKCSH",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1772927",
+   "name": "Serine hydroxymethyltransferase, cytosolic",
+   "gene": "SHMT1",
+   "assays": 9,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725184",
+   "name": "Nuclear mitotic apparatus protein 1",
+   "gene": "NUMA1",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5678",
+   "name": "G protein-coupled receptor kinase 5",
+   "gene": "GRK5",
+   "assays": 172,
+   "activation": 0,
+   "inhibition": 120,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL1909490",
+   "name": "Interleukin-1 beta",
+   "gene": "IL1B",
+   "assays": 26,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4295967",
+   "name": "Diphosphoinositol polyphosphate phosphohydrolase 2",
+   "gene": "NUDT4",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066382",
+   "name": "Ceroid-lipofuscinosis neuronal protein 6",
+   "gene": "CLN6",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066365",
+   "name": "Transmembrane protein 120A",
+   "gene": "TMEM120A",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066426",
+   "name": "ER membrane protein complex subunit 2",
+   "gene": "EMC2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067119",
+   "name": "Vacuolar ATPase assembly integral membrane protein VMA21",
+   "gene": "VMA21",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105882",
+   "name": "TATA box-binding protein-associated factor RNA polymerase I subunit A",
+   "gene": "TAF1A",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5465350",
+   "name": "Fermitin family homolog 1",
+   "gene": "FERMT1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2176853",
+   "name": "C-type lectin domain family 4 member K",
+   "gene": "CD207",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4581",
+   "name": "Kinesin-like protein KIF11",
+   "gene": "KIF11",
+   "assays": 186,
+   "activation": 0,
+   "inhibition": 148,
+   "klass": "Other cytosolic protein"
+  },
+  {
+   "target": "CHEMBL3713062",
+   "name": "Tissue factor pathway inhibitor",
+   "gene": "TFPI",
+   "assays": 116,
+   "activation": 0,
+   "inhibition": 51,
+   "klass": "Unclassified protein"
+  },
+  {
+   "target": "CHEMBL1293189",
+   "name": "ABC-type oligopeptide transporter ABCB9",
+   "gene": "ABCB9",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523471",
+   "name": "Taste receptor type 2 member 13",
+   "gene": "TAS2R13",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4142",
+   "name": "Fibroblast growth factor receptor 2",
+   "gene": "FGFR2",
+   "assays": 779,
+   "activation": 0,
+   "inhibition": 591,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6067205",
+   "name": "General transcription factor 3C polypeptide 2",
+   "gene": "GTF3C2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2274",
+   "name": "Sphingosine 1-phosphate receptor 5",
+   "gene": "S1PR5",
+   "assays": 135,
+   "activation": 4,
+   "inhibition": 7,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL1971",
+   "name": "ATP-binding cassette sub-family C member 9",
+   "gene": "ABCC9",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3982",
+   "name": "Tyrosine-protein kinase Fer",
+   "gene": "FER",
+   "assays": 348,
+   "activation": 0,
+   "inhibition": 236,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2979",
+   "name": "Integrin beta-7",
+   "gene": "ITGB7",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2363011",
+   "name": "Voltage-gated inwardly rectifying potassium channel KCNH6",
+   "gene": "KCNH6",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6014",
+   "name": "Testis-specific serine/threonine-protein kinase 2",
+   "gene": "TSSK2",
+   "assays": 150,
+   "activation": 0,
+   "inhibition": 121,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2773",
+   "name": "Potassium voltage-gated channel subfamily A member 7",
+   "gene": "KCNA7",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1883",
+   "name": "Neuronal acetylcholine receptor subunit beta-2",
+   "gene": "CHRNB2",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3710",
+   "name": "Prostaglandin E2 receptor EP3 subtype",
+   "gene": "PTGER3",
+   "assays": 194,
+   "activation": 0,
+   "inhibition": 16,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL4523324",
+   "name": "Mesoderm-specific transcript homolog protein",
+   "gene": "MEST",
+   "assays": 20,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL253",
+   "name": "Cannabinoid receptor 2",
+   "gene": "CNR2",
+   "assays": 1551,
+   "activation": 3,
+   "inhibition": 56,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL2176858",
+   "name": "C-type lectin domain family 4 member M",
+   "gene": "CLEC4M",
+   "assays": 23,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1932891",
+   "name": "Acyl-protein thioesterase 2",
+   "gene": "LYPLA2",
+   "assays": 24,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1836",
+   "name": "Prostaglandin E2 receptor EP4 subtype",
+   "gene": "PTGER4",
+   "assays": 288,
+   "activation": 0,
+   "inhibition": 36,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL6067547",
+   "name": "Large ribosomal subunit protein eL30",
+   "gene": "RPL30",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5479",
+   "name": "Hepatocyte growth factor",
+   "gene": "HGF",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3712862",
+   "name": "Intercellular adhesion molecule 3",
+   "gene": "ICAM3",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1615389",
+   "name": "SUMO-activating enzyme subunit 2",
+   "gene": "UBA2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3759",
+   "name": "Histamine H4 receptor",
+   "gene": "HRH4",
+   "assays": 478,
+   "activation": 1,
+   "inhibition": 62,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL6066509",
+   "name": "Leukocyte elastase inhibitor",
+   "gene": "SERPINB1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4422",
+   "name": "Free fatty acid receptor 1",
+   "gene": "FFAR1",
+   "assays": 441,
+   "activation": 3,
+   "inhibition": 5,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL6066161",
+   "name": "Symplekin",
+   "gene": "SYMPK",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523193",
+   "name": "General transcription and DNA repair factor IIH helicase/translocase subunit XPB",
+   "gene": "ERCC3",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3682",
+   "name": "Integrin alpha-1",
+   "gene": "ITGA1",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4296042",
+   "name": "Diphosphoinositol polyphosphate phosphohydrolase 3-beta",
+   "gene": "NUDT11",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4903",
+   "name": "Low molecular weight phosphotyrosine protein phosphatase",
+   "gene": "ACP1",
+   "assays": 84,
+   "activation": 0,
+   "inhibition": 61,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3712972",
+   "name": "Epidermal growth factor-like protein 7",
+   "gene": "EGFL7",
+   "assays": 0,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2321636",
+   "name": "SH2 domain-containing protein 1A",
+   "gene": "SH2D1A",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2864",
+   "name": "Methylated-DNA--protein-cysteine methyltransferase",
+   "gene": "MGMT",
+   "assays": 85,
+   "activation": 0,
+   "inhibition": 25,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4175",
+   "name": "Megakaryocyte-associated tyrosine-protein kinase",
+   "gene": "MATK",
+   "assays": 138,
+   "activation": 0,
+   "inhibition": 88,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5500",
+   "name": "Histone acetyltransferase KAT2B",
+   "gene": "KAT2B",
+   "assays": 206,
+   "activation": 0,
+   "inhibition": 111,
+   "klass": "Epigenetic regulator"
+  },
+  {
+   "target": "CHEMBL5725039",
+   "name": "Zinc finger X-chromosomal protein",
+   "gene": "ZFX",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4076",
+   "name": "Sodium/calcium exchanger 1",
+   "gene": "SLC8A1",
+   "assays": 9,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5014",
+   "name": "Receptor-interacting serine/threonine-protein kinase 2",
+   "gene": "RIPK2",
+   "assays": 428,
+   "activation": 0,
+   "inhibition": 303,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6066870",
+   "name": "Coatomer subunit alpha",
+   "gene": "COPA",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6164",
+   "name": "Poly [ADP-ribose] polymerase tankyrase-1",
+   "gene": "TNKS",
+   "assays": 170,
+   "activation": 0,
+   "inhibition": 138,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2433",
+   "name": "Neuroendocrine convertase 2",
+   "gene": "PCSK2",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3886123",
+   "name": "Thyrotropin-releasing hormone-degrading ectoenzyme",
+   "gene": "TRHDE",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4940",
+   "name": "L-lactate dehydrogenase B chain",
+   "gene": "LDHB",
+   "assays": 73,
+   "activation": 0,
+   "inhibition": 30,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2163183",
+   "name": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+   "gene": "SIRT5",
+   "assays": 231,
+   "activation": 16,
+   "inhibition": 135,
+   "klass": "Epigenetic regulator"
+  },
+  {
+   "target": "CHEMBL4846",
+   "name": "SH2/SH3 adapter protein NCK1",
+   "gene": "NCK1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067234",
+   "name": "CMP-sialic acid transporter",
+   "gene": "SLC35A1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4225",
+   "name": "Dual specificity protein kinase CLK2",
+   "gene": "CLK2",
+   "assays": 454,
+   "activation": 0,
+   "inhibition": 317,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5028",
+   "name": "Disintegrin and metalloproteinase domain-containing protein 10",
+   "gene": "ADAM10",
+   "assays": 64,
+   "activation": 1,
+   "inhibition": 57,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3038",
+   "name": "Carboxypeptidase M",
+   "gene": "CPM",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2239",
+   "name": "Carbohydrate sulfotransferase 4",
+   "gene": "CHST4",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1075315",
+   "name": "C-X-C chemokine receptor type 5",
+   "gene": "CXCR5",
+   "assays": 33,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3621037",
+   "name": "RNA demethylase ALKBH5",
+   "gene": "ALKBH5",
+   "assays": 130,
+   "activation": 0,
+   "inhibition": 89,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4523486",
+   "name": "Hydroxyproline dehydrogenase",
+   "gene": "PRODH2",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2140",
+   "name": "Tryptophan 2,3-dioxygenase",
+   "gene": "TDO2",
+   "assays": 151,
+   "activation": 0,
+   "inhibition": 116,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2883",
+   "name": "Thymidine kinase, cytosolic",
+   "gene": "TK1",
+   "assays": 144,
+   "activation": 0,
+   "inhibition": 24,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL5071",
+   "name": "Prostaglandin D2 receptor 2",
+   "gene": "PTGDR2",
+   "assays": 284,
+   "activation": 0,
+   "inhibition": 14,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL5975",
+   "name": "Serine/threonine-protein kinase RIO1",
+   "gene": "RIOK1",
+   "assays": 100,
+   "activation": 0,
+   "inhibition": 42,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4105743",
+   "name": "General transcription and DNA repair factor IIH helicase subunit XPD",
+   "gene": "ERCC2",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1649048",
+   "name": "Deoxyribonuclease gamma",
+   "gene": "DNASE1L3",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066363",
+   "name": "Complement component 1 Q subcomponent-binding protein, mitochondrial",
+   "gene": "C1QBP",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066411",
+   "name": "Adenosine 3'-phospho 5'-phosphosulfate transporter 1",
+   "gene": "SLC35B2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3879836",
+   "name": "Ras-related protein Rab-7L1",
+   "gene": "RAB29",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5338",
+   "name": "Ectonucleoside triphosphate diphosphohydrolase 8",
+   "gene": "ENTPD8",
+   "assays": 21,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5874",
+   "name": "Solute carrier family 2, facilitated glucose transporter member 4",
+   "gene": "SLC2A4",
+   "assays": 24,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5967",
+   "name": "Kinesin-like protein KIF2C",
+   "gene": "KIF2C",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724785",
+   "name": "Charged multivesicular body protein 1a",
+   "gene": "CHMP1A",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5169149",
+   "name": "Serine/arginine-rich splicing factor 6",
+   "gene": "SRSF6",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2869",
+   "name": "AMP deaminase 1",
+   "gene": "AMPD1",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5364",
+   "name": "Serine/threonine-protein kinase NLK",
+   "gene": "NLK",
+   "assays": 204,
+   "activation": 0,
+   "inhibition": 120,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL1926497",
+   "name": "NADPH oxidase 5",
+   "gene": "NOX5",
+   "assays": 12,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067276",
+   "name": "Exocyst complex component 1",
+   "gene": "EXOC1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2039",
+   "name": "Amine oxidase [flavin-containing] B",
+   "gene": "MAOB",
+   "assays": 1564,
+   "activation": 0,
+   "inhibition": 938,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3474",
+   "name": "Phospholipase A2, membrane associated",
+   "gene": "PLA2G2A",
+   "assays": 96,
+   "activation": 0,
+   "inhibition": 57,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4295746",
+   "name": "Long-chain-fatty-acid--CoA ligase 1",
+   "gene": "ACSL1",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1697657",
+   "name": "Peptidyl-prolyl cis-trans isomerase D",
+   "gene": "PPID",
+   "assays": 22,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2665",
+   "name": "Insulin-like growth factor-binding protein 5",
+   "gene": "IGFBP5",
+   "assays": 24,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4296245",
+   "name": "Protein phosphatase EYA3",
+   "gene": "EYA3",
+   "assays": 15,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5553",
+   "name": "ATP-dependent RNA helicase DDX3X",
+   "gene": "DDX3X",
+   "assays": 32,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066525",
+   "name": "Protein VAC14 homolog",
+   "gene": "VAC14",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2321623",
+   "name": "Ubiquitin-like modifier-activating enzyme 7",
+   "gene": "UBA7",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1795168",
+   "name": "CDGSH iron-sulfur domain-containing protein 1",
+   "gene": "CISD1",
+   "assays": 11,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3217401",
+   "name": "SH2 domain-containing protein 2A",
+   "gene": "SH2D2A",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4793",
+   "name": "Dipeptidyl peptidase 9",
+   "gene": "DPP9",
+   "assays": 152,
+   "activation": 0,
+   "inhibition": 123,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4879410",
+   "name": "Branched-chain alpha-ketoacid dehydrogenase kinase",
+   "gene": "BCKDK",
+   "assays": 18,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4135",
+   "name": "Geranylgeranyl transferase type-1 subunit beta",
+   "gene": "PGGT1B",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5465368",
+   "name": "Glutathione hydrolase 7",
+   "gene": "GGT7",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3838",
+   "name": "Tubulin beta-4A chain",
+   "gene": "TUBB4A",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5291516",
+   "name": "Lymphocyte antigen 6K",
+   "gene": "LY6K",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3774290",
+   "name": "Sodium bicarbonate cotransporter 3",
+   "gene": "SLC4A7",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1293289",
+   "name": "Bromodomain-containing protein 2",
+   "gene": "BRD2",
+   "assays": 528,
+   "activation": 0,
+   "inhibition": 171,
+   "klass": "Epigenetic regulator"
+  },
+  {
+   "target": "CHEMBL5291528",
+   "name": "B-cell CLL/lymphoma 6 member B protein",
+   "gene": "BCL6B",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725133",
+   "name": "Replication factor C subunit 1",
+   "gene": "RFC1",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066962",
+   "name": "Annexin A3",
+   "gene": "ANXA3",
+   "assays": 32,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4630850",
+   "name": "Phospholipase A and acyltransferase 5",
+   "gene": "PLAAT5",
+   "assays": 12,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523135",
+   "name": "Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase 2",
+   "gene": "PPIP5K2",
+   "assays": 4,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066866",
+   "name": "UV excision repair protein RAD23 homolog B",
+   "gene": "RAD23B",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066868",
+   "name": "Protein transport protein Sec24C",
+   "gene": "SEC24C",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523474",
+   "name": "Taste receptor type 2 member 3",
+   "gene": "TAS2R3",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2357",
+   "name": "NADH-ubiquinone oxidoreductase B18 subunit",
+   "gene": "NDUFB7",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2079849",
+   "name": "Serine protease hepsin",
+   "gene": "HPN",
+   "assays": 32,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3891",
+   "name": "Calpain-1 catalytic subunit",
+   "gene": "CAPN1",
+   "assays": 199,
+   "activation": 0,
+   "inhibition": 81,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4523873",
+   "name": "G-protein coupled receptor family C group 6 member A",
+   "gene": "GPRC6A",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4004",
+   "name": "Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform",
+   "gene": "PHKG1",
+   "assays": 189,
+   "activation": 0,
+   "inhibition": 122,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6067546",
+   "name": "Large ribosomal subunit protein eL31",
+   "gene": "RPL31",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2363017",
+   "name": "Voltage-gated inwardly rectifying potassium channel KCNH3",
+   "gene": "KCNH3",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523458",
+   "name": "Protein lin-28 homolog A",
+   "gene": "LIN28A",
+   "assays": 20,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3621024",
+   "name": "Kappa-casein",
+   "gene": "CSN3",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105852",
+   "name": "Eukaryotic translation initiation factor 5B",
+   "gene": "EIF5B",
+   "assays": 9,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2321627",
+   "name": "C-C chemokine receptor-like 2",
+   "gene": "CCRL2",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3321651",
+   "name": "P2Y purinoceptor 13",
+   "gene": "P2RY13",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067110",
+   "name": "Prospero homeobox protein 1",
+   "gene": "PROX1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066850",
+   "name": "Small ribosomal subunit protein uS15",
+   "gene": "RPS13",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5999",
+   "name": "3-keto-steroid reductase/17-beta-hydroxysteroid dehydrogenase 7",
+   "gene": "HSD17B7",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3259469",
+   "name": "Elongin-C",
+   "gene": "ELOC",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1865",
+   "name": "Protein deacetylase HDAC6",
+   "gene": "HDAC6",
+   "assays": 1977,
+   "activation": 2,
+   "inhibition": 1791,
+   "klass": "Epigenetic regulator"
+  },
+  {
+   "target": "CHEMBL5742",
+   "name": "Translocator protein",
+   "gene": "TSPO",
+   "assays": 145,
+   "activation": 0,
+   "inhibition": 34,
+   "klass": "Membrane receptor"
+  },
+  {
+   "target": "CHEMBL5724634",
+   "name": "Ribosomal biogenesis protein LAS1L",
+   "gene": "LAS1L",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5942",
+   "name": "Phosphatidylcholine-sterol acyltransferase",
+   "gene": "LCAT",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066356",
+   "name": "Vesicular integral-membrane protein VIP36",
+   "gene": "LMAN2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5468",
+   "name": "Ras-specific guanine nucleotide-releasing factor 1",
+   "gene": "RASGRF1",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4295681",
+   "name": "WD repeat and HMG-box DNA-binding protein 1",
+   "gene": "WDHD1",
+   "assays": 3,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3797012",
+   "name": "Tubulin beta-2A chain",
+   "gene": "TUBB2A",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL202",
+   "name": "Dihydrofolate reductase",
+   "gene": "DHFR",
+   "assays": 457,
+   "activation": 0,
+   "inhibition": 250,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3351",
+   "name": "Acetyl-CoA carboxylase 1",
+   "gene": "ACACA",
+   "assays": 63,
+   "activation": 0,
+   "inhibition": 50,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL2270",
+   "name": "cAMP-dependent protein kinase type II-beta regulatory subunit",
+   "gene": "PRKAR2B",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067420",
+   "name": "Procollagen galactosyltransferase 1",
+   "gene": "COLGALT1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105755",
+   "name": "Diacylglycerol kinase beta",
+   "gene": "DGKB",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2362986",
+   "name": "Phospholipid-transporting ATPase ABCA1",
+   "gene": "ABCA1",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4739700",
+   "name": "Methionine--tRNA ligase, mitochondrial",
+   "gene": "MARS2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066298",
+   "name": "Cytoplasmic FMR1-interacting protein 2",
+   "gene": "CYFIP2",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5169130",
+   "name": "Heat shock 70 kDa protein 4",
+   "gene": "HSPA4",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6159",
+   "name": "Ubiquitin carboxyl-terminal hydrolase isozyme L1",
+   "gene": "UCHL1",
+   "assays": 66,
+   "activation": 0,
+   "inhibition": 47,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL1697668",
+   "name": "Solute carrier organic anion transporter family member 1B1",
+   "gene": "SLCO1B1",
+   "assays": 238,
+   "activation": 0,
+   "inhibition": 72,
+   "klass": "Transporter"
+  },
+  {
+   "target": "CHEMBL4558",
+   "name": "Gamma-aminobutyric acid receptor subunit beta-1",
+   "gene": "GABRB1",
+   "assays": 11,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725124",
+   "name": "Transcription and mRNA export factor ENY2",
+   "gene": "ENY2",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725192",
+   "name": "Nuclear factor of activated T-cells, cytoplasmic 3",
+   "gene": "NFATC3",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066216",
+   "name": "Nuclear autoantigen Sp-100",
+   "gene": "SP100",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6111",
+   "name": "Protein-arginine deiminase type-4",
+   "gene": "PADI4",
+   "assays": 86,
+   "activation": 0,
+   "inhibition": 39,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL3146",
+   "name": "4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase FUT5",
+   "gene": "FUT5",
+   "assays": 9,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4767",
+   "name": "Vesicular acetylcholine transporter",
+   "gene": "SLC18A3",
+   "assays": 17,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2163185",
+   "name": "NAD-dependent protein lipoamidase sirtuin-4, mitochondrial",
+   "gene": "SIRT4",
+   "assays": 16,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6066313",
+   "name": "Signal recognition particle subunit SRP68",
+   "gene": "SRP68",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2192",
+   "name": "NADH-ubiquinone oxidoreductase B17 subunit",
+   "gene": "NDUFB6",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5725033",
+   "name": "Signal peptidase complex catalytic subunit SEC11A",
+   "gene": "SEC11A",
+   "assays": 7,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067014",
+   "name": "V-type proton ATPase subunit G 1",
+   "gene": "ATP6V1G1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067170",
+   "name": "Macoilin",
+   "gene": "MACO1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL2010625",
+   "name": "EWS-Fli1 protein",
+   "gene": "EWS-Fli1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1770034",
+   "name": "Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma",
+   "gene": "PIP4K2C",
+   "assays": 179,
+   "activation": 0,
+   "inhibition": 92,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL4860",
+   "name": "Apoptosis regulator Bcl-2",
+   "gene": "BCL2",
+   "assays": 397,
+   "activation": 0,
+   "inhibition": 144,
+   "klass": "Ion channel"
+  },
+  {
+   "target": "CHEMBL1075169",
+   "name": "Protein tyrosine phosphatase type IVA 1",
+   "gene": "PTP4A1",
+   "assays": 11,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4105797",
+   "name": "Opioid growth factor receptor",
+   "gene": "OGFR",
+   "assays": 8,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1764939",
+   "name": "Protein S100-A10",
+   "gene": "S100A10",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL3831204",
+   "name": "26S proteasome regulatory subunit 4",
+   "gene": "PSMC1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5169207",
+   "name": "E3 ubiquitin-protein ligase RNF114",
+   "gene": "RNF114",
+   "assays": 5,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4523868",
+   "name": "Probable G-protein coupled receptor 85",
+   "gene": "GPR85",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL4598",
+   "name": "Serine/threonine-protein kinase 4",
+   "gene": "STK4",
+   "assays": 327,
+   "activation": 0,
+   "inhibition": 231,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6066211",
+   "name": "Galectin-9C",
+   "gene": "LGALS9C",
+   "assays": 2,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5287",
+   "name": "Hepatic sodium/bile acid cotransporter",
+   "gene": "SLC10A1",
+   "assays": 78,
+   "activation": 0,
+   "inhibition": 42,
+   "klass": "Transporter"
+  },
+  {
+   "target": "CHEMBL4270",
+   "name": "Stromelysin-2",
+   "gene": "MMP10",
+   "assays": 52,
+   "activation": 0,
+   "inhibition": 41,
+   "klass": "Enzyme"
+  },
+  {
+   "target": "CHEMBL6066964",
+   "name": "Lysosome-associated membrane glycoprotein 1",
+   "gene": "LAMP1",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL1681631",
+   "name": "Acyl-protein thioesterase 1",
+   "gene": "LYPLA1",
+   "assays": 14,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL6067026",
+   "name": "Glia maturation factor gamma",
+   "gene": "GMFG",
+   "assays": 1,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  },
+  {
+   "target": "CHEMBL5724763",
+   "name": "Condensin-2 complex subunit D3",
+   "gene": "NCAPD3",
+   "assays": 6,
+   "activation": null,
+   "inhibition": null,
+   "klass": null
+  }
+ ]
+}

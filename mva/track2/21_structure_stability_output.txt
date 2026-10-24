@@ -1,0 +1,67 @@
+parsed 8,403 atoms over 1,050 residues from AF-O60566-F1-model_v6.pdb
+pseudokinase domain 766-1050: 285 residues, median RSA 15.8%, median contacts 147, mean pLDDT 81.9
+all six residue identities match the published alleles
+
+=== calibration set and query ===
+variant       class         dom     RSA%  cont  pLDDT  burial %ile
+------------------------------------------------------------------
+p.Lys795A     destabilised  yes      4.8   185   89.1           67
+p.Ile909T     destabilised  yes      3.7   180   87.0           73
+p.Leu1012P    destabilised  yes      0.4   188   95.3           90
+p.Tyr155C     tolerated     no       0.7   217   96.3            -
+p.Arg550Q     tolerated     no      80.5    30   35.3            -
+p.Asn1002K    UNKNOWN       yes     14.1   136   91.1           52
+
+=== does burial separate the measured classes? ===
+  destabilised  RSA [np.float64(4.8), np.float64(3.7), np.float64(0.4)]  contacts [185, 180, 188]
+  tolerated     RSA [np.float64(0.7), np.float64(80.5)]  contacts [217, 30]
+  clean separation on RSA: NO
+  n = 3 vs 2. With five labelled residues this is an ordering, not a classifier,
+  and the two classes also differ by domain membership - the confound stated up front.
+
+=== the query ===
+  p.Asn1002K: RSA 14.1%, 136 contacts, pLDDT 91.1
+  burial percentile within the pseudokinase domain: 51.9
+  Asn -> Lys: a longer side chain carrying a formal +1 charge.
+
+  THE CALIBRATION FAILS ITS OWN CONTROL, and that is reported rather than
+  dropped. Y155C is TOLERATED at RSA 0.7% - more buried than two of the
+  three destabilised positions. Burial alone therefore does not predict
+  destabilisation in this protein: Y155 is buried in the core of a
+  DIFFERENT domain (BUB1 N-terminal, 62-226), which tolerates the change.
+  Worse for the design, BOTH measured-tolerated alleles lie outside the
+  pseudokinase domain, so there is NO tolerated control inside the domain
+  to calibrate against. The percentile below is a position, not a call.
+
+=== is N1002 structurally coupled to the known positions? ===
+  landmark                                    CB-CB (A)
+  K795, pocket, measured destabilising             34.7
+  D882, catalytic proton acceptor                  22.6
+  D911, catalytic triad                            27.8
+  I909, measured destabilising                     24.6
+  L1012, measured destabilising                    14.1
+
+=== distance to the pocket, for every labelled allele ===
+  residue                               K795    D882    D911     min   class
+  I909                                  11.9     9.8     7.4     7.4   destabilised
+  L1012                                 25.7    17.7    20.0    17.7   destabilised
+  N1002                                 34.7    22.6    27.8    22.6   QUERY
+  Y155                                  67.0    70.3    68.5    67.0   tolerated
+
+  L1012P is MEASURED DESTABILISING at 17.7 A from the pocket;
+  the query is at 22.6 A and tolerated Y155C at 67.0 A.
+  So distance from the pocket does NOT separate the measured classes,
+  and being distal is compatible with destabilising rather than
+  evidence against it. An earlier draft of this report had that
+  backwards; the figure above is why it was withdrawn.
+
+  residues with CB within 8 A of N1002: 8  (6 hydrophobic, 2 polar/charged)
+    Phe977, Leu1001, Trp978, Val998, Asn1004, Ala1003, Arg999, Ile1000
+
+  wrote 21_structure_stability_results.json
+
+  REMINDER ON WHAT MAY BE CLAIMED. AlphaFold models the wild-type fold and
+  is not a stability predictor; RSA and contact number are correlates of
+  substitution tolerance, not energies. A buried position makes a
+  substitution there MORE LIKELY to be destabilising. It does not establish
+  that this one is, and it does not replace E0.

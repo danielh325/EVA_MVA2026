@@ -1,0 +1,48 @@
+building ChEMBL protein class hierarchy...
+  905 protein classes
+  enumerated 1000/5869
+  enumerated 2000/5869
+  enumerated 3000/5869
+  enumerated 4000/5869
+  enumerated 5000/5869
+  enumerated 5869/5869
+sampling frame: 5869 human SINGLE PROTEIN targets
+drew 600 at random (seed 20261022)
+  50/600 profiled, 11 qualifying, 0 failed
+  100/600 profiled, 21 qualifying, 0 failed
+  150/600 profiled, 28 qualifying, 0 failed
+  200/600 profiled, 35 qualifying, 0 failed
+  250/600 profiled, 48 qualifying, 0 failed
+  300/600 profiled, 60 qualifying, 0 failed
+  350/600 profiled, 71 qualifying, 0 failed
+  400/600 profiled, 78 qualifying, 0 failed
+  450/600 profiled, 90 qualifying, 0 failed
+  500/600 profiled, 109 qualifying, 0 failed
+  550/600 profiled, 116 qualifying, 0 failed
+  600/600 profiled, 128 qualifying, 0 failed
+
+=== random draw: 600 targets retrieved, 0 failed ===
+  assays per target, all drawn : median 6, max 4829
+  targets with 0 assays        : 15
+
+=== 128 targets with >=50 assays ===
+  median activation share   : 0.00%
+  25th / 75th percentile    : 0.00% / 0.00%
+  ZERO activation assays    : 99 (77.3%)
+  <1% activation assays     : 111 (86.7%)
+  pooled activation         : 170
+  pooled inhibition         : 22035
+  pooled inhibition:activation : 129.6 : 1
+
+=== by ChEMBL top-level protein class ===
+  (prediction: native on-switch high, scaffolds/enzymes zero)
+  class                         n    act%   zero  act/assays
+  Transcription factor          6   2.31%     2/6  48/2082
+  Ion channel                   7   0.80%     2/7  53/6595
+  Epigenetic regulator          6   0.56%     4/6  18/3233
+  Membrane receptor            18   0.27%    11/18  18/6788
+  Unclassified protein          4   0.24%     3/4  1/412
+  Transporter                   3   0.15%     2/3  2/1302
+  Enzyme                       81   0.15%    72/81  30/20317
+  Secreted protein              1   0.00%     1/1  0/953
+  Other cytosolic protein       2   0.00%     2/2  0/249

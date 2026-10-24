@@ -1,0 +1,27 @@
+# Patient data stays out of the repository (deleted after the hackathon under the data-use terms)
+data/
+/mnt/
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq
+*.fastq.gz
+*.docx
+
+# Local working copies of public graphs and models
+external/
+refs/
+work/
+scratch/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+*.log
+13_lof_disease_gene_direction_partial.jsonl

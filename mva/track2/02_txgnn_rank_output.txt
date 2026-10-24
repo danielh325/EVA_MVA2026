@@ -1,0 +1,112 @@
+
+===== indication
+all 7,957 scored drugs: rho(score, log10 degree) = -0.505
+  top 15 over all scored drugs:
+      4-Hydroxy-1,2,5-oxadiazole-3-carboxylic acid score  +8.286  degree     1
+      (3S)-3-hydroxy-1-methyl-2,3-dihydro-1H-indole-5,6-dione score  +8.059  degree     1
+      N-[2-(2-iodo-5-methoxy-1H-indol-3-yl)ethyl]acetamide score  +8.059  degree     1
+      5,8-dimethoxy-1,4-dimethylquinolin-2(1H)-one score  +8.059  degree     1
+      Casimiroin                       score  +8.059  degree     1
+      Dithioerythritol                 score  +8.016  degree     1
+      Glycinamide Ribonucleotide       score  +7.411  degree     1
+      N-({4-[(1R)-4-[(2R,4S,5S)-2,4-diamino-6-oxohexahydropyrimidin-5-yl]-1-(2,2,2-trifluoro-1,1-dihydroxyethyl)butyl]phenyl}carbonyl)-L-glutamic acid score  +7.411  degree     1
+      3-[3-chloro-5-(5-{[(1S)-1-phenylethyl]amino}isoxazolo[5,4-c]pyridin-3-yl)phenyl]propan-1-ol score  +7.362  degree     1
+      3-[3-(3-methyl-6-{[(1S)-1-phenylethyl]amino}-1H-pyrazolo[4,3-c]pyridin-1-yl)phenyl]propanamide score  +7.362  degree     1
+      1-[5-Methyl-2-(trifluoromethyl)furan-3-yl]-3-[5-[2-[[6-(1H-1,2,4-triazol-5-ylamino)pyrimidin-4-yl]amino]ethyl]-1,3-thiazol-2-yl]urea score  +7.362  degree     1
+      3-phenyl-5-(1H-pyrazol-3-yl)isoxazole score  +7.066  degree     1
+      PHENYL-5-(1H-PYRAZOL-3-YL)-1,3-THIAZOLE score  +7.066  degree     1
+      4-{[4-(4-fluoro-3-methylphenyl)-1,3-thiazol-2-yl]amino}-2-hydroxybenzoic acid score  +7.066  degree     1
+      4-(BENZHYDRYLOXY)-1-[3-(1H-TETRAAZOL-5-YL)PROPYL]PIPERIDINE score  +7.066  degree     1
+1,801 annotated drugs: rho = +0.054, slope = +0.081
+  top 15 annotated by score:
+       1  Nifurtimox                       score  +2.559  residual rank    1  degree     3
+       2  Trifarotene                      score  +2.027  residual rank    2  degree     8
+       3  Methotrexate                     score  +1.718  residual rank    3  degree  1924
+       4  Formestane                       score  +1.446  residual rank    4  degree   967
+       5  Imatinib                         score  +1.253  residual rank    6  degree  1723
+       6  Fluorouracil                     score  +1.247  residual rank    5  degree  1375
+       7  Paclitaxel                       score  +1.143  residual rank    7  degree  1741
+       8  Cenegermin                       score  +0.444  residual rank    8  degree     2
+       9  Nitisinone                       score  +0.201  residual rank    9  degree    47
+      10  Selexipag                        score  +0.194  residual rank   12  degree   993
+      11  Doxorubicin                      score  +0.180  residual rank   13  degree  1539
+      12  Mifepristone                     score  +0.136  residual rank   14  degree  1588
+      13  Furazidin                        score  +0.000  residual rank   10  degree     1
+      14  Monoxerutin                      score  +0.000  residual rank   11  degree     1
+      15  Gemcitabine                      score  -0.069  residual rank   15  degree  1395
+  NAD+ / SIRT2 (stabilise BubR1)
+      Nicotinamide                 rank   569 of 1801 ( 31.6%)  residual rank   565  degree    98
+      Niacin                       rank   218 of 1801 ( 12.1%)  residual rank   220  degree   678
+      not in the annotated list: Nicotinamide riboside, Nicotinamide mononucleotide, NADH, Nicotinic acid
+  senolytic
+      Dasatinib                    rank    69 of 1801 (  3.8%)  residual rank    71  degree  1587
+      not in the annotated list: Quercetin, Navitoclax, Fisetin
+  aneuploidy-selective stress
+      Metformin                    rank  1543 of 1801 ( 85.7%)  residual rank  1548  degree  1406
+      Chloroquine                  rank    51 of 1801 (  2.8%)  residual rank    52  degree  1681
+      Hydroxychloroquine           rank    50 of 1801 (  2.8%)  residual rank    51  degree  1294
+      not in the annotated list: Tanespimycin, Geldanamycin, Acadesine
+  contraindicated (weakens the checkpoint)
+      Paclitaxel                   rank     7 of 1801 (  0.4%)  residual rank     7  degree  1741
+      Docetaxel                    rank    98 of 1801 (  5.4%)  residual rank    99  degree  1199
+      Vincristine                  rank    87 of 1801 (  4.8%)  residual rank    89  degree  1277
+      Vinblastine                  rank    17 of 1801 (  0.9%)  residual rank    17  degree  1332
+      Eribulin                     rank    19 of 1801 (  1.1%)  residual rank    20  degree   809
+      not in the annotated list: Volasertib, Alisertib, Barasertib
+  wrote <data>/new/work/txgnn/ranked_indication.tsv
+
+===== contraindication
+all 7,957 scored drugs: rho(score, log10 degree) = -0.322
+  top 15 over all scored drugs:
+      S-(Methylmercury)-L-Cysteine     score  +8.490  degree     3
+      Cisatracurium                    score  +7.664  degree  1104
+      2-Hydroxyethyl Disulfide         score  +6.873  degree     1
+      N-(4-Aminobutanoyl)-S-(4-methoxybenzyl)-L-cysteinylglycine score  +6.873  degree     1
+      Atracurium besylate              score  +6.578  degree  1089
+      Metocurine iodide                score  +6.574  degree  1089
+      Hexamethonium                    score  +6.429  degree  1386
+      2s,4r-4-Methylglutamate          score  +4.736  degree     1
+      (3S)-3-hydroxy-1-methyl-2,3-dihydro-1H-indole-5,6-dione score  +4.623  degree     1
+      N-[2-(2-iodo-5-methoxy-1H-indol-3-yl)ethyl]acetamide score  +4.623  degree     1
+      5,8-dimethoxy-1,4-dimethylquinolin-2(1H)-one score  +4.623  degree     1
+      Casimiroin                       score  +4.623  degree     1
+      4-S-Glutathionyl-5-pentyl-tetrahydro-furan-2-ol score  +4.315  degree     1
+      Domoic Acid                      score  +4.287  degree   731
+      (4s)-5-Fluoro-L-Leucine          score  +4.211  degree     1
+1,263 annotated drugs: rho = +0.115, slope = +0.803
+  top 15 annotated by score:
+       1  Methoxsalen                      score  +3.688  residual rank    1  degree   953
+       2  Mycophenolate mofetil            score  +2.315  residual rank    2  degree  1540
+       3  Tacrolimus                       score  +1.773  residual rank    4  degree  2203
+       4  Mifepristone                     score  +1.296  residual rank    7  degree  1588
+       5  Primidone                        score  +0.987  residual rank    8  degree  1739
+       6  Ticlopidine                      score  +0.587  residual rank   12  degree  1721
+       7  Ribavirin                        score  +0.507  residual rank   10  degree   814
+       8  Busulfan                         score  +0.485  residual rank   11  degree   974
+       9  Nitrofural                       score  +0.484  residual rank    3  degree    25
+      10  Nitrofurantoin                   score  +0.435  residual rank   13  degree  1193
+      11  Temozolomide                     score  +0.387  residual rank   14  degree  1250
+      12  Nitisinone                       score  +0.380  residual rank    5  degree    47
+      13  Nalidixic acid                   score  +0.305  residual rank   16  degree  1046
+      14  Linezolid                        score  +0.240  residual rank   19  degree  1765
+      15  Azelaic acid                     score  +0.196  residual rank   15  degree   754
+  NAD+ / SIRT2 (stabilise BubR1)
+      Nicotinamide                 rank   586 of 1263 ( 46.4%)  residual rank   487  degree    98
+      not in the annotated list: Nicotinamide riboside, Nicotinamide mononucleotide, NADH, Niacin, Nicotinic acid
+  senolytic
+      Dasatinib                    rank   301 of 1263 ( 23.8%)  residual rank   339  degree  1587
+      Quercetin                    rank   203 of 1263 ( 16.1%)  residual rank   186  degree   301
+      not in the annotated list: Navitoclax, Fisetin
+  aneuploidy-selective stress
+      Metformin                    rank   496 of 1263 ( 39.3%)  residual rank   541  degree  1406
+      Chloroquine                  rank    28 of 1263 (  2.2%)  residual rank    42  degree  1681
+      Hydroxychloroquine           rank    16 of 1263 (  1.3%)  residual rank    22  degree  1294
+      not in the annotated list: Tanespimycin, Geldanamycin, Acadesine
+  contraindicated (weakens the checkpoint)
+      Paclitaxel                   rank   171 of 1263 ( 13.5%)  residual rank   199  degree  1741
+      Docetaxel                    rank   111 of 1263 (  8.8%)  residual rank   120  degree  1199
+      Vincristine                  rank    20 of 1263 (  1.6%)  residual rank    28  degree  1277
+      Vinblastine                  rank   229 of 1263 ( 18.1%)  residual rank   254  degree  1332
+      Eribulin                     rank   109 of 1263 (  8.6%)  residual rank   114  degree   809
+      not in the annotated list: Volasertib, Alisertib, Barasertib
+  wrote <data>/new/work/txgnn/ranked_contraindication.tsv

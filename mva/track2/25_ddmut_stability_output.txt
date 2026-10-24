@@ -1,0 +1,32 @@
+structure: AF-O60566-F1-model_v6.pdb  (675 KB)
+  K795A    submitted  job_id=17928511341235845
+  I909T    submitted  job_id=17928511451352832
+  L1012P   submitted  job_id=17928511515285628
+  Y155C    submitted  job_id=17928511574952965
+  R550Q    submitted  job_id=17928511635873911
+  N1002K   submitted  job_id=17928511696667142
+
+polling...
+
+=== DDMut ddG against the measured calibration set ===
+variant   class                ddG   evidence
+------------------------------------------------------------------------
+K795A     destabilised         n/a   denaturation 34.7 C vs 39.1 C WT
+I909T     destabilised         n/a   5-10 fold protein loss
+L1012P    destabilised         n/a   5-10 fold protein loss
+Y155C     tolerated            n/a   protein level unaffected
+R550Q     tolerated            n/a   protein level unaffected
+N1002K    QUERY                n/a   never assayed
+
+=== does the predictor order what we already know? ===
+  too few results returned to judge separation.
+
+=== the query ===
+  N1002K: no prediction returned.
+
+  wrote 25_ddmut_stability_results.json
+
+  WHATEVER THE NUMBERS SAY: the input is a PREDICTED structure, DDMut was
+  trained on small soluble proteins rather than 1,050-residue mitotic
+  scaffolds, and ddG is thermodynamic stability, not the steady-state
+  cellular abundance the report actually needs. This cannot replace E0.

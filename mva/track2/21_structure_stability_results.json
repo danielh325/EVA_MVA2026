@@ -1,0 +1,158 @@
+{
+ "model": "AF-O60566-F1-model_v6.pdb",
+ "domain": [
+  766,
+  1050
+ ],
+ "probe": 1.4,
+ "sphere_points": 512,
+ "domain_median_rsa": 15.81,
+ "domain_median_contacts": 147,
+ "rows": [
+  {
+   "variant": "p.Lys795A",
+   "pos": 795,
+   "wt": "K",
+   "mut": "A",
+   "class": "destabilised",
+   "identity_matches_literature": true,
+   "in_pseudokinase_domain": true,
+   "rsa_percent": 4.8,
+   "contacts_10A": 185,
+   "plddt": 89.1,
+   "burial_percentile_in_domain": 67.0,
+   "evidence": "denaturation 34.7 C vs 39.1 C WT (Suijkerbuijk 2012)"
+  },
+  {
+   "variant": "p.Ile909T",
+   "pos": 909,
+   "wt": "I",
+   "mut": "T",
+   "class": "destabilised",
+   "identity_matches_literature": true,
+   "in_pseudokinase_domain": true,
+   "rsa_percent": 3.7,
+   "contacts_10A": 180,
+   "plddt": 87.0,
+   "burial_percentile_in_domain": 72.6,
+   "evidence": "5-10 fold protein loss (Suijkerbuijk 2010)"
+  },
+  {
+   "variant": "p.Leu1012P",
+   "pos": 1012,
+   "wt": "L",
+   "mut": "P",
+   "class": "destabilised",
+   "identity_matches_literature": true,
+   "in_pseudokinase_domain": true,
+   "rsa_percent": 0.4,
+   "contacts_10A": 188,
+   "plddt": 95.3,
+   "burial_percentile_in_domain": 89.8,
+   "evidence": "5-10 fold protein loss (Suijkerbuijk 2010)"
+  },
+  {
+   "variant": "p.Tyr155C",
+   "pos": 155,
+   "wt": "Y",
+   "mut": "C",
+   "class": "tolerated",
+   "identity_matches_literature": true,
+   "in_pseudokinase_domain": false,
+   "rsa_percent": 0.7,
+   "contacts_10A": 217,
+   "plddt": 96.3,
+   "burial_percentile_in_domain": null,
+   "evidence": "protein level unaffected (Suijkerbuijk 2010)"
+  },
+  {
+   "variant": "p.Arg550Q",
+   "pos": 550,
+   "wt": "R",
+   "mut": "Q",
+   "class": "tolerated",
+   "identity_matches_literature": true,
+   "in_pseudokinase_domain": false,
+   "rsa_percent": 80.5,
+   "contacts_10A": 30,
+   "plddt": 35.3,
+   "burial_percentile_in_domain": null,
+   "evidence": "protein level unaffected (Suijkerbuijk 2010)"
+  },
+  {
+   "variant": "p.Asn1002K",
+   "pos": 1002,
+   "wt": "N",
+   "mut": "K",
+   "class": "UNKNOWN",
+   "identity_matches_literature": true,
+   "in_pseudokinase_domain": true,
+   "rsa_percent": 14.1,
+   "contacts_10A": 136,
+   "plddt": 91.1,
+   "burial_percentile_in_domain": 51.9,
+   "evidence": "never functionally assayed"
+  }
+ ],
+ "calibration_separates_on_rsa": false,
+ "no_tolerated_control_inside_domain": true,
+ "query_cb_distances": {
+  "795": 34.7,
+  "882": 22.6,
+  "911": 27.8,
+  "909": 24.6,
+  "1012": 14.1
+ },
+ "pocket_distance_by_allele": {
+  "I909": {
+   "to_pocket": [
+    11.9,
+    9.8,
+    7.4
+   ],
+   "min": 7.4,
+   "class": "destabilised"
+  },
+  "L1012": {
+   "to_pocket": [
+    25.7,
+    17.7,
+    20.0
+   ],
+   "min": 17.7,
+   "class": "destabilised"
+  },
+  "N1002": {
+   "to_pocket": [
+    34.7,
+    22.6,
+    27.8
+   ],
+   "min": 22.6,
+   "class": "QUERY"
+  },
+  "Y155": {
+   "to_pocket": [
+    67.0,
+    70.3,
+    68.5
+   ],
+   "min": 67.0,
+   "class": "tolerated"
+  }
+ },
+ "query_neighbours_8A": {
+  "n": 8,
+  "hydrophobic": 6,
+  "list": [
+   "Phe977",
+   "Leu1001",
+   "Trp978",
+   "Val998",
+   "Asn1004",
+   "Ala1003",
+   "Arg999",
+   "Ile1000"
+  ]
+ }
+}

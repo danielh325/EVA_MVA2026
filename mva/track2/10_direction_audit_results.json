@@ -1,0 +1,134 @@
+{
+ "date": "2026-10-24",
+ "global": {
+  "Inhibition": 376061,
+  "Activation": 8952,
+  "Agonist": 24287,
+  "Antagonist": 17788,
+  "Stimulation": 1072,
+  "Degradation": 153
+ },
+ "all_assays": 1970438,
+ "panel": [
+  {
+   "gene": "BUB1B",
+   "target": "CHEMBL4295998",
+   "role": "the lesion",
+   "assays": 12,
+   "activation": 0,
+   "inhibition": 8
+  },
+  {
+   "gene": "BUB1",
+   "target": "CHEMBL1772932",
+   "role": "checkpoint",
+   "assays": 86,
+   "activation": 0,
+   "inhibition": 32
+  },
+  {
+   "gene": "BUB3",
+   "target": "CHEMBL5724769",
+   "role": "checkpoint",
+   "assays": 7,
+   "activation": 0,
+   "inhibition": 6
+  },
+  {
+   "gene": "TRIP13",
+   "target": "CHEMBL5465278",
+   "role": "MVA gene",
+   "assays": 9,
+   "activation": 0,
+   "inhibition": 3
+  },
+  {
+   "gene": "AURKB",
+   "target": "CHEMBL2185",
+   "role": "druggable / contraindicated",
+   "assays": 1176,
+   "activation": 2,
+   "inhibition": 911
+  },
+  {
+   "gene": "PLK1",
+   "target": "CHEMBL3024",
+   "role": "druggable / contraindicated",
+   "assays": 960,
+   "activation": 0,
+   "inhibition": 746
+  },
+  {
+   "gene": "TTK",
+   "target": "CHEMBL3983",
+   "role": "druggable / contraindicated",
+   "assays": 492,
+   "activation": 0,
+   "inhibition": 309
+  },
+  {
+   "gene": "CENPE",
+   "target": "CHEMBL5870",
+   "role": "druggable / contraindicated",
+   "assays": 346,
+   "activation": 0,
+   "inhibition": 51
+  },
+  {
+   "gene": "SIRT2",
+   "target": "CHEMBL4462",
+   "role": "we need an INCREASE",
+   "assays": 547,
+   "activation": 15,
+   "inhibition": 453
+  },
+  {
+   "gene": "SIRT1",
+   "target": "CHEMBL4506",
+   "role": "comparator",
+   "assays": 640,
+   "activation": 111,
+   "inhibition": 428
+  },
+  {
+   "gene": "NAMPT",
+   "target": "CHEMBL1744525",
+   "role": "we need an INCREASE",
+   "assays": 231,
+   "activation": 22,
+   "inhibition": 114
+  },
+  {
+   "gene": "CREBBP",
+   "target": "CHEMBL5747",
+   "role": "inhibit the writer",
+   "assays": 347,
+   "activation": 0,
+   "inhibition": 137
+  },
+  {
+   "gene": "EP300",
+   "target": "CHEMBL3784",
+   "role": "inhibit the writer",
+   "assays": 442,
+   "activation": 1,
+   "inhibition": 286
+  },
+  {
+   "gene": "HDAC1",
+   "target": "CHEMBL325",
+   "role": "comparator",
+   "assays": 1817,
+   "activation": 3,
+   "inhibition": 1591
+  },
+  {
+   "gene": "HSP90AA1",
+   "target": "CHEMBL3880",
+   "role": "contraindicated",
+   "assays": 422,
+   "activation": 0,
+   "inhibition": 192
+  }
+ ]
+}

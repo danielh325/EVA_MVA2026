@@ -1,0 +1,68 @@
+{
+ "source": "https://dataverse.harvard.edu/api/access/datafile/6180620",
+ "undirected_rows": 8100498,
+ "distinct_nodes": 129357,
+ "reported_in_report": {
+  "BUB1B": {
+   "edges": 464,
+   "drug_edges": 0
+  }
+ },
+ "measured": {
+  "BUB1B": {
+   "undirected": 232,
+   "directed": 464,
+   "drug_edges": 0
+  },
+  "BUB1": {
+   "undirected": 246,
+   "directed": 492,
+   "drug_edges": 0
+  },
+  "BUB3": {
+   "undirected": 234,
+   "directed": 468,
+   "drug_edges": 0
+  },
+  "CEP57": {
+   "undirected": 213,
+   "directed": 426,
+   "drug_edges": 0
+  },
+  "TRIP13": {
+   "undirected": 258,
+   "directed": 516,
+   "drug_edges": 0
+  },
+  "CDC20": {
+   "undirected": 250,
+   "directed": 500,
+   "drug_edges": 0
+  },
+  "MAD2L1": {
+   "undirected": 290,
+   "directed": 580,
+   "drug_edges": 0
+  },
+  "AURKB": {
+   "undirected": 381,
+   "directed": 762,
+   "drug_edges": 10
+  },
+  "PLK1": {
+   "undirected": 481,
+   "directed": 962,
+   "drug_edges": 12
+  },
+  "TTK": {
+   "undirected": 144,
+   "directed": 288,
+   "drug_edges": 6
+  },
+  "CENPE": {
+   "undirected": 202,
+   "directed": 404,
+   "drug_edges": 2
+  }
+ }
+}

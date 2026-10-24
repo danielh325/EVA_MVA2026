@@ -1,0 +1,103 @@
+ClinGen curation list: 1537 genes
+loss-of-function disease genes: 1018
+  score 3   dominant LoF (haploinsufficient)     421
+  score 30  recessive LoF (biallelic)            597
+
+=== positive control: can this pipeline see activation at all? ===
+  CFTR     CHEMBL4051       assays=518 activation=39 inhibition=50   Cystic fibrosis transmembrane conductance regulator
+  BUB1B    CHEMBL4295998    assays=12 activation=0 inhibition=8   Mitotic checkpoint serine/threonine-protein kinase BUB1 beta
+  (CFTR must show activation assays or the zeros below are meaningless)
+
+resuming: 15 genes already cached
+  25/1018 genes · 11 with a ChEMBL target · 0 failed
+  50/1018 genes · 21 with a ChEMBL target · 0 failed
+  75/1018 genes · 35 with a ChEMBL target · 0 failed
+  100/1018 genes · 47 with a ChEMBL target · 0 failed
+  125/1018 genes · 62 with a ChEMBL target · 0 failed
+  150/1018 genes · 73 with a ChEMBL target · 0 failed
+  175/1018 genes · 86 with a ChEMBL target · 0 failed
+  200/1018 genes · 102 with a ChEMBL target · 0 failed
+  225/1018 genes · 108 with a ChEMBL target · 0 failed
+  250/1018 genes · 122 with a ChEMBL target · 0 failed
+  275/1018 genes · 132 with a ChEMBL target · 0 failed
+  300/1018 genes · 144 with a ChEMBL target · 0 failed
+  325/1018 genes · 160 with a ChEMBL target · 0 failed
+  350/1018 genes · 167 with a ChEMBL target · 0 failed
+  375/1018 genes · 177 with a ChEMBL target · 0 failed
+  400/1018 genes · 186 with a ChEMBL target · 0 failed
+  425/1018 genes · 196 with a ChEMBL target · 0 failed
+  450/1018 genes · 205 with a ChEMBL target · 0 failed
+  475/1018 genes · 218 with a ChEMBL target · 0 failed
+  500/1018 genes · 225 with a ChEMBL target · 0 failed
+  525/1018 genes · 241 with a ChEMBL target · 0 failed
+  550/1018 genes · 254 with a ChEMBL target · 0 failed
+  575/1018 genes · 265 with a ChEMBL target · 0 failed
+  600/1018 genes · 280 with a ChEMBL target · 0 failed
+  625/1018 genes · 292 with a ChEMBL target · 0 failed
+  650/1018 genes · 303 with a ChEMBL target · 0 failed
+  675/1018 genes · 316 with a ChEMBL target · 0 failed
+  700/1018 genes · 329 with a ChEMBL target · 0 failed
+  725/1018 genes · 341 with a ChEMBL target · 0 failed
+  750/1018 genes · 350 with a ChEMBL target · 0 failed
+  775/1018 genes · 356 with a ChEMBL target · 0 failed
+  800/1018 genes · 370 with a ChEMBL target · 0 failed
+  825/1018 genes · 383 with a ChEMBL target · 0 failed
+  850/1018 genes · 401 with a ChEMBL target · 0 failed
+  875/1018 genes · 410 with a ChEMBL target · 0 failed
+  900/1018 genes · 420 with a ChEMBL target · 0 failed
+  925/1018 genes · 428 with a ChEMBL target · 0 failed
+  950/1018 genes · 438 with a ChEMBL target · 0 failed
+  975/1018 genes · 453 with a ChEMBL target · 0 failed
+  1000/1018 genes · 466 with a ChEMBL target · 0 failed
+
+=== 1018 ClinGen loss-of-function disease genes (0 failed) ===
+  no ChEMBL human target at all      :   540 (53.0%)
+  target exists, ZERO assays         :    14 (1.4%)
+  has been assayed at least once     :   464 (45.6%)
+
+  of the 464 genes anyone has ever assayed:
+    ZERO activation assays           :   422 (90.9%)
+    some activation chemistry        :    39 (8.4%)
+    pooled activation assays         :   771
+    pooled inhibition assays         : 25972
+    pooled inhibition : activation   : 33.7 : 1
+
+  ACROSS ALL 1018 LoF DISEASE GENES, the fraction with any
+  assay described as activation: 39/1018 = 3.8%
+
+=== split by inheritance ===
+  dominant LoF (haploinsufficient)     n=421  assayed=226  with activation=25 (5.9%)
+  recessive LoF (biallelic)            n=597  assayed=238  with activation=14 (2.3%)
+
+=== LoF genes WITH activation chemistry (the exceptions) ===
+  gene          act%   act  assays  name
+  GYS2        100.0%     2       2  Glycogen [starch] synthase, liver
+  GCK          52.0%   118     227  Hexokinase-4
+  TP53         51.3%   284     554  Cellular tumor antigen p53
+  PRKAR1A      50.0%     1       2  cAMP-dependent protein kinase type I-alpha reg
+  KCNQ2        45.2%    28      62  Potassium voltage-gated channel subfamily KQT 
+  GBA2         33.3%    12      36  Beta-glucosidase
+  CLPP         25.0%    24      96  ATP-dependent Clp protease proteolytic subunit
+  CDKN1B       25.0%     1       4  Cyclin-dependent kinase inhibitor 1B
+  HGF          25.0%     1       4  Hepatocyte growth factor
+  SMC1A        20.0%     2      10  Structural maintenance of chromosomes protein 
+  SCN1A        18.7%    20     107  Sodium channel protein type 1 subunit alpha
+  CPT1A        16.7%     4      24  Carnitine O-palmitoyltransferase 1, liver isof
+  USP7         15.1%    38     251  Ubiquitin carboxyl-terminal hydrolase 7
+  SHH          14.8%     4      27  Sonic hedgehog protein
+  GBA          11.8%    51     434  Lysosomal acid glucosylceramidase
+  KCNQ1        10.4%     5      48  Potassium voltage-gated channel subfamily KQT 
+  ATM           8.1%    18     223  Serine-protein kinase ATM
+  CFTR          7.5%    39     518  Cystic fibrosis transmembrane conductance regu
+  ALDH1A3       7.3%     4      55  Retinaldehyde dehydrogenase 3
+  GPX4          6.2%     9     144  Phospholipid hydroperoxide glutathione peroxid
+  ATP2A2        5.3%     1      19  Sarcoplasmic/endoplasmic reticulum calcium ATP
+  EIF2AK3       5.2%     8     153  Eukaryotic translation initiation factor 2-alp
+  CYP24A1       2.9%     1      35  1,25-dihydroxyvitamin D(3) 24-hydroxylase, mit
+  SCN2A         2.5%     4     163  Sodium channel protein type 2 subunit alpha
+  GLB1          2.4%     3     124  Beta-galactosidase
+  HNF4A         1.9%     2     106  Hepatocyte nuclear factor 4-alpha
+  PTH1R         1.7%     1      59  Parathyroid hormone/parathyroid hormone-relate
+  SCN5A         1.4%     8     564  Sodium channel protein type 5 subunit alpha
+  CA12          1.4%     7     507  Carbonic anhydrase 12
+  HDAC8         1.4%    13     955  Histone deacetylase 8

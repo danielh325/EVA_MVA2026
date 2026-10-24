@@ -1,0 +1,51 @@
+OptimusKG: 192,813 nodes, 21,834,669 edges
+  GEN 61306
+  DIS 36753
+  BPO 25754
+  PHE 19341
+  DRG 18640
+  ANA 13120
+  MFN 10161
+  CCO 4052
+  PWY 2805
+  EXP 881
+
+=== edges and drug edges per gene
+-- MVA genes
+  BUB1B    edges= 1975  drug edges=  0  none
+  BUB1     edges= 1585  drug edges=  0  none
+  BUB3     edges=  809  drug edges=  0  none
+  CEP57    edges=  790  drug edges=  0  none
+  TRIP13   edges= 1287  drug edges=  0  none
+-- checkpoint and acetylation context
+  AURKB    edges= 1682  drug edges= 23  AMG-900, AT-9283, AT9283, BARASERTIB, BI-811283, CENISERTIB
+  PLK1     edges= 1921  drug edges= 14  3-[3-(3-methyl-6-{[(1S)-1-phenylethyl]amino}-1H-pyrazolo[4,3-c]pyridin-1-yl)phenyl]propanamide, 4-(4-METHYLPIPERAZIN-1-YL)-N-[5-(2-THIENYLACETYL)-1,5-DIHYDROPYRROLO[3,4-C]PYRAZOL-3-YL]BENZAMIDE, BI-2536, CAFUSERTIB, CHEMBL1092830, CHEMBL490814
+  TTK      edges= 1214  drug edges=  5  BAY-1161909, BAY-1217389, CHEMBL3924132, CHEMBL7064, FOSTAMATINIB
+  CENPE    edges= 1190  drug edges=  1  GSK-923295
+  SIRT2    edges= 1495  drug edges=  1  CAMBINOL
+  CREBBP   edges= 3511  drug edges=  2  CHEMBL1236441, PRI-724
+
+=== NAD+ precursors
+  nicotinamide riboside                      CHEMBL438497
+  nicotinamide mononucleotide                DRUGBANK:DB03227
+  nicotinamide                               CHEMBL1140
+  niacin                                     CHEMBL573
+  nicotinic acid                             CHEMBL573
+  nadh                                       DRUGBANK:DB00157
+
+=== probe drugs
+  dasatinib                                  CHEMBL1421
+  quercetin                                  CHEMBL50
+  chloroquine                                CHEMBL76
+  hydroxychloroquine                         CHEMBL1535
+  metformin                                  CHEMBL1431
+  tanespimycin                               CHEMBL109480
+  navitoclax                                 CHEMBL443684
+  fisetin                                    CHEMBL31574
+  acadesine                                  CHEMBL1551724
+  vorinostat                                 CHEMBL98
+  romidepsin                                 CHEMBL343448
+  reversine                                  CHEMBL188343
+
+=== MVA disease node
+  mosaic variegated aneuploidy syndrome      MONDO_0000141

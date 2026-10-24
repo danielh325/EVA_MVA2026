@@ -1,0 +1,47 @@
+PrimeKG: 321,075 interaction pairs, 25,653 drug-protein edges
+  target: 16380
+  enzyme: 5317
+  transporter: 3092
+  carrier: 864
+
+per MVA gene:
+  BUB1     166 interactors   362 drugs (359 through a non-ADME edge)
+  BUB1B     95 interactors   218 drugs (218 through a non-ADME edge)
+  BUB3      68 interactors    74 drugs (72 through a non-ADME edge)
+  CEP57     56 interactors    90 drugs (87 through a non-ADME edge)
+  TRIP13   141 interactors   100 drugs (82 through a non-ADME edge)
+
+592 distinct drugs reachable in two hops (941 seed-interactor-drug-kind rows)
+  570 through at least one non-ADME edge (kind not in carrier, enzyme, transporter); 22 only through metabolism or transport
+  13 reached through a checkpoint-weakening interactor
+
+most-connected reachable drugs (top 25):
+  Fostamatinib                   12 paths  [target]  via BUB1-CDK1, BUB1-DAPK2, BUB1-PLK1, BUB1B-AURKB  [!] via a checkpoint-weakening protein
+  Zinc                           11 paths  [target]  via BUB1-CLU, BUB1-HDAC1, BUB1-MDM2, BUB1B-HDAC1
+  Zinc acetate                   11 paths  [target]  via BUB1-CLU, BUB1-HDAC1, BUB1-MDM2, BUB1B-HDAC1
+  Zinc chloride                  11 paths  [target]  via BUB1-CLU, BUB1-HDAC1, BUB1-MDM2, BUB1B-HDAC1
+  Zinc sulfate, unspecified form 11 paths  [target]  via BUB1-CLU, BUB1-HDAC1, BUB1-MDM2, BUB1B-HDAC1
+  Belinostat                      8 paths  [target]  via BUB1-HDAC1, BUB1B-HDAC1, BUB1B-HDAC2, BUB1B-HDAC3
+  Panobinostat                    8 paths  [target]  via BUB1-HDAC1, BUB1B-HDAC1, BUB1B-HDAC2, BUB1B-HDAC3
+  Copper                          7 paths  [target]  via BUB1-CLU, BUB1-STIP1, BUB1B-C1QBP, BUB3-PKM
+  Mocetinostat                    6 paths  [target]  via BUB1-HDAC1, BUB1B-HDAC1, BUB1B-HDAC2, BUB1B-HDAC3
+  Pracinostat                     6 paths  [target]  via BUB1-HDAC1, BUB1B-HDAC1, BUB1B-HDAC2, BUB1B-HDAC3
+  Romidepsin                      6 paths  [target]  via BUB1-HDAC1, BUB1B-HDAC1, BUB1B-HDAC2, BUB1B-HDAC4
+  Vorinostat                      6 paths  [target]  via BUB1-HDAC1, BUB1B-HDAC1, BUB1B-HDAC2, BUB1B-HDAC3
+  NADH                            5 paths  [target]  via BUB1-ALDH1B1, BUB1-HSD17B3, BUB1B-NDUFA2, BUB3-DLD
+  Theophylline                    5 paths  [target]  via BUB1B-HDAC2, BUB1B-PARP1, BUB3-CPNE1, BUB3-HDAC2
+  Wortmannin                      5 paths  [target]  via BUB1-PIK3CA, BUB1-PIK3R1, BUB1-PLK1, BUB1B-PIK3R1  [!] via a checkpoint-weakening protein
+  Alvocidib                       4 paths  [target]  via BUB1-CDK1, BUB1-CDK2, BUB1-CDK8, BUB1B-CDK1
+  Arsenic trioxide                4 paths  [target]  via BUB1-AKT1, BUB1-HDAC1, BUB1B-HDAC1, BUB3-HDAC1
+  Artenimol                       4 paths  [target]  via BUB1-ZYX, BUB3-CCT3, BUB3-PKM, TRIP13-RPL35
+  Enzastaurin                     4 paths  [target]  via BUB1-AKT1, BUB1-PIK3R1, BUB1B-AURKB, BUB1B-PIK3R1  [!] via a checkpoint-weakening protein
+  N-Formylmethionine              4 paths  [target]  via BUB1B-UBC, BUB3-UBC, CEP57-UBC, TRIP13-UBC
+  Phenethyl Isothiocyanate        4 paths  [target]  via BUB3-ACTA2, BUB3-HSPH1, CEP57-TUBA4A, CEP57-YWHAE
+  AT-7519                         3 paths  [target]  via BUB1-CDK1, BUB1-CDK2, BUB1B-CDK1
+  ATP                             3 paths  [target]  via BUB1-AKT1, BUB1-ARAF, BUB1-PIK3CA
+  Abexinostat                     3 paths  [target]  via BUB1-HDAC1, BUB1B-HDAC1, BUB3-HDAC1
+  Acetylsalicylic acid            3 paths  [target]  via CEP57-MYC, TRIP13-MYC, TRIP13-PRKAA2
+
+flagged (13): Fostamatinib, Wortmannin, Enzastaurin, 1-[5-Methyl-2-(trifluoromethyl)furan-3-yl]-3-[5-[2-[[6-(1H-1,2,4-triazol-5-ylamino)pyrimidin-4-yl]amino]ethyl]-1,3-thiazol-2-yl]urea, 3-[3-(3-methyl-6-{[(1S)-1-phenylethyl]amino}-1H-pyrazolo[4,3-c]pyridin-1-yl)phenyl]propanamide, 3-[3-chloro-5-(5-{[(1S)-1-phenylethyl]amino}isoxazolo[5,4-c]pyridin-3-yl)phenyl]propan-1-ol, 4-(4-METHYLPIPERAZIN-1-YL)-N-[5-(2-THIENYLACETYL)-1,5-DIHYDROPYRROLO[3,4-C]PYRAZOL-3-YL]BENZAMIDE, AT9283, BOS172722, GSK-923295, Hesperidin, Pyrazolanthrone, Reversine
+
+wrote 05_mechanism_anchored.tsv (941 rows)

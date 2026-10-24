@@ -1,0 +1,34 @@
+GraphMask gates, raw gates: 106,058 nodes, 1,096,269 edges
+MVA: 112 neighbours
+
+Dasatinib: 3,497 simple paths through a gene (79,746 in all); top 6:
+    0.5159  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Colon cancer -[drug_effect]- Pimecrolimus -[drug_protein]- CYP3A4 -[drug_protein]- Dasatinib
+    0.4983  4 edges  mosaic variegated aneuploidy syndrome -[disease_disease]- neoplastic syndrome -[disease_disease]- Richter syndrome -[disease_protein]- BTK -[drug_protein]- Dasatinib
+    0.4929  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[drug_effect]- Etoposide -[drug_protein]- CYP3A4 -[drug_protein]- Dasatinib
+    0.4480  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[disease_phenotype_positive]- primary biliary cholangitis -[disease_protein]- ABCG2 -[drug_protein]- Dasatinib
+    0.4283  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[drug_effect]- Sirolimus -[drug_protein]- CYP3A4 -[drug_protein]- Dasatinib
+    0.4257  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Apnea -[drug_effect]- Etoposide -[drug_protein]- CYP3A4 -[drug_protein]- Dasatinib
+
+Hydroxychloroquine: 2,409 simple paths through a gene (72,525 in all); top 6:
+    0.5152  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Colon cancer -[drug_effect]- Pimecrolimus -[drug_protein]- CYP3A4 -[drug_protein]- Hydroxychloroquine
+    0.4922  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[drug_effect]- Etoposide -[drug_protein]- CYP3A4 -[drug_protein]- Hydroxychloroquine
+    0.4386  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[disease_phenotype_positive]- primary biliary cholangitis -[disease_protein]- ALB -[drug_protein]- Hydroxychloroquine
+    0.4277  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[drug_effect]- Sirolimus -[drug_protein]- CYP3A4 -[drug_protein]- Hydroxychloroquine
+    0.4251  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Apnea -[drug_effect]- Etoposide -[drug_protein]- CYP3A4 -[drug_protein]- Hydroxychloroquine
+    0.4248  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Seizure -[drug_effect]- Etoposide -[drug_protein]- CYP3A4 -[drug_protein]- Hydroxychloroquine
+
+Chloroquine: 3,184 simple paths through a gene (57,319 in all); top 6:
+    0.5523  4 edges  mosaic variegated aneuploidy syndrome -[disease_disease]- neoplastic syndrome -[disease_disease]- Zollinger-Ellison syndrome -[disease_protein]- TNF -[drug_protein]- Chloroquine
+    0.5123  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Colon cancer -[drug_effect]- Pimecrolimus -[drug_protein]- CYP3A4 -[drug_protein]- Chloroquine
+    0.4895  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[drug_effect]- Etoposide -[drug_protein]- CYP3A4 -[drug_protein]- Chloroquine
+    0.4349  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[disease_phenotype_positive]- primary biliary cholangitis -[disease_protein]- ALB -[drug_protein]- Chloroquine
+    0.4254  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[drug_effect]- Sirolimus -[drug_protein]- CYP3A4 -[drug_protein]- Chloroquine
+    0.4227  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Apnea -[drug_effect]- Etoposide -[drug_protein]- CYP3A4 -[drug_protein]- Chloroquine
+
+Paclitaxel: 4,378 simple paths through a gene (103,016 in all); top 6:
+    0.5074  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Colon cancer -[drug_effect]- Pimecrolimus -[drug_protein]- CYP3A4 -[drug_protein]- Paclitaxel
+    0.4848  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[drug_effect]- Etoposide -[drug_protein]- CYP3A4 -[drug_protein]- Paclitaxel
+    0.4709  4 edges  mosaic variegated aneuploidy syndrome -[disease_disease]- neoplastic syndrome -[disease_disease]- Richter syndrome -[disease_protein]- BCL2 -[drug_protein]- Paclitaxel
+    0.4258  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[drug_effect]- Etoposide -[drug_protein]- ABCC10 -[drug_protein]- Paclitaxel
+    0.4213  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Ascites -[drug_effect]- Sirolimus -[drug_protein]- CYP3A4 -[drug_protein]- Paclitaxel
+    0.4201  4 edges  mosaic variegated aneuploidy syndrome -[disease_phenotype_positive]- Severe global developmental delay -[disease_phenotype_positive]- combined pituitary hormone deficiencies, genetic form -[disease_protein]- CYP19A1 -[drug_protein]- Paclitaxel

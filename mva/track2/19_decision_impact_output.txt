@@ -1,0 +1,31 @@
+2317 adjudicated records · 323 false-negative records across 109 assays
+  the 6 largest assays contribute 103 of 323 records -- records are NOT independent
+
+=== every false-negative ASSAY, classified (one vote each) ===
+    64  (58.7%)  INVERSE
+    45  (41.3%)  CONVENTION
+
+  GENUINE title/record contradictions where the endpoint is the target itself: 0
+  -- none. Every decision change in this sample is a rule artifact,
+     not a disagreement between a title and its data.
+
+=== what may and may not be claimed ===
+
+  MAY NOT:  "record-level reading changes the repurposing decision for
+            17-25% of records". The rate is unstable between samples
+            (16.9 vs 24.8), counts non-independent records, and survives
+            adjudication at 0 (6 assays read by hand, 103
+            classified by the rule above, which has no GENUINE outcome).
+
+  MAY:      Reading records changes the decision in a real and documented
+            case -- this patient's gene -- and that case was found by
+            reading, not by a rule. Automating direction from assay text
+            is unsolved: a rule permissive enough to catch the BUB1B case
+            readmits dozens of CORRECT inverse relations and buries it.
+
+  The operational conclusion is unchanged and better supported: for a gene
+  that matters, open the records. Do not trust a text classifier to do it,
+  including the ones in this repository.
+
+  Per-assay sheet: 19_decision_impact_adjudication.csv
+

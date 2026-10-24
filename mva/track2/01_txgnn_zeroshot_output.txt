@@ -1,0 +1,23 @@
+<data>/txgnn-env/lib/python3.12/site-packages/torchdata/datapipes/__init__.py:18: UserWarning: 
+################################################################################
+WARNING!
+The 'datapipes', 'dataloader2' modules are deprecated and will be removed in a
+future torchdata release! Please see https://github.com/pytorch/data/issues/1196
+to learn more and leave feedback.
+################################################################################
+
+  deprecation_warning()
+reading the PrimeKG split
+Found local copy...
+Found local copy...
+Found local copy...
+Found saved processed KG... Loading...
+Splits detected... Loading splits....
+Creating DGL graph....
+Done!
+reading the TxGNN checkpoint
+MVA (13582_9759_54736_141) is disease index 2335.0
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.77s/it]100%|██████████| 1/1 [00:19<00:00, 19.77s/it]
+indication: 7,957 drugs scored, 0 with a known indication edge to MVA; wrote raw_indication.pkl
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.78s/it]100%|██████████| 1/1 [00:22<00:00, 22.78s/it]
+contraindication: 7,957 drugs scored, 0 with a known contraindication edge to MVA; wrote raw_contraindication.pkl

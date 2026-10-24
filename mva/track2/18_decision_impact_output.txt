@@ -1,0 +1,97 @@
+Decision-impact benchmark: does reading the record change the call?
+
+  [exploratory] page 1/24 · 993 records
+  [exploratory] page 2/24 · 1993 records
+  [exploratory] page 3/24 · 2987 records
+  [exploratory] page 4/24 · 3980 records
+  [exploratory] page 5/24 · 4947 records
+  [exploratory] page 6/24 · 5947 records
+  [exploratory] page 7/24 · 6943 records
+  [exploratory] page 8/24 · 7934 records
+  [exploratory] page 9/24 · 8924 records
+  [exploratory] page 10/24 · 9903 records
+  [exploratory] page 11/24 · 10879 records
+  [exploratory] page 12/24 · 11864 records
+  [exploratory] page 13/24 · 12806 records
+  [exploratory] page 14/24 · 13804 records
+  [exploratory] page 15/24 · 14798 records
+  [exploratory] page 16/24 · 15796 records
+  [exploratory] page 17/24 · 16791 records
+  [exploratory] page 18/24 · 17778 records
+  [exploratory] page 19/24 · 18747 records
+  [exploratory] page 20/24 · 19747 records
+  [exploratory] page 21/24 · 20747 records
+  [exploratory] page 22/24 · 21747 records
+  [exploratory] page 23/24 · 22747 records
+  [exploratory] page 24/24 · 23747 records
+
+=== exploratory (rules written here): 23,747 fold-change records ===
+    8890  (37.4%)  title abstains (no direction stated)
+   14857  (62.6%)  title states a decision
+   13285  (55.9%)  not adjudicable (proxy or unidentifiable endpoint)
+    1572  ( 6.6%)  adjudicable (endpoint IS the target)
+     242  ( 1.0%)  record abstains (inside noise band)
+    1330  ( 5.6%)  both pipelines decide
+
+  Of the 1330 records where BOTH pipelines reach a decision:
+      1105  (83.1%)  agree
+       133  (10.0%)  FALSE NEGATIVE - discarded unread, record moves the wanted way
+        92  ( 6.9%)  FALSE POSITIVE - kept on a title the record does not support
+
+  >> Record-level reading CHANGES THE DECISION for 225 of 1330 (16.9%).
+  >> Of records a title-reading search DISCARDS, the record shows 133 moving the wanted way.
+  [HELD-OUT] page 1/24 · 971 records
+  [HELD-OUT] page 2/24 · 1965 records
+  [HELD-OUT] page 3/24 · 2958 records
+  [HELD-OUT] page 4/24 · 3941 records
+  [HELD-OUT] page 5/24 · 4934 records
+  [HELD-OUT] page 6/24 · 5920 records
+  [HELD-OUT] page 7/24 · 6916 records
+  [HELD-OUT] page 8/24 · 7907 records
+  [HELD-OUT] page 9/24 · 8876 records
+  [HELD-OUT] page 10/24 · 9852 records
+  [HELD-OUT] page 11/24 · 10824 records
+  [HELD-OUT] page 12/24 · 11818 records
+  [HELD-OUT] page 13/24 · 12807 records
+  [HELD-OUT] page 14/24 · 13749 records
+  [HELD-OUT] page 15/24 · 14724 records
+  [HELD-OUT] page 16/24 · 15722 records
+  [HELD-OUT] page 17/24 · 16691 records
+  [HELD-OUT] page 18/24 · 17691 records
+  [HELD-OUT] page 19/24 · 18691 records
+  [HELD-OUT] page 20/24 · 19625 records
+  [HELD-OUT] page 21/24 · 20617 records
+  [HELD-OUT] page 22/24 · 21617 records
+  [HELD-OUT] page 23/24 · 22617 records
+  [HELD-OUT] page 24/24 · 23603 records
+
+=== HELD-OUT (rules frozen): 23,603 fold-change records ===
+    9397  (39.8%)  title abstains (no direction stated)
+   14206  (60.2%)  title states a decision
+   12981  (55.0%)  not adjudicable (proxy or unidentifiable endpoint)
+    1225  ( 5.2%)  adjudicable (endpoint IS the target)
+     238  ( 1.0%)  record abstains (inside noise band)
+     987  ( 4.2%)  both pipelines decide
+
+  Of the 987 records where BOTH pipelines reach a decision:
+       742  (75.2%)  agree
+       190  (19.3%)  FALSE NEGATIVE - discarded unread, record moves the wanted way
+        55  ( 5.6%)  FALSE POSITIVE - kept on a title the record does not support
+
+  >> Record-level reading CHANGES THE DECISION for 245 of 987 (24.8%).
+  >> Of records a title-reading search DISCARDS, the record shows 190 moving the wanted way.
+
+=== held-out check ===
+  decision-change rate  exploratory 16.92% vs held-out 24.82%  (difference 7.90 pp)
+  The rules were written on the exploratory sample and run unchanged on the
+  held-out one. A small difference means they were not tuned to a sample;
+  it does NOT make them correct - only stable.
+
+  Per-record sheet: 18_decision_impact_sample.csv (2317 adjudicated records)
+
+=== the record this benchmark exists because of ===
+  CHEMBL6125447  'Destabilization of BUB1B ... assessed as reduction
+  in BUB1B protein level'  -> a title-reading search DISCARDS it.
+  Two of its four records are above the reference, both annotated
+  'Increase In Heat Resistance Observed'. Candidate 7 is built on
+  compounds our own first pass threw away. See 14_bub1b_cetsa_audit.py

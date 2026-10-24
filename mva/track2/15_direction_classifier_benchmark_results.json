@@ -1,0 +1,1376 @@
+{
+ "seed": 20261022,
+ "noise_band": 0.2,
+ "fc_records_total": 77383,
+ "pages": 24,
+ "stats": {
+  "assays": 11126,
+  "abstain: no direction in leading word": 4056,
+  "leading word states a direction": 7070,
+  "title internally unambiguous": 6654,
+  "  (single record - cannot conflict)": 5537,
+  "title's direction does not describe every record": 108,
+  "  ...with >=2 records on each side": 60,
+  "title names an inverse target/endpoint relation": 416
+ },
+ "inverse_examples": [
+  [
+   "CHEMBL1914155",
+   "up",
+   "down",
+   "Potentiation of doxorubicin-induced cytotoxicity against human HL60 cells assessed as reduction in cell viabil"
+  ],
+  [
+   "CHEMBL1914156",
+   "up",
+   "down",
+   "Potentiation of doxorubicin-induced cytotoxicity against human HL60 cells assessed as reduction in cell viabil"
+  ],
+  [
+   "CHEMBL1912610",
+   "up",
+   "down",
+   "Potentiation of doxorubicin-induced cytotoxicity against human HL60 cells assessed as reduction in cell viabil"
+  ],
+  [
+   "CHEMBL1930984",
+   "up",
+   "down",
+   "Activation of human NQO1 assessed as decrease in substrate concentration at 100 uM by HPLC analysis relative t"
+  ],
+  [
+   "CHEMBL1930985",
+   "up",
+   "down",
+   "Activation of human NQO1 assessed as decrease in NADH concentration at 100 uM relative to CB-1954"
+  ],
+  [
+   "CHEMBL1931081",
+   "up",
+   "down",
+   "Activation of Escherichia coli nitroreductase assessed as decrease in substrate concentration at 100 uM by HPL"
+  ],
+  [
+   "CHEMBL1931082",
+   "up",
+   "down",
+   "Activation of Escherichia coli nitroreductase assessed as decrease in NADH concentration at 100 uM relative to"
+  ],
+  [
+   "CHEMBL1931240",
+   "up",
+   "down",
+   "Activation of human NQO1 assessed as specific activity per mg of protein at 50 uM by measuring decrease in sub"
+  ],
+  [
+   "CHEMBL1931242",
+   "up",
+   "down",
+   "Activation of Escherichia coli nitroreductase assessed as specific activity per mg of protein at 50 uM by meas"
+  ],
+  [
+   "CHEMBL2330708",
+   "up",
+   "down",
+   "Potentiation of temozolomide-induced cytotoxicity in human SKOV3 cells assessed as reduction in temozolomide I"
+  ],
+  [
+   "CHEMBL2330710",
+   "up",
+   "down",
+   "Potentiation of temozolomide-induced cytotoxicity in human SKOV3 cells assessed as reduction in temozolomide I"
+  ],
+  [
+   "CHEMBL3580011",
+   "up",
+   "down",
+   "Induction of apoptosis in human MCF7 cells assessed as decrease in mitochondrial membrane potential at IC50 af"
+  ],
+  [
+   "CHEMBL3619531",
+   "up",
+   "down",
+   "Potentiation of oxacillin-induced antibacterial activity against Staphylococcus aureus ATCC 25923 assessed as "
+  ],
+  [
+   "CHEMBL3619532",
+   "up",
+   "down",
+   "Potentiation of oxacillin-induced antibacterial activity against Staphylococcus aureus ATCC 25923 assessed as "
+  ],
+  [
+   "CHEMBL3619655",
+   "up",
+   "down",
+   "Potentiation of oxacillin-induced antibacterial activity against Staphylococcus aureus ATCC 25923 assessed as "
+  ],
+  [
+   "CHEMBL3773594",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-xL level at 0.5 uM after 6 hrs by i"
+  ],
+  [
+   "CHEMBL3773595",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-xL level at 0.5 uM after 12 hrs by "
+  ],
+  [
+   "CHEMBL3773752",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-xL level at 0.5 uM after 24 hrs by "
+  ],
+  [
+   "CHEMBL3773753",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-xL level at 0.5 uM after 36 hrs by "
+  ],
+  [
+   "CHEMBL3773754",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-xL level at 0.5 uM after 48 hrs by "
+  ],
+  [
+   "CHEMBL3773755",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-2 level at 0.5 uM after 6 hrs by im"
+  ],
+  [
+   "CHEMBL3773756",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-2 level at 0.5 uM after 12 hrs by i"
+  ],
+  [
+   "CHEMBL3773757",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-2 level at 0.5 uM after 24 hrs by i"
+  ],
+  [
+   "CHEMBL3773758",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-2 level at 0.5 uM after 36 hrs by i"
+  ],
+  [
+   "CHEMBL3773759",
+   "up",
+   "down",
+   "Induction of apoptosis in human COLO205 cells assessed as reduction in Bcl-2 level at 0.5 uM after 48 hrs by i"
+  ],
+  [
+   "CHEMBL3778506",
+   "up",
+   "down",
+   "Induction of sodium butyrate-induced reactivation of HSV1 KOS ATCC VR1493 infected in human iPSC cells assesse"
+  ],
+  [
+   "CHEMBL3778507",
+   "up",
+   "down",
+   "Induction of sodium butyrate-induced reactivation of HSV1 KOS ATCC VR1493 infected in human iPSC cells assesse"
+  ],
+  [
+   "CHEMBL3782696",
+   "up",
+   "down",
+   "Induction of intracellular ROS production in human HepG2 cells assessed as decrease in GSH/GSSG ratio at 50 uM"
+  ],
+  [
+   "CHEMBL3795189",
+   "up",
+   "down",
+   "Potentiation of gentamicin-induced antibacterial activity against Francisella philomiragia ATCC 25015 assessed"
+  ],
+  [
+   "CHEMBL3795190",
+   "up",
+   "down",
+   "Potentiation of azithromycin-induced antibacterial activity against Francisella philomiragia ATCC 25015 assess"
+  ],
+  [
+   "CHEMBL3795191",
+   "up",
+   "down",
+   "Potentiation of FR900098-induced antibacterial activity against Francisella philomiragia ATCC 25015 assessed a"
+  ],
+  [
+   "CHEMBL3795192",
+   "up",
+   "down",
+   "Potentiation of colistin-induced antibacterial activity against Francisella philomiragia ATCC 25015 assessed a"
+  ],
+  [
+   "CHEMBL3795193",
+   "up",
+   "down",
+   "Potentiation of streptomycin-induced antibacterial activity against Francisella philomiragia ATCC 25015 assess"
+  ],
+  [
+   "CHEMBL3795194",
+   "up",
+   "down",
+   "Potentiation of colistin-induced antibacterial activity against Francisella novicida U112 assessed as reductio"
+  ],
+  [
+   "CHEMBL3795196",
+   "up",
+   "down",
+   "Potentiation of colistin-induced antibacterial activity against Francisella novicida U112 assessed as reductio"
+  ],
+  [
+   "CHEMBL3804446",
+   "up",
+   "down",
+   "Potentiation of 5-Aza-C-induced antiviral activity against VSV-G pseudotyped HIV-1 NL4-3 infected in human U37"
+  ],
+  [
+   "CHEMBL3804445",
+   "up",
+   "down",
+   "Potentiation of 5-Aza-C-induced antiviral activity against VSV-G pseudotyped HIV-1 NL4-3 infected in human U37"
+  ],
+  [
+   "CHEMBL3804444",
+   "up",
+   "down",
+   "Potentiation of 5-Aza-C-induced antiviral activity against VSV-G pseudotyped HIV-1 NL4-3 infected in human U37"
+  ],
+  [
+   "CHEMBL3804451",
+   "up",
+   "down",
+   "Potentiation of 5-Aza-C-induced antiviral activity against VSV-G pseudotyped HIV-1 NL4-3 infected in human U37"
+  ],
+  [
+   "CHEMBL3800952",
+   "up",
+   "down",
+   "Potentiation of norfloxacin-induced antibacterial activity against clinical isolates of methicillin-resistant "
+  ],
+  [
+   "CHEMBL3800953",
+   "up",
+   "down",
+   "Potentiation of norfloxacin-induced antibacterial activity against clinical isolates of methicillin-resistant "
+  ],
+  [
+   "CHEMBL3801149",
+   "up",
+   "down",
+   "Potentiation of norfloxacin-induced antibacterial activity against clinical isolates of methicillin-resistant "
+  ],
+  [
+   "CHEMBL3801150",
+   "up",
+   "down",
+   "Potentiation of norfloxacin-induced antibacterial activity against clinical isolates of methicillin-resistant "
+  ],
+  [
+   "CHEMBL3801151",
+   "up",
+   "down",
+   "Potentiation of norfloxacin-induced antibacterial activity against clinical isolates of methicillin-resistant "
+  ],
+  [
+   "CHEMBL3801152",
+   "up",
+   "down",
+   "Potentiation of norfloxacin-induced antibacterial activity against clinical isolates of methicillin-resistant "
+  ],
+  [
+   "CHEMBL3880959",
+   "up",
+   "down",
+   "Potentiation of chloroquine-induced anitiparasitic activity in chloroquine-resistant/verapamil-sensitive Plasm"
+  ],
+  [
+   "CHEMBL3880960",
+   "up",
+   "down",
+   "Potentiation of chloroquine-induced anitiparasitic activity in chloroquine-resistant/verapamil-sensitive Plasm"
+  ],
+  [
+   "CHEMBL3992759",
+   "up",
+   "down",
+   "Potentiation of FR900098-induced antibacterial activity against Francisella philomiragia ATCC 25015 assessed a"
+  ],
+  [
+   "CHEMBL3992760",
+   "up",
+   "down",
+   "Potentiation of FR900098-induced antibacterial activity against Francisella novicida U112 assessed as fold red"
+  ],
+  [
+   "CHEMBL3992761",
+   "up",
+   "down",
+   "Potentiation of FR900098-induced antibacterial activity against Francisella novicida U112 assessed as fold red"
+  ],
+  [
+   "CHEMBL3995393",
+   "up",
+   "down",
+   "Potentiation of vinblastine-induced cytotoxicity against vinblastine-sensitive human MCF7 cells assessed as fo"
+  ],
+  [
+   "CHEMBL3995394",
+   "up",
+   "down",
+   "Potentiation of vinblastine-induced cytotoxicity against vinblastine-sensitive human MCF7 cells assessed as fo"
+  ],
+  [
+   "CHEMBL4003274",
+   "up",
+   "down",
+   "Potentiation of vancomycin-mediated antibacterial activity against vancomycin-resistant Staphylococcus aureus "
+  ],
+  [
+   "CHEMBL4003275",
+   "up",
+   "down",
+   "Potentiation of vancomycin-mediated antibacterial activity against vancomycin-resistant Staphylococcus aureus "
+  ],
+  [
+   "CHEMBL4015325",
+   "up",
+   "down",
+   "Potentiation of minocycline-induced antibacterial activity against multidrug/extremely drug-resistant/colistin"
+  ],
+  [
+   "CHEMBL4015326",
+   "up",
+   "down",
+   "Potentiation of rifampicin-induced antibacterial activity against multidrug/extremely drug-resistant/colistin-"
+  ],
+  [
+   "CHEMBL4015331",
+   "up",
+   "down",
+   "Potentiation of minocycline-induced antibacterial activity against multidrug/extremely drug-resistant/colistin"
+  ],
+  [
+   "CHEMBL4015332",
+   "up",
+   "down",
+   "Potentiation of rifampicin-induced antibacterial activity against multidrug/extremely drug-resistant/colistin-"
+  ],
+  [
+   "CHEMBL4015333",
+   "up",
+   "down",
+   "Potentiation of minocycline-induced antibacterial activity against multidrug/extremely drug-resistant/colistin"
+  ],
+  [
+   "CHEMBL4015335",
+   "up",
+   "down",
+   "Potentiation of rifampicin-induced antibacterial activity against multidrug/extremely drug-resistant/colistin-"
+  ],
+  [
+   "CHEMBL4015334",
+   "up",
+   "down",
+   "Potentiation of minocycline-induced antibacterial activity against multidrug/extremely drug-resistant/colistin"
+  ],
+  [
+   "CHEMBL4015338",
+   "up",
+   "down",
+   "Potentiation of rifampicin-induced antibacterial activity against multidrug/extremely drug-resistant/colistin-"
+  ],
+  [
+   "CHEMBL4015341",
+   "up",
+   "down",
+   "Potentiation of minocycline-induced antibacterial activity against multidrug/extremely drug-resistant/colistin"
+  ],
+  [
+   "CHEMBL4015342",
+   "up",
+   "down",
+   "Potentiation of rifampicin-induced antibacterial activity against multidrug/extremely drug-resistant/colistin-"
+  ],
+  [
+   "CHEMBL4015345",
+   "up",
+   "down",
+   "Potentiation of minocycline-induced antibacterial activity against multidrug/extremely drug-resistant/colistin"
+  ],
+  [
+   "CHEMBL4015346",
+   "up",
+   "down",
+   "Potentiation of rifampicin-induced antibacterial activity against multidrug/extremely drug-resistant/colistin-"
+  ],
+  [
+   "CHEMBL4015349",
+   "up",
+   "down",
+   "Potentiation of minocycline-induced antibacterial activity against multidrug/extremely drug-resistant/colistin"
+  ],
+  [
+   "CHEMBL4015350",
+   "up",
+   "down",
+   "Potentiation of rifampicin-induced antibacterial activity against multidrug/extremely drug-resistant/colistin-"
+  ],
+  [
+   "CHEMBL4017149",
+   "up",
+   "down",
+   "Potentiation of cisplatin-induced cytotoxicity against human CAL27 cells assessed as fold reduction in cisplat"
+  ],
+  [
+   "CHEMBL4017150",
+   "up",
+   "down",
+   "Potentiation of cisplatin-induced cytotoxicity against human CAL27 cells assessed as decrease in cell viabilit"
+  ],
+  [
+   "CHEMBL4017151",
+   "up",
+   "down",
+   "Potentiation of cisplatin-induced cytotoxicity against human CAL27 cells assessed as decrease in cell viabilit"
+  ],
+  [
+   "CHEMBL4017557",
+   "up",
+   "down",
+   "Potentiation of imipenem-induced antibacterial activity against methicillin-reisitant Staphylococcus aureus as"
+  ],
+  [
+   "CHEMBL4026344",
+   "up",
+   "down",
+   "Potentiation of ciprofloxacin induced-antimicrobial activity against Staphylococcus aureus ATCC 29213 assessed"
+  ],
+  [
+   "CHEMBL4026355",
+   "up",
+   "down",
+   "Potentiation of ciprofloxacin induced-antimicrobial activity against Staphylococcus aureus 1199B assessed as f"
+  ],
+  [
+   "CHEMBL4026358",
+   "up",
+   "down",
+   "Potentiation of ciprofloxacin induced-antimicrobial activity against Escherichia coli AB1157 assessed as fold "
+  ],
+  [
+   "CHEMBL4026359",
+   "up",
+   "down",
+   "Potentiation of levofloxacin induced-antimicrobial activity against Escherichia coli AB1157 assessed as fold r"
+  ],
+  [
+   "CHEMBL4026360",
+   "up",
+   "down",
+   "Potentiation of piperacillin induced-antimicrobial activity against Escherichia coli AB1157 assessed as fold r"
+  ],
+  [
+   "CHEMBL4026361",
+   "up",
+   "down",
+   "Potentiation of 0.016 ug/ml ciprofloxacin induced-antimicrobial activity against Escherichia coli AB1157 asses"
+  ],
+  [
+   "CHEMBL4026362",
+   "up",
+   "down",
+   "Potentiation of florfenicol induced-antimicrobial activity against multi drug-resistant Escherichia coli AG112"
+  ],
+  [
+   "CHEMBL4026363",
+   "up",
+   "down",
+   "Potentiation of ciprofloxacin induced-antimicrobial activity against multi drug-resistant Escherichia coli AG1"
+  ],
+  [
+   "CHEMBL4026364",
+   "up",
+   "down",
+   "Potentiation of tetracycline induced-antimicrobial activity against multi drug-resistant Escherichia coli AG11"
+  ],
+  [
+   "CHEMBL4026370",
+   "up",
+   "down",
+   "Potentiation of tetracycline induced-antimicrobial activity against Escherichia coli assessed as fold reductio"
+  ],
+  [
+   "CHEMBL4027825",
+   "up",
+   "down",
+   "Potentiation of paclitaxel-induced cytotoxicity against parental HEK293-pcDNA 3.1 transfected cells assessed a"
+  ],
+  [
+   "CHEMBL4027827",
+   "up",
+   "down",
+   "Potentiation of paclitaxel-induced cytotoxicity against parental HEK293-pcDNA 3.1 transfected cells assessed a"
+  ],
+  [
+   "CHEMBL4029429",
+   "up",
+   "down",
+   "Potentiation of vancomycin-induced antibacterial activity against Enterococcus faecium ATCC 700221 assessed as"
+  ],
+  [
+   "CHEMBL4030276",
+   "up",
+   "down",
+   "Activation of human HDAC8 deacetylation activity assessed as reduction in substrate Km at 50 uM using AMC-Fluo"
+  ],
+  [
+   "CHEMBL4030277",
+   "up",
+   "down",
+   "Activation of human HDAC8 deacetylation activity assessed as reduction in substrate Km at 50 uM using AMC less"
+  ],
+  [
+   "CHEMBL4030278",
+   "up",
+   "down",
+   "Activation of human HDAC8 deacetylation activity assessed as reduction in substrate Kcat at 50 uM using AMC-Fl"
+  ],
+  [
+   "CHEMBL4034708",
+   "up",
+   "down",
+   "Induction of apoptosis in human T47D cells assessed as decrease in Bcl2 expression level at IC50 by qRT-PCR an"
+  ],
+  [
+   "CHEMBL4034781",
+   "up",
+   "down",
+   "Induction of apoptosis in human HepG2 cells assessed as decrease in Bcl2 level by qRT-PCR analysis relative to"
+  ],
+  [
+   "CHEMBL4039452",
+   "up",
+   "down",
+   "Stabilization of BCL2 i-motif promoter DNA in BCL2 and MYC translocation-positive human VAL cells assessed as "
+  ],
+  [
+   "CHEMBL4199100",
+   "up",
+   "down",
+   "Induction of cytoprotective autophagy in human SH-SY5Y cells assessed as decrease in SQSTM1/p62 expression at "
+  ],
+  [
+   "CHEMBL4199099",
+   "up",
+   "down",
+   "Induction of cytoprotective autophagy in human SH-SY5Y cells assessed as decrease in SQSTM1/p62 expression at "
+  ],
+  [
+   "CHEMBL4199098",
+   "up",
+   "down",
+   "Induction of cytoprotective autophagy in human SH-SY5Y cells assessed as decrease in SQSTM1/p62 expression at "
+  ],
+  [
+   "CHEMBL4199097",
+   "up",
+   "down",
+   "Induction of cytoprotective autophagy in human SH-SY5Y cells assessed as decrease in SQSTM1/p62 expression at "
+  ],
+  [
+   "CHEMBL4199806",
+   "up",
+   "down",
+   "Potentiation of colistin-induced antimicrobial activity against Klebsiella pneumoniae ATCC 2146 expressing NDM"
+  ],
+  [
+   "CHEMBL4199805",
+   "up",
+   "down",
+   "Potentiation of colistin-induced antimicrobial activity against Acinetobacter baumannii isolate 5075 assessed "
+  ],
+  [
+   "CHEMBL4199804",
+   "up",
+   "down",
+   "Potentiation of colistin-induced antimicrobial activity against Klebsiella pneumoniae isolate B9 assessed as f"
+  ],
+  [
+   "CHEMBL4199803",
+   "up",
+   "down",
+   "Potentiation of colistin-induced antimicrobial activity against Acinetobacter baumannii isolate 4106 assessed "
+  ],
+  [
+   "CHEMBL4199802",
+   "up",
+   "down",
+   "Potentiation of colistin-induced antimicrobial activity against Acinetobacter baumannii ATCC 17978 assessed as"
+  ]
+ ],
+ "conflicts": [
+  [
+   "CHEMBL1002172",
+   "up",
+   1,
+   1,
+   "Agonist activity at human ghrelin receptor Ser4:16Ala(Ser174) mutant expressed in african green monkey COS7 ce"
+  ],
+  [
+   "CHEMBL998733",
+   "up",
+   19,
+   1,
+   "Agonist activity at PPARgamma expressed in human HCA7 cells assessed as induction of peroxisome proliferator r"
+  ],
+  [
+   "CHEMBL1246625",
+   "down",
+   15,
+   12,
+   "Inhibition of Staphylococcus aureus 1199B norA efflux pump assessed as potentiation of ciprofloxacin MIC by sp"
+  ],
+  [
+   "CHEMBL1246628",
+   "down",
+   7,
+   20,
+   "Inhibition of Staphylococcus aureus 1199 norA efflux pump assessed as potentiation of ciprofloxacin MIC by spe"
+  ],
+  [
+   "CHEMBL1251020",
+   "up",
+   9,
+   1,
+   "Induction of apoptosis in human COLO320 cells assessed as increase in caspase 3/7 activation at 100 uM after 2"
+  ],
+  [
+   "CHEMBL1251021",
+   "up",
+   7,
+   1,
+   "Induction of apoptosis in human MIAPaCa2 cells assessed as increase in caspase 3/7 activation at 100 uM after "
+  ],
+  [
+   "CHEMBL1252865",
+   "up",
+   1,
+   1,
+   "Increase of GUF1 gene expression in wild-type Saccharomyces cerevisiae transformed with overexpression plasmid"
+  ],
+  [
+   "CHEMBL1252866",
+   "up",
+   1,
+   1,
+   "Increase of FMP38 gene expression in wild-type Saccharomyces cerevisiae transformed with overexpression plasmi"
+  ],
+  [
+   "CHEMBL1252867",
+   "up",
+   1,
+   1,
+   "Increase of HMI1 gene expression in wild-type Saccharomyces cerevisiae transformed with overexpression plasmid"
+  ],
+  [
+   "CHEMBL1252869",
+   "up",
+   1,
+   1,
+   "Increase of YDR514C gene expression in wild-type Saccharomyces cerevisiae transformed with overexpression plas"
+  ],
+  [
+   "CHEMBL1252876",
+   "down",
+   1,
+   1,
+   "Decrease of RIM11 gene expression in wild-type Saccharomyces cerevisiae transformed with overexpression plasmi"
+  ],
+  [
+   "CHEMBL1252878",
+   "down",
+   1,
+   1,
+   "Decrease of YDR222W gene expression in wild-type Saccharomyces cerevisiae transformed with overexpression plas"
+  ],
+  [
+   "CHEMBL1285398",
+   "down",
+   7,
+   1,
+   "Inhibition of 5-alpha-reductase activity in sc dosed Sprague-Dawley rat assessed as effect on serum steroid le"
+  ],
+  [
+   "CHEMBL1919238",
+   "up",
+   5,
+   2,
+   "Agonist activity at human AR overexpressed in human LNCAP cells assessed as fold increase at 1 uM by luciferas"
+  ],
+  [
+   "CHEMBL1942579",
+   "down",
+   55,
+   1,
+   "Inhibition of 20S proteasome activity in human DLD1 cells transfected with 4Ub-Luc gene assessed as biolumines"
+  ],
+  [
+   "CHEMBL1942580",
+   "down",
+   61,
+   1,
+   "Inhibition of 20S proteasome in human DLD1 cells transfected with 4Ub-Luc gene assessed as bioluminescence ind"
+  ],
+  [
+   "CHEMBL1942581",
+   "down",
+   44,
+   1,
+   "Inhibition of 20S proteasome in human DLD1 cells transfected with 4Ub-Luc gene assessed as bioluminescence ind"
+  ],
+  [
+   "CHEMBL3078274",
+   "up",
+   48,
+   3,
+   "Potentiation of fenitrothion-induced insecticidal activity against OP-resistant Chilo suppressalis Hata-f (ric"
+  ],
+  [
+   "CHEMBL2330422",
+   "down",
+   12,
+   5,
+   "Inhibition of recombinant 6-His-tagged SLAM associated protein SH2 domain (unknown origin) expressed in Escher"
+  ],
+  [
+   "CHEMBL2342878",
+   "up",
+   14,
+   3,
+   "Activation of AMPKalpha in human LS 174T cells assessed as phosphorylation at T172 at 1 to 3 uM by Western blo"
+  ],
+  [
+   "CHEMBL2378029",
+   "up",
+   4,
+   1,
+   "Induction of apoptosis in human PBMC at 5 uM assessed as apoptotic index after 1 hr by Annexin V-APC/propidium"
+  ],
+  [
+   "CHEMBL2384005",
+   "up",
+   25,
+   2,
+   "Activation of human recombinant muscle GYS1 expressed in insect sf9 cells using glycogen and UDP-glucose as su"
+  ],
+  [
+   "CHEMBL3428095",
+   "up",
+   5,
+   4,
+   "Induction of myc-tagged RUNX3 acetylation in human HEK293 cells assessed as acetylated RUNX3 level at 1 uM aft"
+  ],
+  [
+   "CHEMBL3428096",
+   "up",
+   5,
+   2,
+   "Induction of myc-tagged RUNX3 acetylation in human HEK293 cells assessed as RUNX3 level at 1 uM after 24 hrs b"
+  ],
+  [
+   "CHEMBL3619968",
+   "up",
+   30,
+   6,
+   "Activation of Nrf2 in mouse Hepa1c1c7 cells assessed as induction of NQO1 production at 10 uM after 24 hrs by "
+  ],
+  [
+   "CHEMBL3631768",
+   "up",
+   1,
+   2,
+   "Induction of CYP1A2 mRNA expression in human hepatocytes at 10 uM relative to control"
+  ],
+  [
+   "CHEMBL3636667",
+   "down",
+   4,
+   12,
+   "Displacement of [3H]diprenorphine from rat kappa-opioid receptor expressed in CHO cells after 90 mins by scint"
+  ],
+  [
+   "CHEMBL3743769",
+   "down",
+   21,
+   1,
+   "Inhibition of microRNA miR-21 expression in human HeLa cells assessed as reduction of intracellular miR-21 lev"
+  ],
+  [
+   "CHEMBL3743029",
+   "up",
+   40,
+   4,
+   "Activation of Nrf2 in human HSC3-ARE9 cells assessed as increase of ARE-mediated luciferase expression at 50 u"
+  ],
+  [
+   "CHEMBL3751565",
+   "up",
+   16,
+   5,
+   "Agonist activity at human alpha7 nAChR expressed in xenopus oocytes assessed as potentiation of PNU-120596-ind"
+  ],
+  [
+   "CHEMBL3760374",
+   "down",
+   8,
+   20,
+   "Inhibition of multidrug resistance efflux pump in Mycobacterium smegmatis MC2 155 ATCC 700084 assessed as accu"
+  ],
+  [
+   "CHEMBL3761757",
+   "down",
+   3,
+   3,
+   "Inhibition of multidrug resistance efflux pump in Mycobacterium tuberculosis H37Rv ATCC 27294T assessed as acc"
+  ],
+  [
+   "CHEMBL3760702",
+   "down",
+   3,
+   2,
+   "Inhibition of porcine tubulin polymerization assessed as inhibition of tubulin assembly Vmax rate at 10 uM by "
+  ],
+  [
+   "CHEMBL3776800",
+   "down",
+   2,
+   16,
+   "Inhibition of [3H]-5-HT reuptake in human SERT transfected into HEK293 cells at 1 uM by liquid scintillation c"
+  ],
+  [
+   "CHEMBL3879941",
+   "up",
+   49,
+   2,
+   "Induction of apoptosis in human T47D cells assessed as caspase cascade activation at 0.016 to 10 uM preincubat"
+  ],
+  [
+   "CHEMBL3995671",
+   "down",
+   1,
+   11,
+   "Inhibition of human recombinant topoisomerase 2 alpha-mediated relaxation of supercoiled pBR322 DNA at 100 uM "
+  ],
+  [
+   "CHEMBL3995672",
+   "down",
+   3,
+   12,
+   "Inhibition of human recombinant topoisomerase 2 alpha-mediated relaxation of supercoiled pBR322 DNA at 20 uM a"
+  ],
+  [
+   "CHEMBL3995673",
+   "down",
+   11,
+   10,
+   "Inhibition of human recombinant topoisomerase 1-mediated relaxation of supercoiled pBR322 DNA at 100 uM after "
+  ],
+  [
+   "CHEMBL3995674",
+   "down",
+   5,
+   7,
+   "Inhibition of human recombinant topoisomerase 1-mediated relaxation of supercoiled pBR322 DNA at 20 uM after 3"
+  ],
+  [
+   "CHEMBL3998386",
+   "down",
+   8,
+   2,
+   "Inhibition of TDP1 in human MCF7 cells assessed as potentiation of camptothecin-induced cytotoxicity by measur"
+  ],
+  [
+   "CHEMBL3999837",
+   "up",
+   7,
+   1,
+   "Enhancement of GLUT4 translocation at plasma membrane of rat L6 cells expressing pIRAP-mOrange at 10 uM after "
+  ],
+  [
+   "CHEMBL4009451",
+   "down",
+   2,
+   18,
+   "Antagonist activity at rat GluN1A/GluN2A receptor expressed in Xenopus laevis oocytes assessed as inhibition o"
+  ],
+  [
+   "CHEMBL4016145",
+   "up",
+   49,
+   1,
+   "Induction of microtubule stabilization in human QBI293 cells assessed as increase in acetylated tubulin levels"
+  ],
+  [
+   "CHEMBL4022615",
+   "down",
+   1,
+   28,
+   "Inhibition of human TRPA1 expressed in HEK293 cells assessed as decrease in AITC-induced calcium influx at 30 "
+  ],
+  [
+   "CHEMBL4026746",
+   "up",
+   37,
+   2,
+   "Agonist activity at human PTH1 receptor expressed in human GP2.3 cells assessed as induction of cAMP after 12 "
+  ],
+  [
+   "CHEMBL4027826",
+   "down",
+   3,
+   4,
+   "Inhibition of human P-gp transfected in HEK293 cells assessed as potentiation of paclitaxel-induced cytotoxici"
+  ],
+  [
+   "CHEMBL4030271",
+   "up",
+   6,
+   1,
+   "Activation of human HDAC8 deacetylation activity at 50 uM using AMC less CH3CONH-FG-(Nepsilon-acetyl-lysine)-F"
+  ],
+  [
+   "CHEMBL4030274",
+   "up",
+   3,
+   3,
+   "Activation of HDAC deacetylation activity in human HeLa nuclear extract at 50 uM using AMC less CH3CONH-FG-(Ne"
+  ],
+  [
+   "CHEMBL4034138",
+   "down",
+   2,
+   9,
+   "Inhibition of recombinant human topoisomerase-1 assessed as decrease in relaxation of supercoiled pBR322 plasm"
+  ],
+  [
+   "CHEMBL4034139",
+   "down",
+   1,
+   2,
+   "Inhibition of recombinant human topoisomerase-1 assessed as decrease in relaxation of supercoiled pBR322 plasm"
+  ],
+  [
+   "CHEMBL4034140",
+   "down",
+   1,
+   6,
+   "Inhibition of human topoisomerase-2 alpha assessed as decrease in relaxation of supercoiled pBR322 plasmid DNA"
+  ],
+  [
+   "CHEMBL4034141",
+   "down",
+   7,
+   1,
+   "Inhibition of human topoisomerase-2 alpha assessed as decrease in relaxation of supercoiled pBR322 plasmid DNA"
+  ],
+  [
+   "CHEMBL4198924",
+   "down",
+   6,
+   1,
+   "Inhibition of PDE5 in human SH-SY5Y cells assessed as induction of phosphorylated CREB level at 500 nM after 2"
+  ],
+  [
+   "CHEMBL4200884",
+   "up",
+   19,
+   1,
+   "Increase in total plasma GLP1 level in C57BL/6 mouse at 30 mg/kg, po measured after 8 hrs relative to untreate"
+  ],
+  [
+   "CHEMBL4221738",
+   "down",
+   9,
+   7,
+   "Inhibition of recombinant human topoisomerase 2alpha assessed as decrease in relaxation of supercoiled pBR322 "
+  ],
+  [
+   "CHEMBL4221739",
+   "down",
+   6,
+   6,
+   "Inhibition of recombinant human topoisomerase 1 assessed as decrease in relaxation of supercoiled pBR322 DNA a"
+  ],
+  [
+   "CHEMBL4221740",
+   "down",
+   5,
+   2,
+   "Inhibition of recombinant human topoisomerase 1 assessed as decrease in relaxation of supercoiled pBR322 DNA a"
+  ],
+  [
+   "CHEMBL4232416",
+   "up",
+   3,
+   1,
+   "Agonist activity at human PPARalpha after 22 to 24 hrs by luciferase reporter gene assay relative to GW590735"
+  ],
+  [
+   "CHEMBL4237207",
+   "up",
+   1,
+   1,
+   "Activation of SOS1 in human HeLa cells assessed as effect on RAS-GTP levels by measuring ratio of total RAS le"
+  ],
+  [
+   "CHEMBL4237208",
+   "up",
+   2,
+   1,
+   "Activation of SOS1 in human HeLa cells assessed as effect on RAS-GTP levels by measuring ratio of total RAS le"
+  ],
+  [
+   "CHEMBL4237216",
+   "up",
+   1,
+   3,
+   "Activation of SOS1 in human HeLa cells assessed as effect on ERK1/2 phosphorylation at T202/Y204 residue by me"
+  ],
+  [
+   "CHEMBL4333206",
+   "up",
+   42,
+   23,
+   "Activation of Keap1/Cul3/Nrf2 in NHBE cells assessed as induction of HO-1 gene expression at 10 uM after 24 hr"
+  ],
+  [
+   "CHEMBL4334103",
+   "down",
+   2,
+   3,
+   "Antagonist activity at human alpha7 nAChR expressed in Xenopus laevis oocytes assessed as inhibition of ACh-in"
+  ],
+  [
+   "CHEMBL4336676",
+   "up",
+   1,
+   1,
+   "Induction of intracellular ROS generation in human A549 cells at 1 uM by DCFDA dye based fluorescence assay re"
+  ],
+  [
+   "CHEMBL4336774",
+   "down",
+   23,
+   2,
+   "Inhibition of hippo signalling protein in human A549 cells cotransfected with CTGF promoter-driven firefly luc"
+  ],
+  [
+   "CHEMBL4338403",
+   "up",
+   27,
+   7,
+   "Activation of STING in human PBMC assessed as induction of INFgamma secretion at 12.5 uM incubated for 16 hrs "
+  ],
+  [
+   "CHEMBL4338404",
+   "up",
+   22,
+   17,
+   "Activation of STING in human PBMC assessed as induction of TNFalpha secretion at 12.5 uM incubated for 16 hrs "
+  ],
+  [
+   "CHEMBL4338388",
+   "up",
+   6,
+   28,
+   "Activation of STING in human PBMC assessed as induction of INFalpha secretion at 12.5 uM incubated for 16 hrs "
+  ],
+  [
+   "CHEMBL4344589",
+   "up",
+   23,
+   8,
+   "Agonist activity at human PPARalpha expressed in nonhuman mammalian cells assessed as maximal increase in rece"
+  ],
+  [
+   "CHEMBL4347023",
+   "up",
+   1,
+   4,
+   "Increase in CDK1 mRNA expression in human HCT116 cells at 100 nM after 6 hrs hrs by SYBR green dye-based qRT-P"
+  ],
+  [
+   "CHEMBL4365266",
+   "down",
+   1,
+   20,
+   "Antagonist activity at rat alpha3beta2 nACHR expressed in Xenopus laevis oocytes assessed as inhibition of Ach"
+  ],
+  [
+   "CHEMBL4365267",
+   "down",
+   4,
+   19,
+   "Antagonist activity at rat alpha6alpha3beta2beta3 nAChR expressed in Xenopus laevis oocytes assessed as inhibi"
+  ],
+  [
+   "CHEMBL4372030",
+   "up",
+   9,
+   2,
+   "Induction of mitosis in transformed human BJ cells assessed as increase in pH3 Ser10 expression at 5 uM after "
+  ],
+  [
+   "CHEMBL4372550",
+   "up",
+   1,
+   3,
+   "Agonist activity at Hsp70 in HEK293 cells expressing CFTR F508del mutant (unknown origin) assessed as increase"
+  ],
+  [
+   "CHEMBL4424516",
+   "up",
+   7,
+   3,
+   "Agonist activity at Streptococcus mutans SAB249 ComD receptor assessed as increase in cipB expression after 1 "
+  ],
+  [
+   "CHEMBL4432916",
+   "up",
+   5,
+   2,
+   "Induction of HSP90-mediated HSF1 expression in human PC3MM2 cells at 10 uM after 24 hrs by Western blot analys"
+  ],
+  [
+   "CHEMBL4434220",
+   "down",
+   3,
+   2,
+   "Inhibition of MDM2/P53 interaction in human A549 cells assessed as ratio of p53 to GAPDH level at 80 uM after "
+  ],
+  [
+   "CHEMBL4611817",
+   "up",
+   5,
+   3,
+   "Activation of human PPARgamma expressed in HEK293 cells at 3 uM incubated for 18 hrs by luciferase reporter as"
+  ],
+  [
+   "CHEMBL4616218",
+   "down",
+   1,
+   1,
+   "Inhibition of HDAC6 in human RH4 cells assessed as acetylated alpha-tubulin level at 50 uM incubated for 72 hr"
+  ],
+  [
+   "CHEMBL4616214",
+   "down",
+   1,
+   1,
+   "Inhibition of EZH2 in human U937 cells assessed as H3K27me3 level at 50 uM incubated for 120 hrs by Western bl"
+  ],
+  [
+   "CHEMBL4617422",
+   "up",
+   8,
+   3,
+   "Agonist activity at AhR in human HepG2 cells assessed as induction of CYP1A1 activity at 0.13 nM using 7-ethox"
+  ],
+  [
+   "CHEMBL4617423",
+   "up",
+   9,
+   3,
+   "Agonist activity at AhR in human HepG2 cells assessed as induction of CYP1A1 activity at 3.2 nM using 7-ethoxy"
+  ],
+  [
+   "CHEMBL4728425",
+   "up",
+   4,
+   1,
+   "Induction of singlet oxygen generation in isopropanol assessed as relative rate of DPBF degradation to MB at 1"
+  ],
+  [
+   "CHEMBL4728426",
+   "up",
+   4,
+   1,
+   "Induction of singlet oxygen generation in PBS containing 1% Cremophor EL/1,2-propanediol (10:3, v:v) system as"
+  ],
+  [
+   "CHEMBL4728427",
+   "up",
+   1,
+   17,
+   "Induction of singlet oxygen generation in N,N-dimethylformamide assessed as relative rate of DPBF degradation "
+  ],
+  [
+   "CHEMBL4729129",
+   "up",
+   12,
+   13,
+   "Agonist activity at mouse GPR34 expressed in HEK293 cells co-transfected with AP-TGFalpha/Galphaq/i1 assessed "
+  ],
+  [
+   "CHEMBL4729132",
+   "up",
+   1,
+   23,
+   "Agonist activity at mouse P2Y10 expressed in HEK293 cells co-transfected with AP-TGFalpha/Galphaq/i1 assessed "
+  ],
+  [
+   "CHEMBL4732678",
+   "up",
+   1,
+   1,
+   "Activation of AhR in human HT29-Lucia cells expressing secreted Lucia luciferase reporter gene assessed as inc"
+  ],
+  [
+   "CHEMBL4732688",
+   "up",
+   1,
+   1,
+   "Activation of AhR in human HT29-Lucia cells expressing secreted Lucia luciferase reporter gene assessed as inc"
+  ],
+  [
+   "CHEMBL4736070",
+   "up",
+   62,
+   1,
+   "Stabilization of microtubules in human QBI293 cells assessed as fold change in acetylated tubulin levels at 10"
+  ],
+  [
+   "CHEMBL4736071",
+   "up",
+   4,
+   4,
+   "Stabilization of microtubules in human QBI293 cells assessed as fold change in alpha tubulin levels at 1 uM af"
+  ],
+  [
+   "CHEMBL4736072",
+   "up",
+   5,
+   8,
+   "Stabilization of microtubules in human QBI293 cells assessed as fold change in alpha tubulin levels at 10 uM a"
+  ],
+  [
+   "CHEMBL4736073",
+   "up",
+   2,
+   65,
+   "Stabilization of microtubules in human QBI293 cells assessed as fold change in acetylated tubulin levels at 1 "
+  ],
+  [
+   "CHEMBL4736074",
+   "up",
+   3,
+   60,
+   "Stabilization of microtubules in human QBI293 cells assessed as fold change in acetylated tubulin levels at 10"
+  ],
+  [
+   "CHEMBL4771203",
+   "down",
+   19,
+   3,
+   "Inhibition of human full-length ABCB1 expressed in Flp-In-293 cells assessed as reduction in calcein-AM uptake"
+  ],
+  [
+   "CHEMBL4773017",
+   "up",
+   3,
+   5,
+   "Induction of PARP1 degradation in triple-negative human MDA-MB-231 cells assessed as fold change in PARP1 prot"
+  ],
+  [
+   "CHEMBL4773018",
+   "up",
+   2,
+   7,
+   "Induction of PARP1 degradation in triple negative human MDA-MB-231 cells assessed as fold change in PARP1 prot"
+  ],
+  [
+   "CHEMBL4773019",
+   "up",
+   4,
+   8,
+   "Induction of PARP1 degradation in triple-negative human MDA-MB-231 cells assessed as fold change in PARP1 prot"
+  ],
+  [
+   "CHEMBL4808259",
+   "up",
+   7,
+   2,
+   "Activation of mouse STING expressed in RAW-Lucia ISG cells at 50 uM incubated for 24 hrs by quanti-blue SEAP r"
+  ],
+  [
+   "CHEMBL5392556",
+   "up",
+   7,
+   17,
+   "Induction of Vgamma9Vdelta2 T cell proliferation in human PBMC cells assessed as fold change incubated for 72 "
+  ],
+  [
+   "CHEMBL5392558",
+   "up",
+   13,
+   9,
+   "Induction of Vgamma9Vdelta2 T cell proliferation in human K562 cells assessed as interferon-gamma release by m"
+  ],
+  [
+   "CHEMBL5511301",
+   "up",
+   3,
+   1,
+   "Agonist activity at human alpha9 nAChR expressed as xenopus laevis oocytes assessed as increase in receptor de"
+  ],
+  [
+   "CHEMBL5511323",
+   "up",
+   2,
+   12,
+   "Agonist activity at human alpha7 nAChR expressed as xenopus laevis oocytes assessed as increase in receptor de"
+  ],
+  [
+   "CHEMBL5511585",
+   "up",
+   24,
+   3,
+   "Upregulation of utrophin expression in mouse C2C12 cells assessed as fold increase at 800 nM measured after 72"
+  ],
+  [
+   "CHEMBL6083836",
+   "up",
+   1,
+   1,
+   "Induction of apoptosis in human HepG2 cells assessed as fold change in caspase-3 level at GI50 incubated for 2"
+  ],
+  [
+   "CHEMBL6083839",
+   "up",
+   1,
+   1,
+   "Induction of apoptosis in human HepG2 cells assessed as fold change in caspase-3 level at 3 times GI50 incubat"
+  ],
+  [
+   "CHEMBL6088877",
+   "down",
+   2,
+   1,
+   "Inhibition of human Nav1.7 assessed as fold shift in IC50 in presence of BSA by sodium flux assay"
+  ],
+  [
+   "CHEMBL6092586",
+   "down",
+   3,
+   2,
+   "Inhibition of AChE (unknown origin) using acetylthiocholine iodide as substrate assessed as fold change preinc"
+  ]
+ ]
+}

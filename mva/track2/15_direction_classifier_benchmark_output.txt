@@ -1,0 +1,54 @@
+FC activity records in ChEMBL: 77,383
+  page 1/24 · 616 assays
+  page 2/24 · 1327 assays
+  page 3/24 · 1951 assays
+  page 4/24 · 2440 assays
+  page 5/24 · 2600 assays
+  page 6/24 · 2961 assays
+  page 7/24 · 3481 assays
+  page 8/24 · 3781 assays
+  page 9/24 · 4114 assays
+  page 10/24 · 4453 assays
+  page 11/24 · 4825 assays
+  page 12/24 · 5267 assays
+  page 13/24 · 5481 assays
+  page 14/24 · 5987 assays
+  page 15/24 · 6475 assays
+  page 16/24 · 7032 assays
+  page 17/24 · 7490 assays
+  page 18/24 · 7789 assays
+  page 19/24 · 8141 assays
+  page 20/24 · 8144 assays
+  page 21/24 · 8511 assays
+  page 22/24 · 9511 assays
+  page 23/24 · 10507 assays
+  page 24/24 · 11126 assays
+
+=== 11126 assays with fold-change records ===
+  abstain (no direction in leading word) :  4056 (36.5%)  <- coverage gap, NOT error
+  leading word states a direction        :  7070
+    of which title names an inverse
+    target/endpoint relation             :   416 (5.9%)  <- often CORRECT biology
+    of which title is unambiguous        :  6654
+      testable (>=2 records)             :  1117
+
+=== the defensible number ===
+  title's stated direction does not describe every compound filed under it: 108 of 1117 (9.7%)
+  ...with >=2 records on each side (not a lone outlier): 60 (5.4%)
+  — upper bound: FC conventions are not uniform, and a minority
+    side can be inactive compounds rather than opposite effects.
+
+  examples NOT counted as error (inverse target/endpoint, often correct):
+    [up->down] Potentiation of doxorubicin-induced cytotoxicity against human HL60 cells assessed as reduction in cell viabil
+    [up->down] Potentiation of doxorubicin-induced cytotoxicity against human HL60 cells assessed as reduction in cell viabil
+    [up->down] Potentiation of doxorubicin-induced cytotoxicity against human HL60 cells assessed as reduction in cell viabil
+    [up->down] Activation of human NQO1 assessed as decrease in substrate concentration at 100 uM by HPLC analysis relative t
+    [up->down] Activation of human NQO1 assessed as decrease in NADH concentration at 100 uM relative to CB-1954
+
+  examples counted as conflict (title unambiguous, data both ways):
+    [up] 1 above / 1 below — Agonist activity at human ghrelin receptor Ser4:16Ala(Ser174) mutant expressed in african green monkey COS7 ce
+    [up] 19 above / 1 below — Agonist activity at PPARgamma expressed in human HCA7 cells assessed as induction of peroxisome proliferator r
+    [down] 15 above / 12 below — Inhibition of Staphylococcus aureus 1199B norA efflux pump assessed as potentiation of ciprofloxacin MIC by sp
+    [down] 7 above / 20 below — Inhibition of Staphylococcus aureus 1199 norA efflux pump assessed as potentiation of ciprofloxacin MIC by spe
+    [up] 9 above / 1 below — Induction of apoptosis in human COLO320 cells assessed as increase in caspase 3/7 activation at 100 uM after 2
+    [up] 7 above / 1 below — Induction of apoptosis in human MIAPaCa2 cells assessed as increase in caspase 3/7 activation at 100 uM after 

@@ -1,0 +1,35 @@
+streaming kg.csv from Harvard Dataverse (~1 GB)...
+  1,000,000 rows
+  2,000,000 rows
+  3,000,000 rows
+  4,000,000 rows
+  5,000,000 rows
+  6,000,000 rows
+  7,000,000 rows
+  8,000,000 rows
+
+parsed 8,100,498 rows · 129,357 distinct nodes
+  kg.csv stores BOTH directions of every edge, so these 8,100,498 rows are 4,050,249 undirected edges — which is the figure the report quotes as the graph total.
+
+gene       undirected  directed   drug   verdict vs report
+----------------------------------------------------------------
+BUB1B             232       464      0   report's 464 is the DIRECTED count; drug edges match
+BUB1              246       492      0   
+BUB3              234       468      0   
+CEP57             213       426      0   
+TRIP13            258       516      0   
+CDC20             250       500      0   
+MAD2L1            290       580      0   
+AURKB             381       762     10   
+PLK1              481       962     12   
+TTK               144       288      6   
+CENPE             202       404      2   
+
+  The contrast §6 draws: the only checkpoint proteins carrying drug
+  edges should be the EXCLUDED set.
+    AURKB   drug edges = 10
+    PLK1    drug edges = 12
+    TTK     drug edges = 6
+    CENPE   drug edges = 2
+
+  wrote 23_primekg_edge_audit_results.json

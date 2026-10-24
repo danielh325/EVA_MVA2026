@@ -1,0 +1,56 @@
+  page 1/24 · 993 records
+  page 2/24 · 1993 records
+  page 3/24 · 2987 records
+  page 4/24 · 3980 records
+  page 5/24 · 4947 records
+  page 6/24 · 5947 records
+  page 7/24 · 6943 records
+  page 8/24 · 7934 records
+  page 9/24 · 8924 records
+  page 10/24 · 9903 records
+  page 11/24 · 10879 records
+  page 12/24 · 11864 records
+  page 13/24 · 12806 records
+  page 14/24 · 13804 records
+  page 15/24 · 14798 records
+  page 16/24 · 15796 records
+  page 17/24 · 16791 records
+  page 18/24 · 17778 records
+  page 19/24 · 18747 records
+  page 20/24 · 19747 records
+  page 21/24 · 20747 records
+  page 22/24 · 21747 records
+  page 23/24 · 22747 records
+  page 24/24 · 23747 records
+
+23747 records · 14857 with a directional title
+
+=== 200 adjudicated records with a directional title ===
+    90  (45.0%)  UNANSWERABLE from title — endpoint is a downstream proxy
+    74  (37.0%)  AMBIGUOUS — endpoint not identifiable from the description
+    21  (10.5%)  AMBIGUOUS — value inside the noise band
+    14  ( 7.0%)  TITLE CORRECT — endpoint is the target, directions agree
+     1  ( 0.5%)  TITLE WRONG — endpoint is the target, directions disagree
+
+=== the two numbers that matter ===
+  'what did the compound do to the TARGET' is answerable from the
+  title in 15 of 200 records (7.5%).
+  Within those, the title's direction is WRONG in 1 (6.7%).
+
+  For the other 185 (92.5%) the title
+  does not answer the question: 90 measure a downstream proxy,
+  95 are ambiguous and are reported rather than dropped.
+
+  Record-level inspection changes the interpretation for 91 of 200 (45.5%) — the records a
+  title-based pipeline would either mislabel or silently over-read.
+
+  Per-record sheet: 16_direction_adjudication_sample.csv
+
+=== manual adjudication of every automated flag ===
+  CHEMBL4699745  ->  FALSE POSITIVE
+    Potentiation of oxacillin-induced activity, measured as fold REDUCTION in oxacillin MIC. Potentiating an antibiotic lowers its MIC, so this is a correct inverse relation. The rule matched on 'oxacillin' appearing in both the leading clause and the endpoint clause - a drug-name collision, not a target match.
+
+  Confirmed title/data mislabels after manual review: 0 of 200 records.
+  The automated Class A rule mis-assigns when a co-administered drug or cell-line
+  name appears in both clauses. Automating this is unsolved; the operational
+  conclusion is unchanged and stronger: read the records.

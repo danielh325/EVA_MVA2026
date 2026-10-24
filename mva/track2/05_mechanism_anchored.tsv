@@ -1,0 +1,942 @@
+mva_gene	interactor	drug	kind	flag
+BUB1	ADRA2A	4-Methoxyamphetamine	target	false
+BUB1	ADRA2A	Amitriptyline	target	false
+BUB1	ADRA2A	Amoxapine	target	false
+BUB1	ADRA2A	Amphetamine	target	false
+BUB1	ADRA2A	Apomorphine	target	false
+BUB1	ADRA2A	Apraclonidine	target	false
+BUB1	ADRA2A	Aranidipine	target	false
+BUB1	ADRA2A	Aripiprazole	target	false
+BUB1	ADRA2A	Aripiprazole lauroxil	target	false
+BUB1	ADRA2A	Asenapine	target	false
+BUB1	ADRA2A	Benzphetamine	target	false
+BUB1	ADRA2A	Bethanidine	target	false
+BUB1	ADRA2A	Brimonidine	target	false
+BUB1	ADRA2A	Bromocriptine	target	false
+BUB1	ADRA2A	Cabergoline	target	false
+BUB1	ADRA2A	Carvedilol	target	false
+BUB1	ADRA2A	Celiprolol	target	false
+BUB1	ADRA2A	Chlorpromazine	target	false
+BUB1	ADRA2A	Cirazoline	target	false
+BUB1	ADRA2A	Clonidine	target	false
+BUB1	ADRA2A	Clozapine	target	false
+BUB1	ADRA2A	DL-Methylephedrine	target	false
+BUB1	ADRA2A	Desipramine	target	false
+BUB1	ADRA2A	Dexmedetomidine	target	false
+BUB1	ADRA2A	Dextroamphetamine	target	false
+BUB1	ADRA2A	Dihydroergocornine	target	false
+BUB1	ADRA2A	Dihydroergocristine	target	false
+BUB1	ADRA2A	Dihydroergotamine	target	false
+BUB1	ADRA2A	Dipivefrin	target	false
+BUB1	ADRA2A	Dosulepin	target	false
+BUB1	ADRA2A	Dronedarone	target	false
+BUB1	ADRA2A	Droxidopa	target	false
+BUB1	ADRA2A	Ephedra sinica root	target	false
+BUB1	ADRA2A	Epicept NP-1	target	false
+BUB1	ADRA2A	Epinastine	target	false
+BUB1	ADRA2A	Epinephrine	target	false
+BUB1	ADRA2A	Ergoloid mesylate	target	false
+BUB1	ADRA2A	Ergotamine	target	false
+BUB1	ADRA2A	Escitalopram	target	false
+BUB1	ADRA2A	Esmirtazapine	target	false
+BUB1	ADRA2A	Etoperidone	target	false
+BUB1	ADRA2A	Fenoldopam	target	false
+BUB1	ADRA2A	Flupirtine	target	false
+BUB1	ADRA2A	Guanabenz	target	false
+BUB1	ADRA2A	Guanfacine	target	false
+BUB1	ADRA2A	Haloperidol	target	false
+BUB1	ADRA2A	Indigotindisulfonic acid	target	false
+BUB1	ADRA2A	Lamotrigine	target	false
+BUB1	ADRA2A	Levonordefrin	target	false
+BUB1	ADRA2A	Lisuride	target	false
+BUB1	ADRA2A	Lofexidine	target	false
+BUB1	ADRA2A	Lorpiprazole	target	false
+BUB1	ADRA2A	Loxapine	target	false
+BUB1	ADRA2A	Lurasidone	target	false
+BUB1	ADRA2A	Maprotiline	target	false
+BUB1	ADRA2A	Mephentermine	target	false
+BUB1	ADRA2A	Metamfetamine	target	false
+BUB1	ADRA2A	Methotrimeprazine	target	false
+BUB1	ADRA2A	Methyldopa	target	false
+BUB1	ADRA2A	Mianserin	target	false
+BUB1	ADRA2A	Mirtazapine	target	false
+BUB1	ADRA2A	Moxisylyte	target	false
+BUB1	ADRA2A	Moxonidine	target	false
+BUB1	ADRA2A	Naphazoline	target	false
+BUB1	ADRA2A	Nefazodone	target	false
+BUB1	ADRA2A	Norepinephrine	target	false
+BUB1	ADRA2A	Nortriptyline	target	false
+BUB1	ADRA2A	Ocaperidone	target	false
+BUB1	ADRA2A	Oxymetazoline	target	false
+BUB1	ADRA2A	Paliperidone	target	false
+BUB1	ADRA2A	Paroxetine	target	false
+BUB1	ADRA2A	Pergolide	target	false
+BUB1	ADRA2A	Periciazine	target	false
+BUB1	ADRA2A	Phenoxybenzamine	target	false
+BUB1	ADRA2A	Phentolamine	target	false
+BUB1	ADRA2A	Phenylpropanolamine	target	false
+BUB1	ADRA2A	Pipamperone	target	false
+BUB1	ADRA2A	Pirlindole	target	false
+BUB1	ADRA2A	Pizotifen	target	false
+BUB1	ADRA2A	Pramipexole	target	false
+BUB1	ADRA2A	Prazosin	target	false
+BUB1	ADRA2A	Prochlorperazine	target	false
+BUB1	ADRA2A	Promethazine	target	false
+BUB1	ADRA2A	Pseudoephedrine	target	false
+BUB1	ADRA2A	Quetiapine	target	false
+BUB1	ADRA2A	Racepinephrine	target	false
+BUB1	ADRA2A	Rilmenidine	target	false
+BUB1	ADRA2A	Ropinirole	target	false
+BUB1	ADRA2A	Setiptiline	target	false
+BUB1	ADRA2A	Tiapride	target	false
+BUB1	ADRA2A	Tizanidine	target	false
+BUB1	ADRA2A	Tolazoline	target	false
+BUB1	ADRA2A	Tramadol	target	false
+BUB1	ADRA2A	Trazodone	target	false
+BUB1	ADRA2A	Trimipramine	target	false
+BUB1	ADRA2A	Xylazine	target	false
+BUB1	ADRA2A	Xylometazoline	target	false
+BUB1	ADRA2A	Yohimbine	target	false
+BUB1	ADRA2A	Ziprasidone	target	false
+BUB1	ADRA2A	Zuclopenthixol	target	false
+BUB1	AKT1	5-(5-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine	target	false
+BUB1	AKT1	ATP	target	false
+BUB1	AKT1	Archexin	target	false
+BUB1	AKT1	Arsenic trioxide	target	false
+BUB1	AKT1	Enzastaurin	target	false
+BUB1	AKT1	Genistein	target	false
+BUB1	AKT1	Inositol 1,3,4,5-Tetrakisphosphate	target	false
+BUB1	AKT1	N-[2-(5-methyl-4H-1,2,4-triazol-3-yl)phenyl]-7H-pyrrolo[2,3-d]pyrimidin-4-amine	target	false
+BUB1	AKT1	Perifosine	target	false
+BUB1	AKT1	Resveratrol	target	false
+BUB1	ALDH1B1	NADH	target	false
+BUB1	ALDOB	1,6-Fructose Diphosphate (Linear Form)	target	false
+BUB1	ALDOB	Dihydroxyacetone phosphate	target	false
+BUB1	ALDOB	sn-glycerol 3-phosphate	target	false
+BUB1	ARAF	ATP	target	false
+BUB1	ATM	Caffeine	target	false
+BUB1	BAAT	Glycine	target	false
+BUB1	BAAT	Taurine	enzyme	false
+BUB1	CDK1	AT-7519	target	false
+BUB1	CDK1	Alsterpaullone	target	false
+BUB1	CDK1	Alvocidib	target	false
+BUB1	CDK1	Fostamatinib	target	false
+BUB1	CDK1	Hymenialdisine	target	false
+BUB1	CDK1	Indirubin-3'-monoxime	target	false
+BUB1	CDK1	Olomoucine	target	false
+BUB1	CDK1	SU9516	target	false
+BUB1	CDK1	Seliciclib	target	false
+BUB1	CDK2	(13R,15S)-13-METHYL-16-OXA-8,9,12,22,24-PENTAAZAHEXACYCLO[15.6.2.16,9.1,12,15.0,2,7.0,21,25]HEPTACOSA-1(24),2,4,6,17(25),18,20-HEPTAENE-23,26-DIONE	target	false
+BUB1	CDK2	(2E,3S)-3-hydroxy-5'-[(4-hydroxypiperidin-1-yl)sulfonyl]-3-methyl-1,3-dihydro-2,3'-biindol-2'(1'H)-one	target	false
+BUB1	CDK2	(2R)-1-(DIMETHYLAMINO)-3-{4-[(6-{[2-FLUORO-5-(TRIFLUOROMETHYL)PHENYL]AMINO}PYRIMIDIN-4-YL)AMINO]PHENOXY}PROPAN-2-OL	target	false
+BUB1	CDK2	(2R)-1-[4-({4-[(2,5-Dichlorophenyl)amino]-2-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol	target	false
+BUB1	CDK2	(2R)-1-[4-({6-[(2,6-Difluorophenyl)amino]-4-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol	target	false
+BUB1	CDK2	(2R)-1-{4-[(4-Anilino-5-bromo-2-pyrimidinyl)amino]phenoxy}-3-(dimethylamino)-2-propanol	target	false
+BUB1	CDK2	(2R)-2-({9-(1-methylethyl)-6-[(4-pyridin-2-ylbenzyl)amino]-9H-purin-2-yl}amino)butan-1-ol	target	false
+BUB1	CDK2	(2R)-2-{[4-(benzylamino)-8-(1-methylethyl)pyrazolo[1,5-a][1,3,5]triazin-2-yl]amino}butan-1-ol	target	false
+BUB1	CDK2	(2S)-1-(Dimethylamino)-3-(4-{[4-(2-methylimidazo[1,2-a]pyridin-3-yl)-2-pyrimidinyl]amino}phenoxy)-2-propanol	target	false
+BUB1	CDK2	(2S)-1-[4-({4-[(2,5-Dichlorophenyl)amino]-2-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol	target	false
+BUB1	CDK2	(2S)-1-[4-({6-[(2,6-Difluorophenyl)amino]-4-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol	target	false
+BUB1	CDK2	(2S)-1-{4-[(4-Anilino-5-bromo-2-pyrimidinyl)amino]phenoxy}-3-(dimethylamino)-2-propanol	target	false
+BUB1	CDK2	(2S)-N-[(3E)-5-Cyclopropyl-3H-pyrazol-3-ylidene]-2-[4-(2-oxo-1-imidazolidinyl)phenyl]propanamide	target	false
+BUB1	CDK2	(3R)-3-(aminomethyl)-9-methoxy-1,2,3,4-tetrahydro-5H-[1]benzothieno[3,2-e][1,4]diazepin-5-one	target	false
+BUB1	CDK2	(4E)-N-(4-fluorophenyl)-4-[(phenylcarbonyl)imino]-4H-pyrazole-3-carboxamide	target	false
+BUB1	CDK2	(5-Chloropyrazolo[1,5-a]Pyrimidin-7-Yl)-(4-Methanesulfonylphenyl)Amine	target	false
+BUB1	CDK2	(5-phenyl-7-(pyridin-3-ylmethylamino)pyrazolo[1,5-a]pyrimidin-3-yl)methanol	target	false
+BUB1	CDK2	(5E)-2-Amino-5-(2-pyridinylmethylene)-1,3-thiazol-4(5H)-one	target	false
+BUB1	CDK2	(5R)-5-{[(2-Amino-3H-purin-6-yl)oxy]methyl}-2-pyrrolidinone	target	false
+BUB1	CDK2	(5Z)-5-(3-BROMOCYCLOHEXA-2,5-DIEN-1-YLIDENE)-N-(PYRIDIN-4-YLMETHYL)-1,5-DIHYDROPYRAZOLO[1,5-A]PYRIMIDIN-7-AMINE	target	false
+BUB1	CDK2	1-(3,5-DICHLOROPHENYL)-5-METHYL-1H-1,2,4-TRIAZOLE-3-CARBOXYLIC ACID	target	false
+BUB1	CDK2	1-(3-(2,4-DIMETHYLTHIAZOL-5-YL)-4-OXO-2,4-DIHYDROINDENO[1,2-C]PYRAZOL-5-YL)-3-(4-METHYLPIPERAZIN-1-YL)UREA	target	false
+BUB1	CDK2	1-(5-OXO-2,3,5,9B-TETRAHYDRO-1H-PYRROLO[2,1-A]ISOINDOL-9-YL)-3-(5-PYRROLIDIN-2-YL-1H-PYRAZOL-3-YL)-UREA	target	false
+BUB1	CDK2	1-Amino-6-Cyclohex-3-Enylmethyloxypurine	target	false
+BUB1	CDK2	1-[(2-Amino-6,9-Dihydro-1h-Purin-6-Yl)Oxy]-3-Methyl-2-Butanol	target	false
+BUB1	CDK2	1-[4-(AMINOSULFONYL)PHENYL]-1,6-DIHYDROPYRAZOLO[3,4-E]INDAZOLE-3-CARBOXAMIDE	target	false
+BUB1	CDK2	1-methyl-8-(phenylamino)-4,5-dihydro-1H-pyrazolo[4,3-h]quinazoline-3-carboxylic acid	target	false
+BUB1	CDK2	2-(3,4-DIHYDROXYPHENYL)-8-(1,1-DIOXIDOISOTHIAZOLIDIN-2-YL)-3-HYDROXY-6-METHYL-4H-CHROMEN-4-ONE	target	false
+BUB1	CDK2	2-(4-(AMINOMETHYL)PIPERIDIN-1-YL)-N-(3_CYCLOHEXYL-4-OXO-2,4-DIHYDROINDENO[1,2-C]PYRAZOL-5-YL)ACETAMIDE	target	false
+BUB1	CDK2	2-ANILINO-6-CYCLOHEXYLMETHOXYPURINE	target	false
+BUB1	CDK2	2-Amino-6-Chloropyrazine	target	false
+BUB1	CDK2	2-[Trans-(4-Aminocyclohexyl)Amino]-6-(Benzyl-Amino)-9-Cyclopentylpurine	target	false
+BUB1	CDK2	2-{4-[4-({4-[2-methyl-1-(1-methylethyl)-1H-imidazol-5-yl]pyrimidin-2-yl}amino)phenyl]piperazin-1-yl}-2-oxoethanol	target	false
+BUB1	CDK2	3-((3-bromo-5-o-tolylpyrazolo[1,5-a]pyrimidin-7-ylamino)methyl)pyridine 1-oxide	target	false
+BUB1	CDK2	3-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)-BENZENESULFONAMIDE	target	false
+BUB1	CDK2	3-({2-[(4-{[6-(CYCLOHEXYLMETHOXY)-9H-PURIN-2-YL]AMINO}PHENYL)SULFONYL]ETHYL}AMINO)PROPAN-1-OL	target	false
+BUB1	CDK2	3-Pyridin-4-Yl-2,4-Dihydro-Indeno[1,2-.C.]Pyrazole	target	false
+BUB1	CDK2	3-[4-(2,4-Dimethyl-Thiazol-5-Yl)-Pyrimidin-2-Ylamino]-Phenol	target	false
+BUB1	CDK2	3-bromo-5-phenyl-N-(pyridin-3-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	target	false
+BUB1	CDK2	3-bromo-5-phenyl-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	target	false
+BUB1	CDK2	3-bromo-5-phenyl-N-(pyrimidin-5-ylmethyl)pyrazolo[1,5-a]pyridin-7-amine	target	false
+BUB1	CDK2	3-bromo-6-phenyl-N-(pyrimidin-5-ylmethyl)imidazo[1,2-a]pyridin-8-amine	target	false
+BUB1	CDK2	3-cyclopropyl-5-phenyl-N-(pyridin-3-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	target	false
+BUB1	CDK2	3-methyl-N-(pyridin-4-ylmethyl)imidazo[1,2-a]pyrazin-8-amine	target	false
+BUB1	CDK2	3-{[(2,2-dioxido-1,3-dihydro-2-benzothien-5-yl)amino]methylene}-5-(1,3-oxazol-5-yl)-1,3-dihydro-2H-indol-2-one	target	false
+BUB1	CDK2	3-{[4-([amino(imino)methyl]aminosulfonyl)anilino]methylene}-2-oxo-2,3-dihydro-1H-indole	target	false
+BUB1	CDK2	4-((3r,4s,5r)-4-Amino-3,5-Dihydroxy-Hex-1-Ynyl)-5-Fluoro-3-[1-(3-Methoxy-1h-Pyrrol-2-Yl)-Meth-(Z)-Ylidene]-1,3-Dihydro-Indol-2-One	target	false
+BUB1	CDK2	4-(2,4-Dimethyl-1,3-thiazol-5-yl)-N-[4-(trifluoromethyl)phenyl]-2-pyrimidinamine	target	false
+BUB1	CDK2	4-(2,4-Dimethyl-Thiazol-5-Yl)-Pyrimidin-2-Ylamine	target	false
+BUB1	CDK2	4-(2,5-Dichloro-Thiophen-3-Yl)-Pyrimidin-2-Ylamine	target	false
+BUB1	CDK2	4-(4-methoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine	target	false
+BUB1	CDK2	4-(4-propoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine	target	false
+BUB1	CDK2	4-(5-Bromo-2-Oxo-2h-Indol-3-Ylazo)-Benzenesulfonamide	target	false
+BUB1	CDK2	4-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)--BENZAMIDE	target	false
+BUB1	CDK2	4-(acetylamino)-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide	target	false
+BUB1	CDK2	4-({5-[(4-AMINOCYCLOHEXYL)AMINO][1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL}AMINO)BENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-Methyl-5-[(2Z)-2-{[4-(4-morpholinyl)phenyl]imino}-2,5-dihydro-4-pyrimidinyl]-1,3-thiazol-2-amine	target	false
+BUB1	CDK2	4-[(4-Imidazo[1,2-a]Pyridin-3-Ylpyrimidin-2-Yl)Amino]Benzenesulfonamide	target	false
+BUB1	CDK2	4-[(5-ISOPROPYL-1,3-THIAZOL-2-YL)AMINO]BENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-[(6-Amino-4-Pyrimidinyl)Amino]Benzenesulfonamide	target	false
+BUB1	CDK2	4-[(6-chloropyrazin-2-yl)amino]benzenesulfonamide	target	false
+BUB1	CDK2	4-[(7-OXO-7H-THIAZOLO[5,4-E]INDOL-8-YLMETHYL)-AMINO]-N-PYRIDIN-2-YL-BENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-[3-Hydroxyanilino]-6,7-Dimethoxyquinazoline	target	false
+BUB1	CDK2	4-[4-(4-Methyl-2-Methylamino-Thiazol-5-Yl)-Pyrimidin-2-Ylamino]-Phenol	target	false
+BUB1	CDK2	4-[5-(Trans-4-Aminocyclohexylamino)-3-Isopropylpyrazolo[1,5-a]Pyrimidin-7-Ylamino]-N,N-Dimethylbenzenesulfonamide	target	false
+BUB1	CDK2	4-{5-[(1Z)-1-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)ETHYL]-2-FURYL}BENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-{5-[(Z)-(2,4-DIOXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]-2-FURYL}-N-METHYLBENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}-2-(TRIFLUOROMETHYL)BENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZOIC ACID	target	false
+BUB1	CDK2	4-{[(2,6-difluorophenyl)carbonyl]amino}-N-[(3S)-piperidin-3-yl]-1H-pyrazole-3-carboxamide	target	false
+BUB1	CDK2	4-{[(2-Oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]amino}-N-(1,3-thiazol-2-yl)benzenesulfonamide	target	false
+BUB1	CDK2	4-{[4-(1-CYCLOPROPYL-2-METHYL-1H-IMIDAZOL-5-YL)PYRIMIDIN-2-YL]AMINO}-N-METHYLBENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-{[4-AMINO-6-(CYCLOHEXYLMETHOXY)-5-NITROSOPYRIMIDIN-2-YL]AMINO}BENZAMIDE	target	false
+BUB1	CDK2	4-{[5-(CYCLOHEXYLAMINO)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-{[5-(CYCLOHEXYLMETHOXY)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE	target	false
+BUB1	CDK2	4-{[5-(CYCLOHEXYLOXY)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE	target	false
+BUB1	CDK2	5-(2,3-dichlorophenyl)-N-(pyridin-4-ylmethyl)-3-thiocyanatopyrazolo[1,5-a]pyrimidin-7-amine	target	false
+BUB1	CDK2	5-(2,3-dichlorophenyl)-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	target	false
+BUB1	CDK2	5-(2-fluorophenyl)-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	target	false
+BUB1	CDK2	5-Bromoindirubin	target	false
+BUB1	CDK2	5-[(2-AMINOETHYL)AMINO]-6-FLUORO-3-(1H-PYRROL-2-YL)BENZO[CD]INDOL-2(1H)-ONE	target	false
+BUB1	CDK2	5-[(4-AMINOCYCLOHEXYL)AMINO]-7-(PROPAN-2-YLAMINO)PYRAZOLO[1,5-A]PYRIMIDINE-3-CARBONITRILE	target	false
+BUB1	CDK2	5-[5,6-BIS(METHYLOXY)-1H-BENZIMIDAZOL-1-YL]-3-{[1-(2-CHLOROPHENYL)ETHYL]OXY}-2-THIOPHENECARBOXAMIDE	target	false
+BUB1	CDK2	5-chloro-7-[(1-methylethyl)amino]pyrazolo[1,5-a]pyrimidine-3-carbonitrile	target	false
+BUB1	CDK2	5-hydroxynaphthalene-1-sulfonamide	target	false
+BUB1	CDK2	6-(2-fluorophenyl)-N-(pyridin-3-ylmethyl)imidazo[1,2-a]pyrazin-8-amine	target	false
+BUB1	CDK2	6-(3,4-DIHYDROXYBENZYL)-3-ETHYL-1-(2,4,6-TRICHLOROPHENYL)-1H-PYRAZOLO[3,4-D]PYRIMIDIN-4(5H)-ONE	target	false
+BUB1	CDK2	6-(3-AMINOPHENYL)-N-(TERT-BUTYL)-2-(TRIFLUOROMETHYL)QUINAZOLIN-4-AMINE	target	false
+BUB1	CDK2	6-(CYCLOHEXYLMETHOXY)-8-ISOPROPYL-9H-PURIN-2-AMINE	target	false
+BUB1	CDK2	6-BROMO-13-THIA-2,4,8,12,19-PENTAAZATRICYCLO[12.3.1.1~3,7~]NONADECA-1(18),3(19),4,6,14,16-HEXAENE 13,13-DIOXIDE	target	false
+BUB1	CDK2	6-CYCLOHEXYLMETHOXY-2-(3'-CHLOROANILINO) PURINE	target	false
+BUB1	CDK2	6-CYCLOHEXYLMETHYLOXY-2-(4'-HYDROXYANILINO)PURINE	target	false
+BUB1	CDK2	6-CYCLOHEXYLMETHYLOXY-5-NITROSO-PYRIMIDINE-2,4-DIAMINE	target	false
+BUB1	CDK2	6-O-Cyclohexylmethyl Guanine	target	false
+BUB1	CDK2	AT-7519	target	false
+BUB1	CDK2	Alvocidib	target	false
+BUB1	CDK2	Bosutinib	target	false
+BUB1	CDK2	CAN-508	target	false
+BUB1	CDK2	HYDROXY(OXO)(3-{[(2Z)-4-[3-(1H-1,2,4-TRIAZOL-1-YLMETHYL)PHENYL]PYRIMIDIN-2(5H)-YLIDENE]AMINO}PHENYL)AMMONIUM	target	false
+BUB1	CDK2	Hymenialdisine	target	false
+BUB1	CDK2	Indirubin-3'-monoxime	target	false
+BUB1	CDK2	Lysine Nz-Carboxylic Acid	target	false
+BUB1	CDK2	N'-(Pyrrolidino[2,1-B]Isoindolin-4-On-8-Yl)-N-(Pyridin-2-Yl)Urea	target	false
+BUB1	CDK2	N'-[4-(2,4-Dimethyl-1,3-thiazol-5-yl)-2-pyrimidinyl]-N-hydroxyimidoformamide	target	false
+BUB1	CDK2	N(6)-dimethylallyladenine	target	false
+BUB1	CDK2	N-((2-aminopyrimidin-5-yl)methyl)-5-(2,6-difluorophenyl)-3-ethylpyrazolo[1,5-a]pyrimidin-7-amine	target	false
+BUB1	CDK2	N-(2-METHOXYETHYL)-4-({4-[2-METHYL-1-(1-METHYLETHYL)-1H-IMIDAZOL-5-YL]PYRIMIDIN-2-YL}AMINO)BENZENESULFONAMIDE	target	false
+BUB1	CDK2	N-(3-cyclopropyl-1H-pyrazol-5-yl)-2-(2-naphthyl)acetamide	target	false
+BUB1	CDK2	N-(4-sulfamoylphenyl)-1H-indazole-3-carboxamide	target	false
+BUB1	CDK2	N-(4-{[(3S)-3-(dimethylamino)pyrrolidin-1-yl]carbonyl}phenyl)-5-fluoro-4-[2-methyl-1-(1-methylethyl)-1H-imidazol-5-yl]pyrimidin-2-amine	target	false
+BUB1	CDK2	N-(5-Cyclopropyl-1h-Pyrazol-3-Yl)Benzamide	target	false
+BUB1	CDK2	N-(5-Isopropyl-thiazol-2-YL)-2-pyridin-3-YL-acetamide	target	false
+BUB1	CDK2	N-Methyl-4-{[(2-oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]amino}benzenesulfonamide	target	false
+BUB1	CDK2	N-[3-(1H-BENZIMIDAZOL-2-YL)-1H-PYRAZOL-4-YL]BENZAMIDE	target	false
+BUB1	CDK2	N-[4-(2,4-DIMETHYL-THIAZOL-5-YL)-PYRIMIDIN-2-YL]-N',N'-DIMETHYL-BENZENE-1,4-DIAMINE	target	false
+BUB1	CDK2	N-[4-(2-Methylimidazo[1,2-a]Pyridin-3-Yl)-2-Pyrimidinyl]Acetamide	target	false
+BUB1	CDK2	N-[5-(1,1-DIOXIDOISOTHIAZOLIDIN-2-YL)-1H-INDAZOL-3-YL]-2-(4-PIPERIDIN-1-YLPHENYL)ACETAMIDE	target	false
+BUB1	CDK2	N-cyclopropyl-4-pyrazolo[1,5-b]pyridazin-3-ylpyrimidin-2-amine	target	false
+BUB1	CDK2	N-methyl-{4-[2-(7-oxo-6,7-dihydro-8H-[1,3]thiazolo[5,4-e]indol-8-ylidene)hydrazino]phenyl}methanesulfonamide	target	false
+BUB1	CDK2	N-phenyl-1H-pyrazole-3-carboxamide	target	false
+BUB1	CDK2	O6-CYCLOHEXYLMETHOXY-2-(4'-SULPHAMOYLANILINO) PURINE	target	false
+BUB1	CDK2	OLOMOUCINE II	target	false
+BUB1	CDK2	Olomoucine	target	false
+BUB1	CDK2	PHENYLAMINOIMIDAZO(1,2-ALPHA)PYRIDINE	target	false
+BUB1	CDK2	Purvalanol	target	false
+BUB1	CDK2	RO-4584820	target	false
+BUB1	CDK2	SU9516	target	false
+BUB1	CDK2	Seliciclib	target	false
+BUB1	CDK2	Staurosporine	target	false
+BUB1	CDK2	TRIAZOLOPYRIMIDINE	target	false
+BUB1	CDK2	Variolin B	target	false
+BUB1	CDK2	[2-Amino-6-(2,6-Difluoro-Benzoyl)-Imidazo[1,2-a]Pyridin-3-Yl]-Phenyl-Methanone	target	false
+BUB1	CDK2	[4-(2-Amino-4-Methyl-Thiazol-5-Yl)-Pyrimidin-2-Yl]-(3-Nitro-Phenyl)-Amine	target	false
+BUB1	CDK2	{[(2,6-difluorophenyl)carbonyl]amino}-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide	target	false
+BUB1	CDK8	Alvocidib	target	false
+BUB1	CLU	Copper	target	false
+BUB1	CLU	Zinc	target	false
+BUB1	CLU	Zinc acetate	target	false
+BUB1	CLU	Zinc chloride	target	false
+BUB1	CLU	Zinc sulfate, unspecified form	target	false
+BUB1	CREBBP	9-ACETYL-2,3,4,9-TETRAHYDRO-1H-CARBAZOL-1-ONE	target	false
+BUB1	CTSV	3-amino-5-phenylpentane	target	false
+BUB1	CTSV	4-Methylpiperazin-1-Yl Carbonyl Group	target	false
+BUB1	DAPK2	Fostamatinib	target	false
+BUB1	FBP1	2,5-Anhydroglucitol-1,6-Biphosphate	target	false
+BUB1	FBP1	2,5-DICHLORO-N-(5-CHLORO-1,3-BENZOXAZOL-2-YL)BENZENESULFONAMIDE	target	false
+BUB1	FBP1	2,5-DICHLORO-N-[5-METHOXY-7-(6-METHOXYPYRIDIN-3-YL)-1,3-BENZOXAZOL-2-YL]BENZENESULFONAMIDE	target	false
+BUB1	FBP1	4-AMINO-N-[(2-SULFANYLETHYL)CARBAMOYL]BENZENESULFONAMIDE	target	false
+BUB1	FBP1	Adenosine phosphate	target	false
+BUB1	FBP1	Fructose-6-phosphate	target	false
+BUB1	FBP1	MB-07803	target	false
+BUB1	FBP1	Managlinat dialanetil	target	false
+BUB1	FBP1	Mdl-29951	target	false
+BUB1	FBP1	N-[7-(3-AMINOPHENYL)-5-METHOXY-1,3-BENZOXAZOL-2-YL]-2,5-DICHLOROBENZENESULFONAMIDE	target	false
+BUB1	FBP1	{4-[3-(6,7-Diethoxy-Quinazolin-4-Ylamino)-Phenyl]-Thiazol-2-Yl}-Methanol	target	false
+BUB1	FUBP1	Irofulven	target	false
+BUB1	FUBP1	Sacituzumab govitecan	target	false
+BUB1	HDAC1	Abexinostat	target	false
+BUB1	HDAC1	Arsenic trioxide	target	false
+BUB1	HDAC1	Belinostat	target	false
+BUB1	HDAC1	Fingolimod	target	false
+BUB1	HDAC1	Mocetinostat	target	false
+BUB1	HDAC1	Panobinostat	target	false
+BUB1	HDAC1	Pracinostat	target	false
+BUB1	HDAC1	Romidepsin	target	false
+BUB1	HDAC1	Vorinostat	target	false
+BUB1	HDAC1	Zinc	target	false
+BUB1	HDAC1	Zinc acetate	target	false
+BUB1	HDAC1	Zinc chloride	target	false
+BUB1	HDAC1	Zinc sulfate, unspecified form	target	false
+BUB1	HRAS	Guanosine-5'-Diphosphate	target	false
+BUB1	HRAS	Guanosine-5'-Triphosphate	target	false
+BUB1	HRAS	Hexane-1,6-Diol	target	false
+BUB1	HRAS	N,N'-DIMETHYL-N-(ACETYL)-N'-(7-NITROBENZ-2-OXA-1,3-DIAZOL-4-YL)ETHYLENEDIAMINE	target	false
+BUB1	HRAS	Trifluoroethanol	target	false
+BUB1	HSD17B3	NADH	target	false
+BUB1	IGFBP3	Alitretinoin	target	false
+BUB1	IGFBP3	Mecasermin	carrier	false
+BUB1	IGFBP3	Mecasermin	target	false
+BUB1	LEF1	Etacrynic acid	target	false
+BUB1	LIG1	Bleomycin	target	false
+BUB1	MAP2K1	(5S)-4,5-difluoro-6-[(2-fluoro-4-iodophenyl)imino]-N-(2-hydroxyethoxy)cyclohexa-1,3-diene-1-carboxamide	target	false
+BUB1	MAP2K1	2-[(2-chloro-4-iodophenyl)amino]-N-{[(2R)-2,3-dihydroxypropyl]oxy}-3,4-difluorobenzamide	target	false
+BUB1	MAP2K1	2-[(4-ETHYNYL-2-FLUOROPHENYL)AMINO]-3,4-DIFLUORO-N-(2-HYDROXYETHOXY)BENZAMIDE	target	false
+BUB1	MAP2K1	5-Bromo-N-[(2S)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide	target	false
+BUB1	MAP2K1	Bosutinib	target	false
+BUB1	MAP2K1	Cobimetinib	target	false
+BUB1	MAP2K1	K-252a	target	false
+BUB1	MAP2K1	N-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine	target	false
+BUB1	MAP2K1	PD-0325901	target	false
+BUB1	MAP2K1	Selumetinib	target	false
+BUB1	MAP2K1	Trametinib	target	false
+BUB1	MAPKAPK3	2-(2-QUINOLIN-3-YLPYRIDIN-4-YL)-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE	target	false
+BUB1	MAPKAPK3	2-[2-(2-FLUOROPHENYL)PYRIDIN-4-YL]-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE	target	false
+BUB1	MDM2	Cis-[4,5-Bis-(4-Bromophenyl)-2-(2-Ethoxy-4-Methoxyphenyl)-4,5-Dihydroimidazol-1-Yl]-[4-(2-Hydroxyethyl)Piperazin-1-Yl]Methanone	target	false
+BUB1	MDM2	Cis-[4,5-Bis-(4-Chlorophenyl)-2-(2-Isopropoxy-4-Methoxyphenyl)-4,5-Dihyd Roimidazol-1-Yl]-Piperazin-1-Yl-Methanone	target	false
+BUB1	MDM2	Zinc	target	false
+BUB1	MDM2	Zinc acetate	target	false
+BUB1	MDM2	Zinc chloride	target	false
+BUB1	MDM2	Zinc sulfate, unspecified form	target	false
+BUB1	PDE4D	(4R)-4-(3-butoxy-4-methoxybenzyl)imidazolidin-2-one	target	false
+BUB1	PDE4D	(R)-Rolipram	target	false
+BUB1	PDE4D	(S)-Rolipram	target	false
+BUB1	PDE4D	1-(4-Aminophenyl)-3,5-Dimethyl-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester	target	false
+BUB1	PDE4D	1-(4-Methoxyphenyl)-3,5-Dimethyl-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester	target	false
+BUB1	PDE4D	2-[3-(2-Hydroxy-1,1-Dihydroxymethyl-Ethylamino)-Propylamino]-2-Hydroxymethyl-Propane-1,3-Diol	target	false
+BUB1	PDE4D	3,5-DIMETHYL-1-PHENYL-1H-PYRAZOLE-4-CARBOXYLIC ACID ETHYL ESTER	target	false
+BUB1	PDE4D	3,5-Dimethyl-1-(3-Nitrophenyl)-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester	target	false
+BUB1	PDE4D	3,5-Dimethyl-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester	target	false
+BUB1	PDE4D	3-isobutyl-1-methyl-7H-xanthine	target	false
+BUB1	PDE4D	4-[8-(3-nitrophenyl)-1,7-naphthyridin-6-yl]benzoic acid	target	false
+BUB1	PDE4D	Adenosine phosphate	target	false
+BUB1	PDE4D	Amrinone	target	false
+BUB1	PDE4D	Caffeine	target	false
+BUB1	PDE4D	Cilomilast	target	false
+BUB1	PDE4D	Crisaborole	target	false
+BUB1	PDE4D	Dyphylline	target	false
+BUB1	PDE4D	Exisulind	target	false
+BUB1	PDE4D	Ibudilast	target	false
+BUB1	PDE4D	Iloprost	target	false
+BUB1	PDE4D	Piclamilast	target	false
+BUB1	PDE4D	Roflumilast	target	false
+BUB1	PDE4D	Rolipram	target	false
+BUB1	PDE4D	Tetomilast	target	false
+BUB1	PDE4D	Trapidil	target	false
+BUB1	PDE4D	Zardaverine	target	false
+BUB1	PIK3CA	ATP	target	false
+BUB1	PIK3CA	Alpelisib	target	false
+BUB1	PIK3CA	Caffeine	target	false
+BUB1	PIK3CA	Copanlisib	target	false
+BUB1	PIK3CA	Pilaralisib	target	false
+BUB1	PIK3CA	Wortmannin	target	false
+BUB1	PIK3CA	XL765	target	false
+BUB1	PIK3R1	Enzastaurin	target	false
+BUB1	PIK3R1	Isoprenaline	target	false
+BUB1	PIK3R1	SF1126	target	false
+BUB1	PIK3R1	Wortmannin	target	false
+BUB1	PLK1	1-[5-Methyl-2-(trifluoromethyl)furan-3-yl]-3-[5-[2-[[6-(1H-1,2,4-triazol-5-ylamino)pyrimidin-4-yl]amino]ethyl]-1,3-thiazol-2-yl]urea	target	true
+BUB1	PLK1	3-[3-(3-methyl-6-{[(1S)-1-phenylethyl]amino}-1H-pyrazolo[4,3-c]pyridin-1-yl)phenyl]propanamide	target	true
+BUB1	PLK1	3-[3-chloro-5-(5-{[(1S)-1-phenylethyl]amino}isoxazolo[5,4-c]pyridin-3-yl)phenyl]propan-1-ol	target	true
+BUB1	PLK1	4-(4-METHYLPIPERAZIN-1-YL)-N-[5-(2-THIENYLACETYL)-1,5-DIHYDROPYRROLO[3,4-C]PYRAZOL-3-YL]BENZAMIDE	target	true
+BUB1	PLK1	Fostamatinib	target	true
+BUB1	PLK1	Wortmannin	target	true
+BUB1	PPP2CB	Vitamin E	target	false
+BUB1	PPP3R2	Cyclosporine	target	false
+BUB1	PPP3R2	Voclosporin	target	false
+BUB1	RAD51	Amuvatinib	target	false
+BUB1	RAD51	Phosphoaminophosphonic Acid-Adenylate Ester	target	false
+BUB1	RDH12	Vitamin A	target	false
+BUB1	SFRP4	Cyclothiazide	target	false
+BUB1	SFRP4	Perindopril	target	false
+BUB1	SPTLC1	Pyridoxal phosphate	target	false
+BUB1	SPTLC1	Serine	target	false
+BUB1	STIP1	Copper	target	false
+BUB1	TGFB1	Foreskin fibroblast (neonatal)	target	false
+BUB1	TGFB1	Foreskin keratinocyte (neonatal)	target	false
+BUB1	TGFB1	Hyaluronidase	target	false
+BUB1	TGFB1	Hyaluronidase (human recombinant)	target	false
+BUB1	TGFB1	Hyaluronidase (ovine)	target	false
+BUB1	TGFB1	Terazosin	target	false
+BUB1	TRPM7	1,4-Dithiothreitol	target	false
+BUB1	TRPM7	Magnesium	transporter	false
+BUB1	TRPM7	Magnesium carbonate	transporter	false
+BUB1	TRPM7	Phosphoaminophosphonic Acid-Adenylate Ester	target	false
+BUB1	ZYX	Artenimol	target	false
+BUB1B	ADRA2A	4-Methoxyamphetamine	target	false
+BUB1B	ADRA2A	Amitriptyline	target	false
+BUB1B	ADRA2A	Amoxapine	target	false
+BUB1B	ADRA2A	Amphetamine	target	false
+BUB1B	ADRA2A	Apomorphine	target	false
+BUB1B	ADRA2A	Apraclonidine	target	false
+BUB1B	ADRA2A	Aranidipine	target	false
+BUB1B	ADRA2A	Aripiprazole	target	false
+BUB1B	ADRA2A	Aripiprazole lauroxil	target	false
+BUB1B	ADRA2A	Asenapine	target	false
+BUB1B	ADRA2A	Benzphetamine	target	false
+BUB1B	ADRA2A	Bethanidine	target	false
+BUB1B	ADRA2A	Brimonidine	target	false
+BUB1B	ADRA2A	Bromocriptine	target	false
+BUB1B	ADRA2A	Cabergoline	target	false
+BUB1B	ADRA2A	Carvedilol	target	false
+BUB1B	ADRA2A	Celiprolol	target	false
+BUB1B	ADRA2A	Chlorpromazine	target	false
+BUB1B	ADRA2A	Cirazoline	target	false
+BUB1B	ADRA2A	Clonidine	target	false
+BUB1B	ADRA2A	Clozapine	target	false
+BUB1B	ADRA2A	DL-Methylephedrine	target	false
+BUB1B	ADRA2A	Desipramine	target	false
+BUB1B	ADRA2A	Dexmedetomidine	target	false
+BUB1B	ADRA2A	Dextroamphetamine	target	false
+BUB1B	ADRA2A	Dihydroergocornine	target	false
+BUB1B	ADRA2A	Dihydroergocristine	target	false
+BUB1B	ADRA2A	Dihydroergotamine	target	false
+BUB1B	ADRA2A	Dipivefrin	target	false
+BUB1B	ADRA2A	Dosulepin	target	false
+BUB1B	ADRA2A	Dronedarone	target	false
+BUB1B	ADRA2A	Droxidopa	target	false
+BUB1B	ADRA2A	Ephedra sinica root	target	false
+BUB1B	ADRA2A	Epicept NP-1	target	false
+BUB1B	ADRA2A	Epinastine	target	false
+BUB1B	ADRA2A	Epinephrine	target	false
+BUB1B	ADRA2A	Ergoloid mesylate	target	false
+BUB1B	ADRA2A	Ergotamine	target	false
+BUB1B	ADRA2A	Escitalopram	target	false
+BUB1B	ADRA2A	Esmirtazapine	target	false
+BUB1B	ADRA2A	Etoperidone	target	false
+BUB1B	ADRA2A	Fenoldopam	target	false
+BUB1B	ADRA2A	Flupirtine	target	false
+BUB1B	ADRA2A	Guanabenz	target	false
+BUB1B	ADRA2A	Guanfacine	target	false
+BUB1B	ADRA2A	Haloperidol	target	false
+BUB1B	ADRA2A	Indigotindisulfonic acid	target	false
+BUB1B	ADRA2A	Lamotrigine	target	false
+BUB1B	ADRA2A	Levonordefrin	target	false
+BUB1B	ADRA2A	Lisuride	target	false
+BUB1B	ADRA2A	Lofexidine	target	false
+BUB1B	ADRA2A	Lorpiprazole	target	false
+BUB1B	ADRA2A	Loxapine	target	false
+BUB1B	ADRA2A	Lurasidone	target	false
+BUB1B	ADRA2A	Maprotiline	target	false
+BUB1B	ADRA2A	Mephentermine	target	false
+BUB1B	ADRA2A	Metamfetamine	target	false
+BUB1B	ADRA2A	Methotrimeprazine	target	false
+BUB1B	ADRA2A	Methyldopa	target	false
+BUB1B	ADRA2A	Mianserin	target	false
+BUB1B	ADRA2A	Mirtazapine	target	false
+BUB1B	ADRA2A	Moxisylyte	target	false
+BUB1B	ADRA2A	Moxonidine	target	false
+BUB1B	ADRA2A	Naphazoline	target	false
+BUB1B	ADRA2A	Nefazodone	target	false
+BUB1B	ADRA2A	Norepinephrine	target	false
+BUB1B	ADRA2A	Nortriptyline	target	false
+BUB1B	ADRA2A	Ocaperidone	target	false
+BUB1B	ADRA2A	Oxymetazoline	target	false
+BUB1B	ADRA2A	Paliperidone	target	false
+BUB1B	ADRA2A	Paroxetine	target	false
+BUB1B	ADRA2A	Pergolide	target	false
+BUB1B	ADRA2A	Periciazine	target	false
+BUB1B	ADRA2A	Phenoxybenzamine	target	false
+BUB1B	ADRA2A	Phentolamine	target	false
+BUB1B	ADRA2A	Phenylpropanolamine	target	false
+BUB1B	ADRA2A	Pipamperone	target	false
+BUB1B	ADRA2A	Pirlindole	target	false
+BUB1B	ADRA2A	Pizotifen	target	false
+BUB1B	ADRA2A	Pramipexole	target	false
+BUB1B	ADRA2A	Prazosin	target	false
+BUB1B	ADRA2A	Prochlorperazine	target	false
+BUB1B	ADRA2A	Promethazine	target	false
+BUB1B	ADRA2A	Pseudoephedrine	target	false
+BUB1B	ADRA2A	Quetiapine	target	false
+BUB1B	ADRA2A	Racepinephrine	target	false
+BUB1B	ADRA2A	Rilmenidine	target	false
+BUB1B	ADRA2A	Ropinirole	target	false
+BUB1B	ADRA2A	Setiptiline	target	false
+BUB1B	ADRA2A	Tiapride	target	false
+BUB1B	ADRA2A	Tizanidine	target	false
+BUB1B	ADRA2A	Tolazoline	target	false
+BUB1B	ADRA2A	Tramadol	target	false
+BUB1B	ADRA2A	Trazodone	target	false
+BUB1B	ADRA2A	Trimipramine	target	false
+BUB1B	ADRA2A	Xylazine	target	false
+BUB1B	ADRA2A	Xylometazoline	target	false
+BUB1B	ADRA2A	Yohimbine	target	false
+BUB1B	ADRA2A	Ziprasidone	target	false
+BUB1B	ADRA2A	Zuclopenthixol	target	false
+BUB1B	AURKB	AT9283	target	true
+BUB1B	AURKB	Enzastaurin	target	true
+BUB1B	AURKB	Fostamatinib	target	true
+BUB1B	AURKB	Hesperidin	target	true
+BUB1B	AURKB	Reversine	target	true
+BUB1B	C1QBP	Copper	target	false
+BUB1B	C1QBP	Hyaluronic acid	target	false
+BUB1B	CCNA2	(2R)-2-({9-(1-methylethyl)-6-[(4-pyridin-2-ylbenzyl)amino]-9H-purin-2-yl}amino)butan-1-ol	target	false
+BUB1B	CCNA2	(2R)-2-{[4-(benzylamino)-8-(1-methylethyl)pyrazolo[1,5-a][1,3,5]triazin-2-yl]amino}butan-1-ol	target	false
+BUB1B	CCNA2	(2S)-N-[(3E)-5-Cyclopropyl-3H-pyrazol-3-ylidene]-2-[4-(2-oxo-1-imidazolidinyl)phenyl]propanamide	target	false
+BUB1B	CCNA2	1-(3,5-DICHLOROPHENYL)-5-METHYL-1H-1,2,4-TRIAZOLE-3-CARBOXYLIC ACID	target	false
+BUB1B	CCNA2	1-[4-(AMINOSULFONYL)PHENYL]-1,6-DIHYDROPYRAZOLO[3,4-E]INDAZOLE-3-CARBOXAMIDE	target	false
+BUB1B	CCNA2	1-methyl-8-(phenylamino)-4,5-dihydro-1H-pyrazolo[4,3-h]quinazoline-3-carboxylic acid	target	false
+BUB1B	CCNA2	2-ANILINO-6-CYCLOHEXYLMETHOXYPURINE	target	false
+BUB1B	CCNA2	3-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)-BENZENESULFONAMIDE	target	false
+BUB1B	CCNA2	3-({2-[(4-{[6-(CYCLOHEXYLMETHOXY)-9H-PURIN-2-YL]AMINO}PHENYL)SULFONYL]ETHYL}AMINO)PROPAN-1-OL	target	false
+BUB1B	CCNA2	4-(2,4-Dimethyl-1,3-thiazol-5-yl)-N-[4-(trifluoromethyl)phenyl]-2-pyrimidinamine	target	false
+BUB1B	CCNA2	4-(2,4-Dimethyl-Thiazol-5-Yl)-Pyrimidin-2-Ylamine	target	false
+BUB1B	CCNA2	4-(4-methoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine	target	false
+BUB1B	CCNA2	4-(4-propoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine	target	false
+BUB1B	CCNA2	4-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)--BENZAMIDE	target	false
+BUB1B	CCNA2	4-Methyl-5-[(2Z)-2-{[4-(4-morpholinyl)phenyl]imino}-2,5-dihydro-4-pyrimidinyl]-1,3-thiazol-2-amine	target	false
+BUB1B	CCNA2	4-[(7-OXO-7H-THIAZOLO[5,4-E]INDOL-8-YLMETHYL)-AMINO]-N-PYRIDIN-2-YL-BENZENESULFONAMIDE	target	false
+BUB1B	CCNA2	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]-2-FURYL}-N-METHYLBENZENESULFONAMIDE	target	false
+BUB1B	CCNA2	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}-2-(TRIFLUOROMETHYL)BENZENESULFONAMIDE	target	false
+BUB1B	CCNA2	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZENESULFONAMIDE	target	false
+BUB1B	CCNA2	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZOIC ACID	target	false
+BUB1B	CCNA2	4-{[4-AMINO-6-(CYCLOHEXYLMETHOXY)-5-NITROSOPYRIMIDIN-2-YL]AMINO}BENZAMIDE	target	false
+BUB1B	CCNA2	4-{[5-(CYCLOHEXYLOXY)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE	target	false
+BUB1B	CCNA2	5-[5,6-BIS(METHYLOXY)-1H-BENZIMIDAZOL-1-YL]-3-{[1-(2-CHLOROPHENYL)ETHYL]OXY}-2-THIOPHENECARBOXAMIDE	target	false
+BUB1B	CCNA2	6-CYCLOHEXYLMETHOXY-2-(3'-CHLOROANILINO) PURINE	target	false
+BUB1B	CCNA2	6-CYCLOHEXYLMETHYLOXY-2-(4'-HYDROXYANILINO)PURINE	target	false
+BUB1B	CCNA2	6-O-Cyclohexylmethyl Guanine	target	false
+BUB1B	CCNA2	HYDROXY(OXO)(3-{[(2Z)-4-[3-(1H-1,2,4-TRIAZOL-1-YLMETHYL)PHENYL]PYRIMIDIN-2(5H)-YLIDENE]AMINO}PHENYL)AMMONIUM	target	false
+BUB1B	CCNA2	N-(3-cyclopropyl-1H-pyrazol-5-yl)-2-(2-naphthyl)acetamide	target	false
+BUB1B	CCNA2	N-[4-(2,4-DIMETHYL-THIAZOL-5-YL)-PYRIMIDIN-2-YL]-N',N'-DIMETHYL-BENZENE-1,4-DIAMINE	target	false
+BUB1B	CCNA2	N-cyclopropyl-4-pyrazolo[1,5-b]pyridazin-3-ylpyrimidin-2-amine	target	false
+BUB1B	CCNA2	O6-CYCLOHEXYLMETHOXY-2-(4'-SULPHAMOYLANILINO) PURINE	target	false
+BUB1B	CCNA2	Variolin B	target	false
+BUB1B	CCNA2	[4-(2-Amino-4-Methyl-Thiazol-5-Yl)-Pyrimidin-2-Yl]-(3-Nitro-Phenyl)-Amine	target	false
+BUB1B	CDK1	AT-7519	target	false
+BUB1B	CDK1	Alsterpaullone	target	false
+BUB1B	CDK1	Alvocidib	target	false
+BUB1B	CDK1	Fostamatinib	target	false
+BUB1B	CDK1	Hymenialdisine	target	false
+BUB1B	CDK1	Indirubin-3'-monoxime	target	false
+BUB1B	CDK1	Olomoucine	target	false
+BUB1B	CDK1	SU9516	target	false
+BUB1B	CDK1	Seliciclib	target	false
+BUB1B	CENPE	GSK-923295	target	true
+BUB1B	CREBBP	9-ACETYL-2,3,4,9-TETRAHYDRO-1H-CARBAZOL-1-ONE	target	false
+BUB1B	HDAC1	Abexinostat	target	false
+BUB1B	HDAC1	Arsenic trioxide	target	false
+BUB1B	HDAC1	Belinostat	target	false
+BUB1B	HDAC1	Fingolimod	target	false
+BUB1B	HDAC1	Mocetinostat	target	false
+BUB1B	HDAC1	Panobinostat	target	false
+BUB1B	HDAC1	Pracinostat	target	false
+BUB1B	HDAC1	Romidepsin	target	false
+BUB1B	HDAC1	Vorinostat	target	false
+BUB1B	HDAC1	Zinc	target	false
+BUB1B	HDAC1	Zinc acetate	target	false
+BUB1B	HDAC1	Zinc chloride	target	false
+BUB1B	HDAC1	Zinc sulfate, unspecified form	target	false
+BUB1B	HDAC2	Aminophylline	target	false
+BUB1B	HDAC2	Atorvastatin	target	false
+BUB1B	HDAC2	Belinostat	target	false
+BUB1B	HDAC2	Fluvastatin	target	false
+BUB1B	HDAC2	Lovastatin	target	false
+BUB1B	HDAC2	Mocetinostat	target	false
+BUB1B	HDAC2	Oxtriphylline	target	false
+BUB1B	HDAC2	Panobinostat	target	false
+BUB1B	HDAC2	Pracinostat	target	false
+BUB1B	HDAC2	Pravastatin	target	false
+BUB1B	HDAC2	Romidepsin	target	false
+BUB1B	HDAC2	Simvastatin	target	false
+BUB1B	HDAC2	Theophylline	target	false
+BUB1B	HDAC2	Tixocortol	target	false
+BUB1B	HDAC2	Valproic acid	target	false
+BUB1B	HDAC2	Vorinostat	target	false
+BUB1B	HDAC3	Belinostat	target	false
+BUB1B	HDAC3	Mocetinostat	target	false
+BUB1B	HDAC3	Panobinostat	target	false
+BUB1B	HDAC3	Pracinostat	target	false
+BUB1B	HDAC3	Vorinostat	target	false
+BUB1B	HDAC4	2,2,2-TRIFLUORO-1-{5-[(3-PHENYL-5,6-DIHYDROIMIDAZO[1,2-A]PYRAZIN-7(8H)-YL)CARBONYL]THIOPHEN-2-YL}ETHANE-1,1-DIOL	target	false
+BUB1B	HDAC4	Belinostat	target	false
+BUB1B	HDAC4	N-hydroxy-5-[(3-phenyl-5,6-dihydroimidazo[1,2-a]pyrazin-7(8H)-yl)carbonyl]thiophene-2-carboxamide	target	false
+BUB1B	HDAC4	Panobinostat	target	false
+BUB1B	HDAC4	Romidepsin	target	false
+BUB1B	HDAC4	Zinc	target	false
+BUB1B	HDAC4	Zinc acetate	target	false
+BUB1B	HDAC4	Zinc chloride	target	false
+BUB1B	HDAC4	Zinc sulfate, unspecified form	target	false
+BUB1B	HDAC5	Belinostat	target	false
+BUB1B	HDAC5	Panobinostat	target	false
+BUB1B	IARS2	Isoleucine	target	false
+BUB1B	IGF2R	Cerliponase alfa	target	false
+BUB1B	IGF2R	Mecasermin	target	false
+BUB1B	IGF2R	Mecasermin rinfabate	target	false
+BUB1B	IGF2R	alpha-D-mannose 6-phosphate	target	false
+BUB1B	KAT2A	Coenzyme A	target	false
+BUB1B	KAT2B	(3E)-4-(1-METHYL-1H-INDOL-3-YL)BUT-3-EN-2-ONE	target	false
+BUB1B	KAT2B	Coenzyme A	target	false
+BUB1B	KAT2B	N-(3-AMINOPROPYL)-2-NITROBENZENAMINE	target	false
+BUB1B	MDM2	Cis-[4,5-Bis-(4-Bromophenyl)-2-(2-Ethoxy-4-Methoxyphenyl)-4,5-Dihydroimidazol-1-Yl]-[4-(2-Hydroxyethyl)Piperazin-1-Yl]Methanone	target	false
+BUB1B	MDM2	Cis-[4,5-Bis-(4-Chlorophenyl)-2-(2-Isopropoxy-4-Methoxyphenyl)-4,5-Dihyd Roimidazol-1-Yl]-Piperazin-1-Yl-Methanone	target	false
+BUB1B	MDM2	Zinc	target	false
+BUB1B	MDM2	Zinc acetate	target	false
+BUB1B	MDM2	Zinc chloride	target	false
+BUB1B	MDM2	Zinc sulfate, unspecified form	target	false
+BUB1B	NDUFA2	NADH	target	false
+BUB1B	NEK2	5-[(Z)-(5-Chloro-2-oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]-N,2,4-trimethyl-1H-pyrrole-3-carboxamide	target	false
+BUB1B	NEK2	Fostamatinib	target	false
+BUB1B	PARP1	2-(3'-Methoxyphenyl) Benzimidazole-4-Carboxamide	target	false
+BUB1B	PARP1	2-(4-Chlorophenyl)-5-Quinoxalinecarboxamide	target	false
+BUB1B	PARP1	2-{3-[4-(4-Fluorophenyl)-3,6-Dihydro-1(2h)-Pyridinyl]Propyl}-8-Methyl-4(3h)-Quinazolinone	target	false
+BUB1B	PARP1	3,4-Dihydro-5-Methyl-Isoquinolinone	target	false
+BUB1B	PARP1	3-Methoxybenzamide	target	false
+BUB1B	PARP1	5-FLUORO-1-[4-(4-PHENYL-3,6-DIHYDROPYRIDIN-1(2H)-YL)BUTYL]QUINAZOLINE-2,4(1H,3H)-DIONE	target	false
+BUB1B	PARP1	6-AMINO-BENZO[DE]ISOQUINOLINE-1,3-DIONE	target	false
+BUB1B	PARP1	A-620223	target	false
+BUB1B	PARP1	Carba-nicotinamide-adenine-dinucleotide	target	false
+BUB1B	PARP1	Iniparib	target	false
+BUB1B	PARP1	NU1025	target	false
+BUB1B	PARP1	Nicotinamide	target	false
+BUB1B	PARP1	Niraparib	target	false
+BUB1B	PARP1	Olaparib	target	false
+BUB1B	PARP1	Rucaparib	target	false
+BUB1B	PARP1	Talazoparib	target	false
+BUB1B	PARP1	Theophylline	target	false
+BUB1B	PARP1	Veliparib	target	false
+BUB1B	PARP1	Zinc	target	false
+BUB1B	PARP1	Zinc acetate	target	false
+BUB1B	PARP1	Zinc chloride	target	false
+BUB1B	PARP1	Zinc sulfate, unspecified form	target	false
+BUB1B	PIK3R1	Enzastaurin	target	false
+BUB1B	PIK3R1	Isoprenaline	target	false
+BUB1B	PIK3R1	SF1126	target	false
+BUB1B	PIK3R1	Wortmannin	target	false
+BUB1B	PLK1	1-[5-Methyl-2-(trifluoromethyl)furan-3-yl]-3-[5-[2-[[6-(1H-1,2,4-triazol-5-ylamino)pyrimidin-4-yl]amino]ethyl]-1,3-thiazol-2-yl]urea	target	true
+BUB1B	PLK1	3-[3-(3-methyl-6-{[(1S)-1-phenylethyl]amino}-1H-pyrazolo[4,3-c]pyridin-1-yl)phenyl]propanamide	target	true
+BUB1B	PLK1	3-[3-chloro-5-(5-{[(1S)-1-phenylethyl]amino}isoxazolo[5,4-c]pyridin-3-yl)phenyl]propan-1-ol	target	true
+BUB1B	PLK1	4-(4-METHYLPIPERAZIN-1-YL)-N-[5-(2-THIENYLACETYL)-1,5-DIHYDROPYRROLO[3,4-C]PYRAZOL-3-YL]BENZAMIDE	target	true
+BUB1B	PLK1	Fostamatinib	target	true
+BUB1B	PLK1	Wortmannin	target	true
+BUB1B	PLK3	Fostamatinib	target	false
+BUB1B	PPP2R5C	(2S,3S,4E,6E,8S,9S)-3-amino-9-methoxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid	target	false
+BUB1B	PPP2R5C	2,6,8-Trimethyl-3-Amino-9-Benzyl-9-Methoxynonanoic Acid	target	false
+BUB1B	SIRT2	Cambinol	target	false
+BUB1B	TP73	Zinc	target	false
+BUB1B	TP73	Zinc acetate	target	false
+BUB1B	TP73	Zinc chloride	target	false
+BUB1B	TP73	Zinc sulfate, unspecified form	target	false
+BUB1B	TTK	BOS172722	target	true
+BUB1B	TTK	Fostamatinib	target	true
+BUB1B	TTK	Pyrazolanthrone	target	true
+BUB1B	UBC	N-Formylmethionine	target	false
+BUB1B	XPO1	Selinexor	target	false
+BUB3	ACTA2	Phenethyl Isothiocyanate	target	false
+BUB3	CCT3	Artenimol	target	false
+BUB3	CCT3	Phosphoaminophosphonic Acid-Adenylate Ester	target	false
+BUB3	CPNE1	Theophylline	target	false
+BUB3	DLD	Flavin adenine dinucleotide	target	false
+BUB3	DLD	Glycine	enzyme	false
+BUB3	DLD	NADH	target	false
+BUB3	HDAC1	Abexinostat	target	false
+BUB3	HDAC1	Arsenic trioxide	target	false
+BUB3	HDAC1	Belinostat	target	false
+BUB3	HDAC1	Fingolimod	target	false
+BUB3	HDAC1	Mocetinostat	target	false
+BUB3	HDAC1	Panobinostat	target	false
+BUB3	HDAC1	Pracinostat	target	false
+BUB3	HDAC1	Romidepsin	target	false
+BUB3	HDAC1	Vorinostat	target	false
+BUB3	HDAC1	Zinc	target	false
+BUB3	HDAC1	Zinc acetate	target	false
+BUB3	HDAC1	Zinc chloride	target	false
+BUB3	HDAC1	Zinc sulfate, unspecified form	target	false
+BUB3	HDAC2	Aminophylline	target	false
+BUB3	HDAC2	Atorvastatin	target	false
+BUB3	HDAC2	Belinostat	target	false
+BUB3	HDAC2	Fluvastatin	target	false
+BUB3	HDAC2	Lovastatin	target	false
+BUB3	HDAC2	Mocetinostat	target	false
+BUB3	HDAC2	Oxtriphylline	target	false
+BUB3	HDAC2	Panobinostat	target	false
+BUB3	HDAC2	Pracinostat	target	false
+BUB3	HDAC2	Pravastatin	target	false
+BUB3	HDAC2	Romidepsin	target	false
+BUB3	HDAC2	Simvastatin	target	false
+BUB3	HDAC2	Theophylline	target	false
+BUB3	HDAC2	Tixocortol	target	false
+BUB3	HDAC2	Valproic acid	target	false
+BUB3	HDAC2	Vorinostat	target	false
+BUB3	HSD17B10	1-Azepan-1-Yl-2-Phenyl-2-(4-Thioxo-1,4-Dihydro-Pyrazolo[3,4-D]Pyrimidin-5-Yl)Ethanone Adduct	target	false
+BUB3	HSD17B10	NADH	target	false
+BUB3	HSD17B10	Omega-3-carboxylic acids	target	false
+BUB3	HSPH1	Phenethyl Isothiocyanate	target	false
+BUB3	PARP1	2-(3'-Methoxyphenyl) Benzimidazole-4-Carboxamide	target	false
+BUB3	PARP1	2-(4-Chlorophenyl)-5-Quinoxalinecarboxamide	target	false
+BUB3	PARP1	2-{3-[4-(4-Fluorophenyl)-3,6-Dihydro-1(2h)-Pyridinyl]Propyl}-8-Methyl-4(3h)-Quinazolinone	target	false
+BUB3	PARP1	3,4-Dihydro-5-Methyl-Isoquinolinone	target	false
+BUB3	PARP1	3-Methoxybenzamide	target	false
+BUB3	PARP1	5-FLUORO-1-[4-(4-PHENYL-3,6-DIHYDROPYRIDIN-1(2H)-YL)BUTYL]QUINAZOLINE-2,4(1H,3H)-DIONE	target	false
+BUB3	PARP1	6-AMINO-BENZO[DE]ISOQUINOLINE-1,3-DIONE	target	false
+BUB3	PARP1	A-620223	target	false
+BUB3	PARP1	Carba-nicotinamide-adenine-dinucleotide	target	false
+BUB3	PARP1	Iniparib	target	false
+BUB3	PARP1	NU1025	target	false
+BUB3	PARP1	Nicotinamide	target	false
+BUB3	PARP1	Niraparib	target	false
+BUB3	PARP1	Olaparib	target	false
+BUB3	PARP1	Rucaparib	target	false
+BUB3	PARP1	Talazoparib	target	false
+BUB3	PARP1	Theophylline	target	false
+BUB3	PARP1	Veliparib	target	false
+BUB3	PARP1	Zinc	target	false
+BUB3	PARP1	Zinc acetate	target	false
+BUB3	PARP1	Zinc chloride	target	false
+BUB3	PARP1	Zinc sulfate, unspecified form	target	false
+BUB3	PKM	1-(2,3-dihydro-1,4-benzodioxin-6-ylsulfonyl)-4-[(4-methoxyphenyl)sulfonyl]piperazine	target	false
+BUB3	PKM	1-[(2,6-difluorophenyl)sulfonyl]-4-(2,3-dihydro-1,4-benzodioxin-6-ylsulfonyl)piperazine	target	false
+BUB3	PKM	2-Phosphoglycolic Acid	target	false
+BUB3	PKM	6-(2-fluorobenzyl)-2,4-dimethyl-4,6-dihydro-5H-thieno[2',3':4,5]pyrrolo[2,3-d]pyridazin-5-one	target	false
+BUB3	PKM	Acyclovir	enzyme	false
+BUB3	PKM	Artenimol	target	false
+BUB3	PKM	Copper	target	false
+BUB3	PKM	L-Phospholactate	target	false
+BUB3	PKM	Pyruvic acid	target	false
+BUB3	SMAD2	Dexfosfoserine	target	false
+BUB3	THRA	Dextrothyroxine	target	false
+BUB3	THRA	Dronedarone	target	false
+BUB3	THRA	Eprotirome	target	false
+BUB3	THRA	KB-141	target	false
+BUB3	THRA	Levothyroxine	target	false
+BUB3	THRA	Liothyronine	target	false
+BUB3	THRA	Liotrix	target	false
+BUB3	THRA	NRP409	target	false
+BUB3	THRA	Thyroid, porcine	target	false
+BUB3	UBA1	Hexatantalum Dodecabromide	target	false
+BUB3	UBA1	Quercetin	target	false
+BUB3	UBC	N-Formylmethionine	target	false
+BUB3	VCAM1	Carvedilol	target	false
+BUB3	VCAM1	Clove oil	target	false
+BUB3	VCAM1	Ethanol	target	false
+BUB3	VCAM1	Succinobucol	target	false
+BUB3	XPO1	Selinexor	target	false
+CEP57	APP	Aluminium	target	false
+CEP57	APP	Aluminium phosphate	target	false
+CEP57	APP	Aluminum acetate	target	false
+CEP57	APP	CAD106	target	false
+CEP57	APP	Copper	target	false
+CEP57	APP	Deferoxamine	target	false
+CEP57	APP	Dimercaprol	target	false
+CEP57	APP	Edonerpic	target	false
+CEP57	APP	Florbetaben (18F)	target	false
+CEP57	APP	Florbetapir (18F)	target	false
+CEP57	APP	Flutemetamol (18F)	target	false
+CEP57	APP	L-methionine (R)-S-oxide	target	false
+CEP57	APP	Mito-4509	target	false
+CEP57	APP	Phenserine	target	false
+CEP57	APP	Resveratrol	target	false
+CEP57	APP	Tetrathiomolybdate	target	false
+CEP57	APP	Tromethamine	target	false
+CEP57	APP	Zinc	target	false
+CEP57	APP	Zinc acetate	target	false
+CEP57	APP	Zinc chloride	target	false
+CEP57	APP	Zinc sulfate, unspecified form	target	false
+CEP57	CDH5	FX06	target	false
+CEP57	CDH5	Lenalidomide	target	false
+CEP57	HSP90AA1	(3E)-3-[(phenylamino)methylidene]dihydrofuran-2(3H)-one	target	false
+CEP57	HSP90AA1	(5E,7S)-2-amino-7-(4-fluoro-2-pyridin-3-ylphenyl)-4-methyl-7,8-dihydroquinazolin-5(6H)-one oxime	target	false
+CEP57	HSP90AA1	2-(1H-pyrrol-1-ylcarbonyl)benzene-1,3,5-triol	target	false
+CEP57	HSP90AA1	2-AMINO-4-(2,4-DICHLOROPHENYL)-N-ETHYLTHIENO[2,3-D]PYRIMIDINE-6-CARBOXAMIDE	target	false
+CEP57	HSP90AA1	2-[(2-methoxyethyl)amino]-4-(4-oxo-1,2,3,4-tetrahydro-9H-carbazol-9-yl)benzamide	target	false
+CEP57	HSP90AA1	2-amino-4-[2,4-dichloro-5-(2-pyrrolidin-1-ylethoxy)phenyl]-N-ethylthieno[2,3-d]pyrimidine-6-carboxamide	target	false
+CEP57	HSP90AA1	3,6-DIAMINO-5-CYANO-4-(4-ETHOXYPHENYL)THIENO[2,3-B]PYRIDINE-2-CARBOXAMIDE	target	false
+CEP57	HSP90AA1	3-({2-[(2-AMINO-6-METHYLPYRIMIDIN-4-YL)ETHYNYL]BENZYL}AMINO)-1,3-OXAZOL-2(3H)-ONE	target	false
+CEP57	HSP90AA1	4-(1,3-Benzodioxol-5-Yl)-5-(5-Ethyl-2,4-Dihydroxyphenyl)-2h-Pyrazole-3-Carboxylic Acid	target	false
+CEP57	HSP90AA1	4-(1h-Imidazol-4-Yl)-3-(5-Ethyl-2,4-Dihydroxy-Phenyl)-1h-Pyrazole	target	false
+CEP57	HSP90AA1	4-(2,4-dichlorophenyl)-5-phenyldiazenyl-pyrimidin-2-amine	target	false
+CEP57	HSP90AA1	4-(2-methoxyethoxy)-6-methylpyrimidin-2-amine	target	false
+CEP57	HSP90AA1	4-CHLORO-6-(4-PIPERAZIN-1-YL-1H-PYRAZOL-5-YL)BENZENE-1,3-DIOL	target	false
+CEP57	HSP90AA1	4-CHLORO-6-(4-{4-[4-(METHYLSULFONYL)BENZYL]PIPERAZIN-1-YL}-1H-PYRAZOL-5-YL)BENZENE-1,3-DIOL	target	false
+CEP57	HSP90AA1	4-bromo-6-(6-hydroxy-1,2-benzisoxazol-3-yl)benzene-1,3-diol	target	false
+CEP57	HSP90AA1	4-chloro-6-{5-[(2-morpholin-4-ylethyl)amino]-1,2-benzisoxazol-3-yl}benzene-1,3-diol	target	false
+CEP57	HSP90AA1	4-methyl-7,8-dihydro-5H-thiopyrano[4,3-d]pyrimidin-2-amine	target	false
+CEP57	HSP90AA1	4-{[(2R)-2-(2-methylphenyl)pyrrolidin-1-yl]carbonyl}benzene-1,3-diol	target	false
+CEP57	HSP90AA1	5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-(4-METHOXYPHENYL)-1H-PYRAZOLE-3-CARBOXAMIDE	target	false
+CEP57	HSP90AA1	5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-(4-METHOXYPHENYL)ISOXAZOLE-3-CARBOXAMIDE	target	false
+CEP57	HSP90AA1	5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-PIPERAZIN-1-YL-1H-PYRAZOLE-3-CARBOXAMIDE	target	false
+CEP57	HSP90AA1	5-(5-chloro-2,4-dihydroxyphenyl)-N-ethyl-4-[4-(morpholin-4-ylmethyl)phenyl]isoxazole-3-carboxamide	target	false
+CEP57	HSP90AA1	6-(3-BROMO-2-NAPHTHYL)-1,3,5-TRIAZINE-2,4-DIAMINE	target	false
+CEP57	HSP90AA1	8-(2,5-Dimethoxy-Benzyl)-2-Fluoro-9-Pent-9h-Purin-6-Ylamine	target	false
+CEP57	HSP90AA1	8-(2,5-Dimethoxy-Benzyl)-2-Fluoro-9h-Purin-6-Ylamine	target	false
+CEP57	HSP90AA1	8-(2-Chloro-3,4,5-Trimethoxy-Benzyl)-2-Fluoro-9-Pent-4-Ylnyl-9h-Purin-6-Ylamine	target	false
+CEP57	HSP90AA1	8-(2-Chloro-3,4,5-Trimethoxy-Benzyl)-9-Pent-4-Ylnyl-9h-Purin-6-Ylamine	target	false
+CEP57	HSP90AA1	8-(6-BROMO-BENZO[1,3]DIOXOL-5-YLSULFANYL)-9-(3-ISOPROPYLAMINO-PROPYL)-ADENINE	target	false
+CEP57	HSP90AA1	8-BENZO[1,3]DIOXOL-,5-YLMETHYL-9-BUTYL-9H-	target	false
+CEP57	HSP90AA1	8-Benzo[1,3]Dioxol-,5-Ylmethyl-9-Butyl-2-Fluoro-9h-Purin-6-Ylamine	target	false
+CEP57	HSP90AA1	9-Butyl-8-(2,5-Dimethoxy-Benzyl)-2-Fluoro-9h-Purin-6-Ylamine	target	false
+CEP57	HSP90AA1	9-Butyl-8-(2,5-Dimethoxy-Benzyl)-9h-Purin-6-Ylamine	target	false
+CEP57	HSP90AA1	9-Butyl-8-(2-Chloro-3,4,5-Trimethoxy-Benzyl)-9h-Purin-6-Ylamine	target	false
+CEP57	HSP90AA1	9-Butyl-8-(3,4,5-Trimethoxybenzyl)-9h-Purin-6-Amine	target	false
+CEP57	HSP90AA1	9-Butyl-8-(3-Methoxybenzyl)-9h-Purin-6-Amine	target	false
+CEP57	HSP90AA1	9-Butyl-8-(4-Methoxybenzyl)-9h-Purin-6-Amine	target	false
+CEP57	HSP90AA1	Alvespimycin	target	false
+CEP57	HSP90AA1	CCT-018159	target	false
+CEP57	HSP90AA1	Copper	target	false
+CEP57	HSP90AA1	Geldanamycin	target	false
+CEP57	HSP90AA1	N-(4-ACETYLPHENYL)-5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-1H-PYRAZOLE-4-CARBOXAMIDE	target	false
+CEP57	HSP90AA1	N-[(2-AMINO-6-METHYLPYRIMIDIN-4-YL)METHYL]-3-{[(E)-(2-OXODIHYDROFURAN-3(2H)-YLIDENE)METHYL]AMINO}BENZENESULFONAMIDE	target	false
+CEP57	HSP90AA1	N-[4-(AMINOSULFONYL)BENZYL]-5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-1H-PYRAZOLE-4-CARBOXAMIDE	target	false
+CEP57	HSP90AA1	Nedocromil	target	false
+CEP57	HSP90AA1	Polaprezinc	target	false
+CEP57	HSP90AA1	Quercetin	target	false
+CEP57	HSP90AA1	Rifabutin	target	false
+CEP57	HSP90AA1	SNX-5422	target	false
+CEP57	HSP90AA1	Tanespimycin	target	false
+CEP57	KRT8	Copper	target	false
+CEP57	KRT8	Lanoteplase	target	false
+CEP57	KRT8	Tenecteplase	target	false
+CEP57	MYC	Acetylsalicylic acid	target	false
+CEP57	MYC	Nadroparin	target	false
+CEP57	PKN1	Fostamatinib	target	false
+CEP57	RALBP1	Carbamazepine	transporter	false
+CEP57	RALBP1	Doxorubicin	transporter	false
+CEP57	RALBP1	Sorafenib	transporter	false
+CEP57	RALBP1	Vincristine	transporter	false
+CEP57	TNFRSF8	Brentuximab vedotin	target	false
+CEP57	TNFRSF8	XmAb 2513	target	false
+CEP57	TUBA4A	CYT997	target	false
+CEP57	TUBA4A	Cabazitaxel	target	false
+CEP57	TUBA4A	Epothilone D	target	false
+CEP57	TUBA4A	Patupilone	target	false
+CEP57	TUBA4A	Phenethyl Isothiocyanate	target	false
+CEP57	TUBA4A	Podofilox	target	false
+CEP57	TUBA4A	Vincristine	target	false
+CEP57	UBC	N-Formylmethionine	target	false
+CEP57	YWHAE	Fusicoccin	target	false
+CEP57	YWHAE	Phenethyl Isothiocyanate	target	false
+TRIP13	ARSA	2-Amino-3-Hydroxy-3-Phosphonooxy-Propionic Acid	target	false
+TRIP13	ARSA	4-Nitrocatechol sulfate	target	false
+TRIP13	ARSA	Micafungin	enzyme	false
+TRIP13	ARSA	Suramin	enzyme	false
+TRIP13	COMT	(3,4-DIHYDROXY-2-NITROPHENYL)(PHENYL)METHANONE	target	false
+TRIP13	COMT	2-Methoxyestradiol	target	false
+TRIP13	COMT	3,5-Dinitrocatechol	target	false
+TRIP13	COMT	7,8-dihydroxy-4-phenyl-2H-chromen-2-one	target	false
+TRIP13	COMT	Ademetionine	target	false
+TRIP13	COMT	Apomorphine	enzyme	false
+TRIP13	COMT	BIA	target	false
+TRIP13	COMT	Conjugated estrogens	enzyme	false
+TRIP13	COMT	Diethylstilbestrol	enzyme	false
+TRIP13	COMT	Dobutamine	enzyme	false
+TRIP13	COMT	Dopamine	enzyme	false
+TRIP13	COMT	Echinacoside	enzyme	false
+TRIP13	COMT	Entacapone	enzyme	false
+TRIP13	COMT	Entacapone	target	false
+TRIP13	COMT	Epinephrine	enzyme	false
+TRIP13	COMT	Estradiol	enzyme	false
+TRIP13	COMT	Ethinylestradiol	enzyme	false
+TRIP13	COMT	Methyldopa	enzyme	false
+TRIP13	COMT	Micafungin	enzyme	false
+TRIP13	COMT	N-[(E)-3-[(2R,3S,4R,5R)-5-(6-Aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]prop-2-enyl]-2,3-dihydroxy-5-nitrobenzamide	target	false
+TRIP13	COMT	Nialamide	target	false
+TRIP13	COMT	Nylidrin	enzyme	false
+TRIP13	COMT	Opicapone	target	false
+TRIP13	COMT	Phenytoin	enzyme	false
+TRIP13	COMT	Testosterone propionate	enzyme	false
+TRIP13	COMT	Tolcapone	target	false
+TRIP13	CRYZ	Cannabidiol	enzyme	false
+TRIP13	CRYZ	Dicoumarol	target	false
+TRIP13	CRYZ	Medical Cannabis	target	false
+TRIP13	CRYZ	Nabiximols	target	false
+TRIP13	CRYZ	Nicotinamide adenine dinucleotide phosphate	target	false
+TRIP13	DDAH2	Citrulline	target	false
+TRIP13	IL2RB	Aldesleukin	target	false
+TRIP13	IL2RB	Basiliximab	target	false
+TRIP13	IL2RB	Daclizumab	target	false
+TRIP13	IL2RB	Denileukin diftitox	target	false
+TRIP13	ITGB1	Antithymocyte immunoglobulin (rabbit)	target	false
+TRIP13	KYAT1	D-Phenylalanine	target	false
+TRIP13	KYAT1	Indoleacetic acid	target	false
+TRIP13	KYAT1	L-Glutamine	enzyme	false
+TRIP13	KYAT1	N(6)-(pyridoxal phosphate)-L-lysine	target	false
+TRIP13	KYAT1	Pyridoxal phosphate	target	false
+TRIP13	KYAT1	Pyridoxamine-5'-Phosphate	target	false
+TRIP13	MYC	Acetylsalicylic acid	target	false
+TRIP13	MYC	Nadroparin	target	false
+TRIP13	PI4K2B	Resveratrol	target	false
+TRIP13	PLK3	Fostamatinib	target	false
+TRIP13	POLE2	Cladribine	target	false
+TRIP13	PPP2CA	(2S,3S,4E,6E,8S,9S)-3-amino-9-methoxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid	target	false
+TRIP13	PPP2CA	2,6,8-Trimethyl-3-Amino-9-Benzyl-9-Methoxynonanoic Acid	target	false
+TRIP13	PPP2CA	Vitamin E	target	false
+TRIP13	PRKAA2	Acetylsalicylic acid	target	false
+TRIP13	PRKAA2	Adenosine phosphate	target	false
+TRIP13	PRKAA2	Fostamatinib	target	false
+TRIP13	PRKAA2	Topiramate	transporter	false
+TRIP13	PSMB8	Carfilzomib	target	false
+TRIP13	QARS1	L-Glutamine	enzyme	false
+TRIP13	RAB9A	Guanosine-5'-Diphosphate	target	false
+TRIP13	RPL35	Artenimol	target	false
+TRIP13	THRB	1-(4-HEXYLPHENYL)PROP-2-EN-1-ONE	target	false
+TRIP13	THRB	2-[4-(4-Hydroxy-3-Isopropyl-Phenoxy)-3,5-Dimethyl-Phenyl]-2h-[1,2,4]Triazine-3,5-Dione	target	false
+TRIP13	THRB	Dextrothyroxine	target	false
+TRIP13	THRB	Eprotirome	target	false
+TRIP13	THRB	GC-24	target	false
+TRIP13	THRB	KB-141	target	false
+TRIP13	THRB	Levothyroxine	target	false
+TRIP13	THRB	Liothyronine	target	false
+TRIP13	THRB	Liotrix	target	false
+TRIP13	THRB	MB07811	target	false
+TRIP13	THRB	Sobetirome	target	false
+TRIP13	THRB	Thyroid, porcine	target	false
+TRIP13	THRB	Tiratricol	target	false
+TRIP13	THRB	[3,5-Dibromo-4-(4-Hydroxy-3-Phenethylcarbamoyl-Phenoxy)-Phenyl]-Acetic Acid	target	false
+TRIP13	TPT1	Calcium Phosphate	target	false
+TRIP13	TPT1	Calcium citrate	target	false
+TRIP13	TPT1	Calcium phosphate dihydrate	target	false
+TRIP13	UBA1	Hexatantalum Dodecabromide	target	false
+TRIP13	UBA1	Quercetin	target	false
+TRIP13	UBC	N-Formylmethionine	target	false
+TRIP13	VDR	(1R,3R)-5-[(2E)-3-{(1S,3R)-2,2,3-trimethyl-3-[6,6,6-trifluoro-5-hydroxy-5-(trifluoromethyl)hex-3-yn-1-yl]cyclopentyl}prop-2-en-1-ylidene]cyclohexane-1,3-diol	target	false
+TRIP13	VDR	1,3-CYCLOHEXANEDIOL, 4-METHYLENE-5-[(2E)-[(1S,3AS,7AS)-OCTAHYDRO-1-(5-HYDROXY-5-METHYL-1,3-HEXADIYNYL)-7A-METHYL-4H-INDEN-4-YLIDENE]ETHYLIDENE]-, (1R,3S,5Z)	target	false
+TRIP13	VDR	Alfacalcidol	target	false
+TRIP13	VDR	Becocalcidiol	target	false
+TRIP13	VDR	CTA018	target	false
+TRIP13	VDR	Calcifediol	target	false
+TRIP13	VDR	Calcipotriol	target	false
+TRIP13	VDR	Calcitriol	target	false
+TRIP13	VDR	Cholecalciferol	target	false
+TRIP13	VDR	Cholesterol	target	false
+TRIP13	VDR	Curcumin	target	false
+TRIP13	VDR	Curcumin sulfate	target	false
+TRIP13	VDR	Dihydrotachysterol	target	false
+TRIP13	VDR	Doxercalciferol	target	false
+TRIP13	VDR	Eldecalcitol	target	false
+TRIP13	VDR	Elocalcitol	target	false
+TRIP13	VDR	Ergocalciferol	target	false
+TRIP13	VDR	Inecalcitol	target	false
+TRIP13	VDR	Lexacalcitol	target	false
+TRIP13	VDR	Paricalcitol	target	false
+TRIP13	VDR	Seocalcitol	target	false
+TRIP13	VDR	Vitamin D	target	false

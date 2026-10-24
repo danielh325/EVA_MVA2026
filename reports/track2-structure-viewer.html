@@ -1,0 +1,260 @@
+<title>BubR1 Variant Explorer</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: control rail left, structure canvas right; stacks on phones.
+   Palette matches the report's figures so the 3D view reads as the same system. */
+:root{
+  --paper:#fbfbfa; --panel:#f3f3f1; --rule:#e0e0dc; --canvas:#eef0ee;
+  --ink:#1a1b1a; --ink-2:#55574f; --ink-3:#83857c;
+  --query:#1f5fab; --destab:#c2521f; --tolerated:#17795a; --pocket:#7c6ca8;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#15161a; --panel:#1d1f24; --rule:#30333a; --canvas:#0e0f12;
+  --ink:#e9eaec; --ink-2:#a9adb6; --ink-3:#7d818b;
+  --query:#6fa8ea; --destab:#f08a56; --tolerated:#49c49b; --pocket:#b3a5dd;
+  color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --paper:#15161a; --panel:#1d1f24; --rule:#30333a; --canvas:#0e0f12;
+  --ink:#e9eaec; --ink-2:#a9adb6; --ink-3:#7d818b;
+  --query:#6fa8ea; --destab:#f08a56; --tolerated:#49c49b; --pocket:#b3a5dd;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);
+  font-size:14px;line-height:1.5;-webkit-text-size-adjust:100%}
+body::before{content:"";position:fixed;inset:0 0 auto;
+  height:env(safe-area-inset-top,0px);background:var(--paper);z-index:20}
+.gutter{padding-left:max(16px,env(safe-area-inset-left,0px));
+  padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{padding-block:22px 16px;border-bottom:1px solid var(--rule)}
+h1{font-size:clamp(20px,4.4vw,27px);font-weight:600;letter-spacing:-.02em;
+  margin:0;text-wrap:balance}
+.sub{color:var(--ink-2);margin:8px 0 0;max-width:72ch;font-size:14px}
+.layout{display:grid;grid-template-columns:300px 1fr;gap:18px;
+  padding-block:18px 28px;align-items:start}
+@media (max-width:820px){.layout{grid-template-columns:1fr}}
+#viewer{position:relative;width:100%;height:min(74vh,620px);min-height:380px;
+  border:1px solid var(--rule);border-radius:9px;background:var(--canvas);
+  overflow:hidden}
+#viewer canvas{border-radius:8px}
+.rail{display:flex;flex-direction:column;gap:14px;min-width:0}
+.card{background:var(--panel);border:1px solid var(--rule);border-radius:9px;
+  padding:13px 14px}
+.card h2{font-size:11px;font-weight:600;letter-spacing:.07em;
+  text-transform:uppercase;color:var(--ink-3);margin:0 0 10px}
+.res{display:flex;align-items:center;gap:9px;width:100%;text-align:left;
+  background:none;border:0;padding:6px 7px;border-radius:6px;cursor:pointer;
+  font:inherit;color:var(--ink)}
+.res:hover{background:var(--paper)}
+.res[aria-pressed="true"]{background:var(--paper);
+  box-shadow:inset 0 0 0 1.5px currentColor}
+.dot{width:10px;height:10px;border-radius:50%;flex:0 0 auto}
+.res .nm{font-family:var(--mono);font-size:12.5px;font-weight:500}
+.res .tag{margin-left:auto;font-size:10.5px;color:var(--ink-3);
+  white-space:nowrap}
+.q{color:var(--query)} .d{color:var(--destab)}
+.t{color:var(--tolerated)} .p{color:var(--pocket)}
+.modes{display:flex;flex-wrap:wrap;gap:6px}
+.modes button{font:inherit;font-size:12px;padding:5px 10px;border-radius:6px;
+  border:1px solid var(--rule);background:var(--paper);color:var(--ink-2);
+  cursor:pointer}
+.modes button[aria-pressed="true"]{background:var(--query);color:#fff;
+  border-color:var(--query)}
+dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:5px 12px;
+  font-size:12.5px}
+dt{color:var(--ink-3)}
+dd{margin:0;font-family:var(--mono);font-variant-numeric:tabular-nums;
+  text-align:right}
+.note{font-size:12px;color:var(--ink-3);line-height:1.45;margin:0}
+.badge{position:absolute;left:12px;bottom:12px;background:var(--panel);
+  border:1px solid var(--rule);border-radius:7px;padding:7px 10px;
+  font-size:11.5px;color:var(--ink-2);max-width:min(340px,70%);
+  pointer-events:none}
+.loading{position:absolute;inset:0;display:grid;place-items:center;
+  color:var(--ink-3);font-size:13px}
+footer{border-top:1px solid var(--rule);padding-block:16px 30px;
+  font-size:12px;color:var(--ink-3)}
+footer p{margin:0 0 6px;max-width:80ch}
+a{color:var(--query)}
+:focus-visible{outline:2px solid var(--query);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<header class="gutter">
+  <h1>BubR1 variant explorer &mdash; where <span style="font-family:var(--mono);font-size:.82em">p.Asn1002Lys</span> sits</h1>
+  <p class="sub">AlphaFold model <span style="font-family:var(--mono)">AF-O60566-F1-v6</span> of human BubR1 (1,050 aa). The query variant is shown against <em>BUB1B</em> alleles whose behaviour is already measured &mdash; the calibration set from &sect;2.0 of the Track&nbsp;2 report. Click any residue to focus it.</p>
+</header>
+
+<main class="layout gutter">
+  <section class="rail" aria-label="Structure controls">
+    <div class="card">
+      <h2>Colour by</h2>
+      <div class="modes" id="modes">
+        <button data-mode="class" aria-pressed="true">Allele class</button>
+        <button data-mode="plddt" aria-pressed="false">pLDDT</button>
+        <button data-mode="domain" aria-pressed="false">Domain</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Residues</h2>
+      <div id="reslist"></div>
+    </div>
+
+    <div class="card">
+      <h2>Selected</h2>
+      <dl id="facts"><dt>&mdash;</dt><dd>&mdash;</dd></dl>
+      <p class="note" id="selnote" style="margin-top:10px"></p>
+    </div>
+
+    <div class="card">
+      <h2>Read this carefully</h2>
+      <p class="note">AlphaFold predicts the <strong>wild-type</strong> fold. It is not a stability predictor, and nothing here shows what the mutant does. Burial and packing are correlates of substitution tolerance, not energies &mdash; and in this protein the calibration <strong>fails</strong>: Tyr155Cys is tolerated at 0.7% accessibility, more buried than two of the three destabilising alleles.</p>
+    </div>
+  </section>
+
+  <section id="viewer" aria-label="Three-dimensional structure">
+    <p class="loading" id="loading">loading structure&hellip;</p>
+    <p class="badge" id="badge">Pseudokinase domain 766&ndash;1050 shown in colour; the rest of the chain is dimmed.</p>
+  </section>
+</main>
+
+<footer class="gutter">
+  <p>Measurements from <span style="font-family:var(--mono)">21_structure_stability_context.py</span>; solvent accessibility by Shrake&ndash;Rupley, contacts within 10&nbsp;&Aring; of C&beta;, distances C&beta;&ndash;C&beta;. Structure: AlphaFold DB entry <a href="https://alphafold.ebi.ac.uk/entry/O60566">O60566</a>, v6.</p>
+  <p>Rendering by 3Dmol.js. No claim on this page is a functional result &mdash; <span style="font-family:var(--mono)">p.Asn1002Lys</span> has never been assayed.</p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/3Dmol/2.1.0/3Dmol-min.js"></script>
+<script>
+const RES = [
+  {id:1002, aa:"Asn", mut:"Lys", cls:"query",      tag:"never assayed",
+   rsa:14.1, cont:136, plddt:91.1, pct:52, pocket:22.6,
+   note:"14.1% accessibility, median burial for its own domain, in a 6-of-8 hydrophobic neighbourhood. Asn→Lys puts a longer, positively charged side chain there."},
+  {id:795,  aa:"Lys", mut:"Ala", cls:"destab",     tag:"destabilising",
+   rsa:4.8, cont:185, plddt:89.1, pct:67, pocket:0,
+   note:"Measured: denaturation 34.7 °C against 39.1 °C wild type. A pocket residue."},
+  {id:909,  aa:"Ile", mut:"Thr", cls:"destab",     tag:"destabilising",
+   rsa:3.7, cont:180, plddt:87.0, pct:73, pocket:7.4,
+   note:"Measured: 5–10 fold protein loss in MVA patient cells."},
+  {id:1012, aa:"Leu", mut:"Pro", cls:"destab",     tag:"destabilising",
+   rsa:0.4, cont:188, plddt:95.3, pct:90, pocket:17.7,
+   note:"Measured: 5–10 fold protein loss. Also 17.7 Å from the pocket — so distance from the pocket does not separate the classes."},
+  {id:155,  aa:"Tyr", mut:"Cys", cls:"tolerated",  tag:"tolerated",
+   rsa:0.7, cont:217, plddt:96.3, pct:null, pocket:67.0,
+   note:"Measured: protein level unaffected — yet almost fully buried. This is the control failure: burial alone cannot call a variant here."},
+  {id:550,  aa:"Arg", mut:"Gln", cls:"tolerated",  tag:"tolerated",
+   rsa:80.5, cont:30, plddt:35.3, pct:null, pocket:67.0,
+   note:"Measured: protein level unaffected. Fully exposed, and pLDDT 35 — a disordered linker."},
+  {id:882,  aa:"Asp", mut:null,  cls:"pocket",     tag:"catalytic triad",
+   rsa:null, cont:null, plddt:null, pct:null, pocket:0,
+   note:"Annotated catalytic proton acceptor. The triad is intact; the domain still phosphorylates nothing."},
+  {id:911,  aa:"Asp", mut:null,  cls:"pocket",     tag:"catalytic triad",
+   rsa:null, cont:null, plddt:null, pct:null, pocket:0, note:"Catalytic triad residue."}
+];
+const NEIGH = [977,978,998,999,1000,1001,1003,1004];
+const CSS = {query:"--query", destab:"--destab", tolerated:"--tolerated", pocket:"--pocket"};
+const cvar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+
+let viewer = null, model = null, mode = "class", selected = 1002;
+
+const list = document.getElementById("reslist");
+RES.forEach(r => {
+  const b = document.createElement("button");
+  b.className = "res " + r.cls[0];
+  b.setAttribute("aria-pressed", String(r.id === selected));
+  b.dataset.id = r.id;
+  b.innerHTML = `<span class="dot" style="background:currentColor"></span>
+    <span class="nm">${r.aa}${r.id}${r.mut ? r.mut : ""}</span>
+    <span class="tag">${r.tag}</span>`;
+  b.onclick = () => select(r.id);
+  list.appendChild(b);
+});
+
+function facts(r){
+  const rows = [];
+  if (r.rsa !== null) rows.push(["Solvent accessibility", r.rsa.toFixed(1) + "%"]);
+  if (r.cont !== null) rows.push(["Contacts within 10 Å", r.cont]);
+  if (r.pct !== null) rows.push(["Burial percentile in domain", r.pct]);
+  if (r.plddt !== null) rows.push(["pLDDT", r.plddt.toFixed(1)]);
+  if (r.pocket) rows.push(["Nearest pocket residue", r.pocket.toFixed(1) + " Å"]);
+  document.getElementById("facts").innerHTML =
+    rows.map(([k,v]) => `<dt>${k}</dt><dd>${v}</dd>`).join("") || "<dt>&mdash;</dt><dd>&mdash;</dd>";
+  document.getElementById("selnote").textContent = r.note;
+}
+
+function paint(){
+  if (!viewer || !model) return;
+  viewer.setStyle({}, {cartoon:{color:"#9a9a94", opacity:0.45}});
+  if (mode === "domain"){
+    viewer.setStyle({resi:"766-1050"}, {cartoon:{color:cvar("--query"), opacity:0.95}});
+  } else if (mode === "plddt"){
+    viewer.setStyle({}, {cartoon:{colorscheme:{prop:"b",
+      gradient:"roygb", min:50, max:95}, opacity:0.95}});
+  } else {
+    viewer.setStyle({resi:"766-1050"}, {cartoon:{color:"#b9bcb6", opacity:0.9}});
+    RES.forEach(r => viewer.setStyle({resi:r.id},
+      {cartoon:{color:cvar(CSS[r.cls])}, stick:{colorscheme:"greenCarbon",
+       color:cvar(CSS[r.cls]), radius:0.22}}));
+  }
+  const sel = RES.find(r => r.id === selected);
+  if (sel){
+    viewer.setStyle({resi:sel.id}, {stick:{color:cvar(CSS[sel.cls]), radius:0.34},
+                                    cartoon:{color:cvar(CSS[sel.cls])}});
+    viewer.addResLabels({resi:sel.id}, {font:"IBM Plex Mono", fontSize:11,
+      fontColor:cvar("--ink"), backgroundColor:cvar("--panel"),
+      backgroundOpacity:0.85, showBackground:true});
+    if (sel.id === 1002){
+      NEIGH.forEach(n => viewer.setStyle({resi:n},
+        {stick:{color:"#9a9a94", radius:0.14}, cartoon:{color:"#b9bcb6"}}));
+    }
+    viewer.zoomTo({resi:sel.id});
+    viewer.zoom(0.45);
+  }
+  viewer.render();
+}
+
+function select(id){
+  selected = id;
+  document.querySelectorAll(".res").forEach(b =>
+    b.setAttribute("aria-pressed", String(+b.dataset.id === id)));
+  const r = RES.find(x => x.id === id);
+  facts(r);
+  document.getElementById("badge").textContent =
+    `${r.aa}${id}${r.mut || ""} — ${r.tag}`;
+  paint();
+}
+
+document.getElementById("modes").onclick = e => {
+  const b = e.target.closest("button"); if (!b) return;
+  mode = b.dataset.mode;
+  document.querySelectorAll("#modes button").forEach(x =>
+    x.setAttribute("aria-pressed", String(x === b)));
+  document.getElementById("badge").textContent = mode === "plddt"
+    ? "Coloured by pLDDT: red low confidence → blue high."
+    : mode === "domain"
+      ? "Pseudokinase domain 766–1050 highlighted."
+      : "Coloured by measured allele class.";
+  paint();
+};
+
+fetch("structure/bubr1-af-O60566.pdb")
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+  .then(pdb => {
+    document.getElementById("loading").remove();
+    viewer = $3Dmol.createViewer(document.getElementById("viewer"),
+      {backgroundColor:cvar("--canvas")});
+    model = viewer.addModel(pdb, "pdb");
+    select(1002);
+    viewer.render();
+  })
+  .catch(err => {
+    const el = document.getElementById("loading");
+    if (el) el.textContent = "could not load the structure file (" + err.message + ")";
+  });
+</script>

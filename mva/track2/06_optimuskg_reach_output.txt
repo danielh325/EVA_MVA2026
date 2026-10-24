@@ -1,0 +1,48 @@
+OptimusKG: 325,043 interaction pairs, 36,611 drug-gene edges
+
+per MVA gene:
+  BUB1B     96 interactors   349 drugs
+  BUB1     167 interactors   536 drugs
+  BUB3      69 interactors    99 drugs
+  CEP57     57 interactors   185 drugs
+  TRIP13   142 interactors   156 drugs
+
+942 distinct drugs reachable in two hops (1501 seed-interactor-drug-kind rows)
+  920 through at least one non-ADME edge (kind not in carrier, enzyme, transporter); 22 only through metabolism or transport
+  41 reached through a checkpoint-weakening interactor
+
+edge kinds among reachable drug rows:
+  target                           756
+  inhibitor                        503
+  agonist                          128
+  antagonist                       43
+  enzyme                           22
+  stabiliser                       11
+  binding_agent                    10
+  transporter                      7
+  disrupting_agent                 6
+  modulator                        5
+  vaccine_antigen                  2
+  antisense_inhibitor              2
+  negative_allosteric_modulator    1
+  carrier                          1
+  positive_modulator               1
+  other                            1
+  exogenous_gene                   1
+  activator                        1
+
+watch list:
+  nicotinamide riboside  present (CHEMBL438497), not reachable
+  nicotinamide           reachable via BUB1B-PARP1 (target), BUB3-PARP1 (target)
+  niacin                 present (CHEMBL573), not reachable
+  acadesine              reachable via TRIP13-PRKAA2 (activator)
+  chloroquine            present (CHEMBL76), not reachable
+  hydroxychloroquine     present (CHEMBL1535), not reachable
+  dasatinib              present (CHEMBL1421), not reachable
+  quercetin              reachable via BUB3-UBA1 (target), CEP57-HSP90AA1 (target), TRIP13-UBA1 (target)
+  tanespimycin           reachable via CEP57-HSP90AA1 (inhibitor)
+  metformin              reachable via BUB1B-NDUFA2 (inhibitor)
+  cambinol               reachable via BUB1B-SIRT2 (target)
+  reversine              reachable via BUB1B-AURKB (target)  [!] via a checkpoint-weakening protein
+
+wrote 06_optimuskg_reach.tsv (1501 rows)

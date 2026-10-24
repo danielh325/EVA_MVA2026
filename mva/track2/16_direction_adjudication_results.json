@@ -1,0 +1,15 @@
+{
+ "seed": 20261022,
+ "noise_band": 0.2,
+ "sampled": 200,
+ "stats": {
+  "UNANSWERABLE from title \u2014 endpoint is a downstream proxy": 90,
+  "class B": 108,
+  "AMBIGUOUS \u2014 endpoint not identifiable from the description": 74,
+  "class no-endpoint-clause": 74,
+  "TITLE CORRECT \u2014 endpoint is the target, directions agree": 14,
+  "class A": 18,
+  "AMBIGUOUS \u2014 value inside the noise band": 21,
+  "TITLE WRONG \u2014 endpoint is the target, directions disagree": 1
+ }
+}

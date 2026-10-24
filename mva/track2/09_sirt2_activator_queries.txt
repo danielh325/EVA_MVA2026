@@ -1,0 +1,28 @@
+Task E queries, retrieved 2026-10-20
+
+[ChEMBL activity count CHEMBL4462]
+  https://www.ebi.ac.uk/chembl/api/data/activity.json?target_chembl_id=CHEMBL4462&limit=1
+[ChEMBL activities offset=0]
+  https://www.ebi.ac.uk/chembl/api/data/activity.json?target_chembl_id=CHEMBL4462&limit=1000&offset=0
+[ChEMBL activities offset=1000]
+  https://www.ebi.ac.uk/chembl/api/data/activity.json?target_chembl_id=CHEMBL4462&limit=1000&offset=1000
+[ChEMBL activities offset=2000]
+  https://www.ebi.ac.uk/chembl/api/data/activity.json?target_chembl_id=CHEMBL4462&limit=1000&offset=2000
+[ChEMBL activities offset=3000]
+  https://www.ebi.ac.uk/chembl/api/data/activity.json?target_chembl_id=CHEMBL4462&limit=1000&offset=3000
+[ChEMBL activities offset=4000]
+  https://www.ebi.ac.uk/chembl/api/data/activity.json?target_chembl_id=CHEMBL4462&limit=1000&offset=4000
+[PubMed esearch: "SIRT2"[tiab] AND ("activator"[tiab] OR "activators"[tiab])]
+  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=0&term=%22SIRT2%22%5Btiab%5D%20AND%20%28%22activator%22%5Btiab%5D%20OR%20%22activators%22%5Btiab%5D%29
+[PubMed esearch: "SIRT2 activator"[tiab]]
+  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=0&term=%22SIRT2%20activator%22%5Btiab%5D
+[PubMed esearch: "sirtuin activating compound"[tiab]]
+  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=0&term=%22sirtuin%20activating%20compound%22%5Btiab%5D
+[PubMed esearch: "SIRT1"[tiab] AND ("activator"[tiab] OR "activators"[tiab])]
+  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=0&term=%22SIRT1%22%5Btiab%5D%20AND%20%28%22activator%22%5Btiab%5D%20OR%20%22activators%22%5Btiab%5D%29
+[PubMed esearch: "nicotinamide riboside"[tiab] AND "SIRT2"[tiab]]
+  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=0&term=%22nicotinamide%20riboside%22%5Btiab%5D%20AND%20%22SIRT2%22%5Btiab%5D
+[PubMed esearch: "BubR1"[tiab] AND "SIRT2"[tiab]]
+  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=0&term=%22BubR1%22%5Btiab%5D%20AND%20%22SIRT2%22%5Btiab%5D
+[PubMed esearch: "BUB1B"[tiab] AND ("NAD"[tiab] OR "nicotinamide"[tiab])]
+  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=0&term=%22BUB1B%22%5Btiab%5D%20AND%20%28%22NAD%22%5Btiab%5D%20OR%20%22nicotinamide%22%5Btiab%5D%29
